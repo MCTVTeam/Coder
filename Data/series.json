@@ -819,6 +819,76 @@
       ],
       "catagory": "Korea",
       "studio": "Korea"
-    }
+    },{
+    "movietitle": "Grand Prince (Korea 2013)",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d6360ad1b31b.jpg",
+    "link": [
+      {
+          "ep_no": "EP 1",
+          "link": "http://www.zegomovie.com/Videos/GrandPrinceEp1/index.m3u8"
+        },{
+          "ep_no": "EP 2",
+          "link": "http://www.zegomovie.com/Videos/GrandPrinceEp2/index.m3u8"
+        },{
+          "ep_no": "EP 3",
+          "link": "http://www.zegomovie.com/Videos/GrandPrinceEp3/index.m3u8"
+        },{
+          "ep_no": "EP 4",
+          "link": "http://www.zegomovie.com/Videos/GrandPrinceEp4/index.m3u8"
+        },{
+          "ep_no": "EP 5",
+          "link": "http://www.zegomovie.com/Videos/GrandPrinceEp5/index.m3u8"
+        },{
+          "ep_no": "EP 6",
+          "link": "http://www.zegomovie.com/Videos/GrandPrinceEp6/index.m3u8"
+        },{
+          "ep_no": "EP 7",
+          "link": "http://www.zegomovie.com/Videos/GrandPrinceEp7/index.m3u8"
+        },{
+          "ep_no": "EP 8",
+          "link": "http://www.zegomovie.com/Videos/GrandPrinceEp8/index.m3u8"
+        },{
+          "ep_no": "EP 9",
+          "link": "http://www.zegomovie.com/Videos/GrandPrinceEp9/index.m3u8"
+        },{
+          "ep_no": "EP 10",
+          "link": "http://www.zegomovie.com/Videos/GrandPrinceEp10/index.m3u8"
+        },{
+          "ep_no": "EP 11",
+          "link": "http://www.zegomovie.com/Videos/GrandPrinceEp11/index.m3u8"
+        },{
+          "ep_no": "EP 12",
+          "link": "http://www.zegomovie.com/Videos/GrandPrinceEp12/index.m3u8"
+        },{
+          "ep_no": "EP 13",
+          "link": "http://www.zegomovie.com/Videos/GrandPrinceEp13/index.m3u8"
+        },{
+          "ep_no": "EP 14",
+          "link": "http://www.zegomovie.com/Videos/GrandPrinceEp14/index.m3u8"
+        },{
+          "ep_no": "EP 15",
+          "link": "http://www.zegomovie.com/Videos/GrandPrinceEp15/index.m3u8"
+        },{
+          "ep_no": "EP 16",
+          "link": "http://www.zegomovie.com/Videos/GrandPrinceEp16/index.m3u8"
+        },{
+          "ep_no": "EP 17",
+          "link": "http://www.zegomovie.com/Videos/GrandPrinceEp17/index.m3u8"
+        },{
+          "ep_no": "EP 18",
+          "link": "http://www.zegomovie.com/Videos/GrandPrinceEp18/index.m3u8"
+        },{
+          "ep_no": "EP 19",
+          "link": "http://www.zegomovie.com/Videos/GrandPrinceEp19/index.m3u8"
+        },{
+          "ep_no": "EP 20",
+          "link": "http://www.zegomovie.com/Videos/GrandPrinceEp20/index.m3u8"
+        }
+    
+    ],
+    "catagory": "Korea",
+    "studio": "Korea"
+  }
   ]
 }
