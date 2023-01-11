@@ -1,0 +1,19 @@
+{
+
+
+    "DB_AppData":[
+
+        {
+
+            "appversion":"5.0",
+            "updatemessage":"Fix Bug & Add Next Play Button",
+            "facebookprofile":"komoenet",
+            "moviedatasize":"10",
+            "tvdatasize":"10",
+            "channelURL":"https://appmmdev.github.io/MCTVApp/Data/tvchannel.json",
+            "movieURL":"https://mctvteam.github.io/Coder/Data/movies.json",
+            "seriesURL":"https://appmmdev.github.io/MCTVApp/Data/series.json"
+            
+        }
+    ]
+}
