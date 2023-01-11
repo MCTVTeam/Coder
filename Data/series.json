@@ -1,9 +1,9 @@
 {
   "Series_Database": [
     {
-      "movietitle": "Live",
+      "title": "Live",
       "description": "This App is Designed for myanmar people",
-      "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d63625aa3676.jpg",
+      "img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d63625aa3676.jpg",
       "search": [
         {
           "ep_no": "EP 1",
@@ -82,9 +82,9 @@
       "studio": "Korea"
     },
     {
-      "movietitle": "IRIS",
+      "title": "IRIS",
       "description": "This App is Designed for myanmar people",
-      "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d636857ae2e4.jpg",
+      "img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d636857ae2e4.jpg",
       "search": [
         {
           "ep_no": "EP 1",
@@ -171,9 +171,9 @@
       "studio": "Korea"
     },
     {
-      "movietitle": "Loki",
+      "title": "Loki",
       "description": "This App is Designed for myanmar people",
-      "movie_img": "http://zegomovie.com/Uploads/vod/2021-08-25/6125fad14bc7a.jpg",
+      "img": "http://zegomovie.com/Uploads/vod/2021-08-25/6125fad14bc7a.jpg",
       "search": [
         {
           "ep_no": "EP 1",
@@ -184,9 +184,9 @@
       "catagory": "Marvel",
       "studio": "Marvel"
     },{
-      "movietitle": "SE 1 Agents of SHIELD",
+      "title": "SE 1 Agents of SHIELD",
       "description": "This App is Designed for myanmar people",
-      "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d63547f14cd2.jpg",
+      "img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d63547f14cd2.jpg",
       "search": [
         {
           "ep_no": "EP 1",
@@ -280,9 +280,9 @@
       "catagory": "Marvel",
       "studio": "Marvel"
     },{
-      "movietitle": "SE 2 Agents of SHIELD",
+      "title": "SE 2 Agents of SHIELD",
       "description": "This App is Designed for myanmar people",
-      "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d63547f14cd2.jpg",
+      "img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d63547f14cd2.jpg",
       "search": [
         {
           "ep_no": "EP 1",
@@ -376,9 +376,9 @@
       "catagory": "Marvel",
       "studio": "Marvel"
     },{
-      "movietitle": "SE 3 Agents of SHIELD",
+      "title": "SE 3 Agents of SHIELD",
       "description": "This App is Designed for myanmar people",
-      "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d63547f14cd2.jpg",
+      "img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d63547f14cd2.jpg",
       "search": [
         {
           "ep_no": "EP 1",
@@ -472,9 +472,9 @@
       "catagory": "Marvel",
       "studio": "Marvel"
     },{
-      "movietitle": "SE 4 Agents of SHIELD",
+      "title": "SE 4 Agents of SHIELD",
       "description": "This App is Designed for myanmar people",
-      "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d63547f14cd2.jpg",
+      "img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d63547f14cd2.jpg",
       "search": [
         {
           "ep_no": "EP 1",
@@ -568,9 +568,9 @@
       "catagory": "Marvel",
       "studio": "Marvel"
     },{
-      "movietitle": "SE 5 Agents of SHIELD",
+      "title": "SE 5 Agents of SHIELD",
       "description": "This App is Designed for myanmar people",
-      "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d63547f14cd2.jpg",
+      "img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d63547f14cd2.jpg",
       "search": [
         {
           "ep_no": "EP 1",
@@ -604,9 +604,9 @@
       "catagory": "Marvel",
       "studio": "Marvel"
     },{
-      "movietitle": "Sherlock Homes Season 1",
+      "title": "Sherlock Homes Season 1",
       "description": "This App is Designed for myanmar people",
-      "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60e673d5762.jpg",
+      "img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60e673d5762.jpg",
       "search": [
         {
           "ep_no": "EP 1",
@@ -625,9 +625,9 @@
       "catagory": "USA",
       "studio": "USA"
     },{
-      "movietitle": "Sherlock Homes Season 2",
+      "title": "Sherlock Homes Season 2",
       "description": "This App is Designed for myanmar people",
-      "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60e673d5762.jpg",
+      "img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60e673d5762.jpg",
       "search": [
         {
           "ep_no": "EP 1",
@@ -646,9 +646,9 @@
       "catagory": "USA",
       "studio": "USA"
     },{
-      "movietitle": "Sherlock Homes Season 3",
+      "title": "Sherlock Homes Season 3",
       "description": "This App is Designed for myanmar people",
-      "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60e673d5762.jpg",
+      "img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60e673d5762.jpg",
       "search": [
         {
           "ep_no": "EP 1",
@@ -671,9 +671,9 @@
       "catagory": "USA",
       "studio": "USA"
     },{
-      "movietitle": "Sherlock Homes Season 4",
+      "title": "Sherlock Homes Season 4",
       "description": "This App is Designed for myanmar people",
-      "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60e673d5762.jpg",
+      "img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60e673d5762.jpg",
       "search": [
         {
           "ep_no": "EP 1",
@@ -692,9 +692,9 @@
       "catagory": "USA",
       "studio": "USA"
     },{
-      "movietitle": "BigMouth",
+      "title": "BigMouth",
       "description": "This App is Designed for myanmar people",
-      "movie_img": "http://zegomovie.com/Uploads/vod/2022-08-20/6300a24ddddff.jpg",
+      "img": "http://zegomovie.com/Uploads/vod/2022-08-20/6300a24ddddff.jpg",
       "search": [
         {
           "ep_no": "EP 1",
@@ -750,9 +750,9 @@
       "catagory": "Korea",
       "studio": "Korea"
     },{
-      "movietitle": "Good Doctor (Korea 2013)",
+      "title": "Good Doctor (Korea 2013)",
       "description": "This App is Designed for myanmar people",
-      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-28/5d15ce6c924fa.jpg",
+      "img": "http://zegomovie.com/Uploads/vod/2019-06-28/5d15ce6c924fa.jpg",
       "search": [
         {
             "ep_no": "EP 1",
