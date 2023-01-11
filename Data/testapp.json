@@ -1,0 +1,16 @@
+{
+
+
+    "DB_AppData":[
+
+        {
+
+            "appversion":"6.0",
+            "updatemessage":"Fix First Open Crash.",
+            "channelURL":"https://mctvteam.github.io/Coder/Data/tvchannel.json",
+            "movieURL":"https://mctvteam.github.io/Coder/Data/movies.json",
+            "seriesURL":"https://mctvteam.github.io/Coder/Data/series.json"
+            
+        }
+    ]
+}
