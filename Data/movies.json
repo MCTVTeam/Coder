@@ -3,6 +3,13 @@
    
    
   {
+      "movietitle": "Yaanai",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-12/63bf72628c5d1.PNG",
+      "link": "http://www.zegomovie.com/Videos/Yaanai/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
       "movietitle": "Vikram",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-10/63bd0ec70f360.PNG",
