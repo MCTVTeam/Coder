@@ -3,11 +3,6 @@
    
    {
       "channelname": "ONE Fight Night 6: Superbon vs. Allazov",
-      "link": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1673691154/ei/sivCY8ujC9OX8QOVzpzYCw/ip/103.135.216.212/id/UtbJJzbwEfk.3/source/yt_live_broadcast/requiressl/yes/tx/24438932/txs/24438928%2C24438929%2C24438930%2C24438931%2C24438932%2C24438933%2C24438934/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/mm/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAP6VxRiZAjVBRuCPIAnq4iZDvGWjLO55C3vIiV5uxelxAiEAuvNqs_GvgHpNk8VFCgxroEgLXF-ZLL0MRs59gUERzRc%3D/file/index.m3u8",
-      "preview_img": "https://media.globalcitizen.org/thumbnails/4d/35/4d354392-1bf8-4ad8-8880-7458dd4603e0/one_championship-logo-black_on_white.png__400x283_q85_crop_subsampling-2_upscale.png",
-     "channel": "TVChannel"
-    },{
-      "channelname": "ONE Fight Night 6: Superbon vs. Allazov",
       "link": "UtbJJzbwEfk",
       "preview_img": "https://media.globalcitizen.org/thumbnails/4d/35/4d354392-1bf8-4ad8-8880-7458dd4603e0/one_championship-logo-black_on_white.png__400x283_q85_crop_subsampling-2_upscale.png",
      "channel": "Youtube"
