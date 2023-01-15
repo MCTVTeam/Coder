@@ -3,6 +3,41 @@
    
    
     {
+      "movietitle": "Pidikittapulli",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-14/63c231a11f990.png",
+      "link": "http://www.zegomovie.com/Videos/Pidikittapulli/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Jallikattu",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-13/63c113fea73e1.PNG",
+      "link": "http://www.zegomovie.com/Videos/Jallikattu/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Mishan Impossible",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-15/63c3841a839d4.png",
+      "link": "http://www.zegomovie.com/Videos/MishanImpossible/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Crrush",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-15/63c37569e1ff3.png",
+      "link": "http://www.zegomovie.com/Videos/Crrush/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Confessions of an Invisible Girl",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-15/63c376261130f.png",
+      "link": "http://www.zegomovie.com/Videos/CofessionsofanInvisibleGirl/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
       "movietitle": "8 x 10 Tasveer",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-13/63c1112e35d6e.PNG",
