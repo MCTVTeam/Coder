@@ -3,6 +3,13 @@
    
    
    {
+      "movietitle": "Pidikittapulli",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-14/63c231a11f990.png",
+      "link": "http://www.zegomovie.com/Videos/Pidikittapulli/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
       "movietitle": "Jallikattu",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-13/63c113fea73e1.PNG",
