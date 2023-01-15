@@ -1,0 +1,30 @@
+{
+  "Movies_Database": [
+   
+   
+   {
+      "movietitle": "Jallikattu",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-13/63c113fea73e1.PNG",
+      "link": "http://www.zegomovie.com/Videos/Jallikattu/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "8 x 10 Tasveer",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-13/63c1112e35d6e.PNG",
+      "link": "http://www.zegomovie.com/Videos/8X10Tasveer/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Rowdy Rathore",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-22/5d5e11389b340.jpg",
+      "link": "http://www.zegomovie.com/Videos/RowdyRathore/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    }
+    
+    ]
+  
+}
