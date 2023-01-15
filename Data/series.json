@@ -1,41 +1,41 @@
 {
   "Series_Database": [
     {
-    "movietitle": "The Glory (2022)",
-    "description": "This App is Designed for myanmar people",
-    "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-10/63bcd9bde3ae4.jpg",
-    "link": [
+  "movietitle": "The Glory (2022)",
+  "description": "This App is Designed for myanmar people",
+  "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-10/63bcd9bde3ae4.jpg",
+  "link": [
 
-      {
-        "ep_no": "EP 1",
-        "link": "http://www.zegomovie.com/Videos/TheGloryS01Ep1/index.m3u8"
-      },{
-        "ep_no": "EP 2",
-        "link": "http://www.zegomovie.com/Videos/TheGloryS01Ep2/index.m3u8"
-      },{
-        "ep_no": "EP 3",
-        "link": "http://www.zegomovie.com/Videos/TheGloryS01Ep3/index.m3u8"
-      },{
-        "ep_no": "EP 4",
-        "link": "http://www.zegomovie.com/Videos/TheGloryS01Ep4/index.m3u8"
-      },{
-        "ep_no": "EP 5",
-        "link": "http://www.zegomovie.com/Videos/TheGloryS01Ep5/index.m3u8"
-      },{
-        "ep_no": "EP 6",
-        "link": "http://www.zegomovie.com/Videos/TheGloryS01Ep6/index.m3u8"
-      },{
-        "ep_no": "EP 7",
-        "link": "http://www.zegomovie.com/Videos/TheGloryS01Ep7/index.m3u8"
-      },{
-        "ep_no": "EP 8(END)",
-        "link": "http://www.zegomovie.com/Videos/TheGloryS01Ep8/index.m3u8"
-      }
-      
-    ],
-    "catagory": "Korea",
-    "studio": "Korea"
-  },{
+    {
+      "ep_no": "EP 1",
+      "link": "http://www.zegomovie.com/Videos/TheGloryS01EP01/index.m3u8"
+    },{
+      "ep_no": "EP 2",
+      "link": "http://www.zegomovie.com/Videos/TheGloryS01EP02/index.m3u8"
+    },{
+      "ep_no": "EP 3",
+      "link": "http://www.zegomovie.com/Videos/TheGloryS01EP03/index.m3u8"
+    },{
+      "ep_no": "EP 4",
+      "link": "http://www.zegomovie.com/Videos/TheGloryS01EP04/index.m3u8"
+    },{
+      "ep_no": "EP 5",
+      "link": "http://www.zegomovie.com/Videos/TheGloryS01EP05/index.m3u8"
+    },{
+      "ep_no": "EP 6",
+      "link": "http://www.zegomovie.com/Videos/TheGloryS01EP06/index.m3u8"
+    },{
+      "ep_no": "EP 7",
+      "link": "http://www.zegomovie.com/Videos/TheGloryS01EP07/index.m3u8"
+    },{
+      "ep_no": "EP 8(END)",
+      "link": "http://www.zegomovie.com/Videos/TheGloryS01EP08/index.m3u8"
+    }
+    
+  ],
+  "catagory": "Korea",
+  "studio": "Korea"
+},{
       "movietitle": "Live",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d63625aa3676.jpg",
