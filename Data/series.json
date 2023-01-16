@@ -6,6 +6,78 @@
   "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60ea949541d.jpg",
   "link": [
 
+
+    {
+      "ep_no": "EP 1",
+      "link": "http://www.zegomovie.com/Videos/MrQueenEP1/index.m3u8"
+    },{
+      "ep_no": "EP 2",
+      "link": "http://www.zegomovie.com/Videos/MrQueenEP2/index.m3u8"
+    },{
+      "ep_no": "EP 3",
+      "link": "http://www.zegomovie.com/Videos/MrQueenEP3/index.m3u8"
+    },{
+      "ep_no": "EP 4",
+      "link": "http://www.zegomovie.com/Videos/MrQueenEP4/index.m3u8"
+    },{
+      "ep_no": "EP 5",
+      "link": "http://www.zegomovie.com/Videos/MrQueenEP5/index.m3u8"
+    },{
+      "ep_no": "EP 6",
+      "link": "http://www.zegomovie.com/Videos/MrQueenEP6/index.m3u8"
+    },{
+      "ep_no": "EP 7",
+      "link": "http://www.zegomovie.com/Videos/MrQueenEP7/index.m3u8"
+    },{
+      "ep_no": "EP 8",
+      "link": "http://www.zegomovie.com/Videos/MrQueenEP8/index.m3u8"
+    },{
+      "ep_no": "EP 9",
+      "link": "http://www.zegomovie.com/Videos/MrQueenEP9/index.m3u8"
+    },{
+      "ep_no": "EP 10",
+      "link": "http://www.zegomovie.com/Videos/MrQueenEP10/index.m3u8"
+    },{
+      "ep_no": "EP 11",
+      "link": "http://www.zegomovie.com/Videos/MrQueenEP11/index.m3u8"
+    },{
+      "ep_no": "EP 12",
+      "link": "http://www.zegomovie.com/Videos/MrQueenEP12/index.m3u8"
+    },{
+      "ep_no": "EP 13",
+      "link": "http://www.zegomovie.com/Videos/MrQueenEP13/index.m3u8"
+    },{
+      "ep_no": "EP 14",
+      "link": "http://www.zegomovie.com/Videos/MrQueenEP14/index.m3u8"
+    },{
+      "ep_no": "EP 15",
+      "link": "http://www.zegomovie.com/Videos/MrQueenEP15/index.m3u8"
+    },{
+      "ep_no": "EP 16",
+      "link": "http://www.zegomovie.com/Videos/MrQueenEP16/index.m3u8"
+    },{
+      "ep_no": "EP 17",
+      "link": "http://www.zegomovie.com/Videos/MrQueenEP17/index.m3u8"
+    },{
+      "ep_no": "EP 18",
+      "link": "http://www.zegomovie.com/Videos/MrQueenEP18/index.m3u8"
+    },{
+      "ep_no": "EP 19",
+      "link": "http://www.zegomovie.com/Videos/MrQueenEP19/index.m3u8"
+    },{
+      "ep_no": "EP 20",
+      "link": "http://www.zegomovie.com/Videos/MrQueenEP20End/index.m3u8"
+    }
+    
+  ],
+  "catagory": "Korea",
+  "studio": "Korea"
+},{
+  "movietitle": "Strong Woman Dobongsoo",
+  "description": "This App is Designed for myanmar people",
+  "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60ea949541d.jpg",
+  "link": [
+
     {
       "ep_no": "EP 1",
       "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp1/index.m3u8"
