@@ -22,24 +22,24 @@
     {
       "channelname": "Channel Me",
       "link": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8",
-      "preview_img": "https://www.myanmartvchannels.com/assets/images/channelicon/mrtvent.jpg",
+      "preview_img": "https://mctvteam.github.io/Coder/Logo/Channel_ME_Logo.jpg",
       "channel": "TVChannel"
     },
     {
       "channelname": "Mahar",
-      "link": "https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8",
+      "link": "https://mctvteam.github.io/Coder/Logo/mahar.webp",
       "preview_img": "https://www.myanmartvchannels.com/assets/images/channeliconb/mahar.jpg",
       "channel": "TVChannel"
     },
     {
       "channelname": "Channel K",
-      "preview_img": "https://www.myanmartvchannels.com/assets/images/channeliconb/channelk.jpg",
+      "preview_img": "https://mctvteam.github.io/Coder/Logo/Channel_K_TV_Channel_Logo.jpg",
       "link": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8",
       "channel": "TVChannel"
     },
     {
       "channelname": "MNTV",
-      "preview_img": "https://www.myanmartvchannels.com/assets/images/channeliconb/mntv.jpg",
+      "preview_img": "https://mctvteam.github.io/Coder/Logo/mntvlogo.jpg",
       "link": "http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8",
       "channel": "TVChannel"
     },
@@ -51,7 +51,7 @@
     },
     {
       "channelname": "MUTV",
-      "preview_img": "https://www.insideworldfootball.com/app/uploads/2016/01/MUTV_logo.jpeg",
+      "preview_img": "https://mctvteam.github.io/Coder/Logo/MUTV_logo.png",
       "link": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
       "channel": "TVChannel"
     },
