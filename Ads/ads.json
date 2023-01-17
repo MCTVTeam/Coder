@@ -2,37 +2,26 @@
 
   "Ads_DB":[
     
-    {
+   {
     
-    "image":"https://images.hdqwalls.com/wallpapers/bthumb/supergirl-tv-series-4k-poster-xd.jpg",
-    "link":"https://en.wikipedia.org/wiki/Supergirl_(TV_series)",
-    "status":"Other"
+    "image":"https://mctvteam.github.io/Coder/Logo/mctvtelegram.png",
+    "link":"MCTVApp",
+    "status":"Telegram"
       
     },{
     
-    "image":"https://images.hdqwalls.com/wallpapers/supergirl-season-5-new-suit-7o.jpg",
-    "link":"https://en.wikipedia.org/wiki/Supergirl_(TV_series)",
-    "status":"No"
-      
-    },{
-    
-    "image":"https://mctvteam.github.io/Coder/Ads/MCTVCover.png",
+    "image":"https://mctvteam.github.io/Coder/Logo/mctvfacebook.png",
     "link":"100089440474961",
     "status":"Facebook"
       
     },{
     
-    "image":"https://mctvteam.github.io/Coder/Ads/MMLyricsAndChords.png",
-    "link":"100065213161569",
-    "status":"Facebook"
-      
-    },{
-    
-    "image":"https://1.bp.blogspot.com/-3DH_LqvVJjs/YA5wkH83LcI/AAAAAAAAEnE/CpXA8rEhzSgM3RCNlkOx_IXfXOdKeOzKACLcBGAsYHQ/w640-h236/car-facebook-cover-photo.jpg",
-    "link":"com.app.dev.monywaoxygensupplyapp",
+    "image":"https://mctvteam.github.io/Coder/Logo/mctvplaystore.png",
+    "link":"com.mcoder.mctv",
     "status":"PlayStore"
       
     }
+    
     
     ]
   
