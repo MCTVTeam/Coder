@@ -26,9 +26,9 @@
       "channel": "TVChannel"
     },
     {
-      "channelname": "Mahar",
-      "link": "https://mctvteam.github.io/Coder/Logo/mahar.webp",
-      "preview_img": "https://www.myanmartvchannels.com/assets/images/channeliconb/mahar.jpg",
+      "channelname": "Mahar",          
+      "preview_img": "https://mctvteam.github.io/Coder/Logo/mahar.webp",
+      "link": "https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8",
       "channel": "TVChannel"
     },
     {
