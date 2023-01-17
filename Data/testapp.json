@@ -10,7 +10,10 @@
             "channelURL":"https://mctvteam.github.io/Coder/Data/tvchannel.json",
             "movieURL":"https://mctvteam.github.io/Coder/Data/movies.json",
             "seriesURL":"https://mctvteam.github.io/Coder/Data/series.json",
-            "sliderURL":"https://appmmdev.github.io/testapi/TestApi/test.json"
+            "sliderURL":"https://appmmdev.github.io/testapi/TestApi/test.json",
+            "directDownload":"https://mctvteam.github.io/Coder/Data/MCTV(7.0).apk"
+            
+            
             
         }
     ]
