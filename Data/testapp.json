@@ -10,7 +10,7 @@
             "channelURL":"https://mctvteam.github.io/Coder/Data/tvchannel.json",
             "movieURL":"https://mctvteam.github.io/Coder/Data/movies.json",
             "seriesURL":"https://mctvteam.github.io/Coder/Data/series.json",
-            "sliderURL":"https://appmmdev.github.io/testapi/TestApi/test.json",
+            "sliderURL":"https://mctvteam.github.io/Coder/Ads/ads.json",
             "directDownload":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/App%2FMCTV(7.0).apk?alt=media&token=d3dcab91-8db1-4505-941a-1855a62c30b4"
             
             
