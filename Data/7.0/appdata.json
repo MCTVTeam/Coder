@@ -7,7 +7,7 @@
 
             "appversion":"6.0",
             "updatemessage":"Fix First Open Crash.",
-            "channelURL":"https://mctvteam.github.io/Coder/Data/tvchannel.json",
+            "channelURL":"https://mctvteam.github.io/Coder/Test/tvchannel.json",
             "movieURL":"https://mctvteam.github.io/Coder/Test/movies.json",
             "seriesURL":"https://mctvteam.github.io/Coder/Test/series.json",
             "sliderURL":"https://mctvteam.github.io/Coder/Test/ads.json",
