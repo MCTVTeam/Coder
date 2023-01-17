@@ -1,1 +1,27 @@
-ads
+{
+
+  "Ads_DB":[
+    
+    {
+    
+    "image":"https://mctvteam.github.io/Coder/Ads/MCTVCover.png",
+    "link":"MCTVApp",
+    "status":"Facebook"
+      
+    },{
+    
+    "image":"https://mctvteam.github.io/Coder/Ads/MMLyricsAndChords.png",
+    "link":"MMGUITARLYRICSANDCHORDS",
+    "status":"Facebook"
+      
+    },{
+    
+    "image":"https://1.bp.blogspot.com/-3DH_LqvVJjs/YA5wkH83LcI/AAAAAAAAEnE/CpXA8rEhzSgM3RCNlkOx_IXfXOdKeOzKACLcBGAsYHQ/w640-h236/car-facebook-cover-photo.jpg",
+    "link":"com.app.dev.monywaoxygensupplyapp",
+    "status":"PlayStore"
+      
+    }
+    
+    ]
+  
+}
