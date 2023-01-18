@@ -10,9 +10,8 @@
             "channelURL":"https://mctvteam.github.io/Coder/Test/tvchannel.json",
             "movieURL":"https://mctvteam.github.io/Coder/Test/movies.json",
             "seriesURL":"https://mctvteam.github.io/Coder/Test/series.json",
-            "sliderURL":"https://mctvteam.github.io/Coder/Ads/ads.json",
-            "directDownload":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/App%2Fmctv7.0.apk?alt=media&token=b01a48ec-b285-41c3-adf0-2a90ddc0cd22"
-            
+            "sliderURL":"https://mctvteam.github.io/Coder/Ads/ads.json",            
+            "directDownload":"https://mctvteam.github.io/Coder/Download/mctv7.0.apk"
             
         }
     ]
