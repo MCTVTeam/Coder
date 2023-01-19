@@ -7,11 +7,12 @@
 
             "appversion":"7.0",
             "updatemessage":"Fix First Open Crash.Add Contact Us.",
-            "channelURL":"https://mctvteam.github.io/Coder/Test/tvchannel.json",
-            "movieURL":"https://mctvteam.github.io/Coder/Test/movies.json",
-            "seriesURL":"https://mctvteam.github.io/Coder/Test/series.json",
+            "channelURL":"https://mctvteam.github.io/Coder/Data/tvchannel.json",
+            "movieURL":"https://mctvteam.github.io/Coder/Data/movies.json",
+            "seriesURL":"https://mctvteam.github.io/Coder/Data/series.json",
             "sliderURL":"https://mctvteam.github.io/Coder/Ads/ads.json",            
             "directDownload":"https://mctvteam.github.io/Coder/Download/mctv7.0.apk"
+            
             
         }
     ]
