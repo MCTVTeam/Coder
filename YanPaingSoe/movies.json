@@ -1,0 +1,30 @@
+{
+  "Movies_Database": [
+   
+   
+   {
+      "movietitle": "Pidikittapulli",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-14/63c231a11f990.png",
+      "link": "http://www.zegomovie.com/Videos/Pidikittapulli/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Jallikattu",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-13/63c113fea73e1.PNG",
+      "link": "http://www.zegomovie.com/Videos/Jallikattu/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Rowdy Rathore",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-22/5d5e11389b340.jpg",
+      "link": "http://www.zegomovie.com/Videos/RowdyRathore/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    }
+    
+    ]
+  
+}
