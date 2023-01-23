@@ -2,7 +2,126 @@
   "Movies_Database": [
    
    
-     {
+       {
+      "movietitle": "Valimai",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-04-21/6261075a5398d.jpg",
+      "link": "http://www.zegomovie.com/Videos/Valimai/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Salute",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-03-30/6243e25db0f3c.jpg",
+      "link": "http://www.zegomovie.com/Videos/Salute/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Aaraattu",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-04-05/624c0b89ef6a7.jpg",
+      "link": "http://www.zegomovie.com/Videos/Aaraattu/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Cadaver",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-09-30/6336b71f5101f.jpg",
+      "link": "http://www.zegomovie.com/Videos/Cadaver/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Khiladi",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-03-25/623d21c12db97.jpg",
+      "link": "http://www.zegomovie.com/Videos/Khiladi/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Attack",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-06-15/62a98385d1210.jpg",
+      "link": "http://www.zegomovie.com/Videos/Attack/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Diary",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-10-01/633802d12359c.jpg",
+      "link": "http://www.zegomovie.com/Videos/Diary/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Godse",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-08-15/62f9b7d47892c.jpg",
+      "link": "http://www.zegomovie.com/Videos/Godse/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Pawankhind",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-04-05/624bf01bf41bc.jpg",
+      "link": "http://www.zegomovie.com/Videos/Pawankhind/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Bachchhan Paandey",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-04-23/626382b8f06c1.jpg",
+      "link": "http://www.zegomovie.com/Videos/BachchhanPaandey/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Kaduva",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-09-27/6332ad73868e1.jpg",
+      "link": "http://www.zegomovie.com/Videos/Kaduva/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Etharkkum Thunindhavan",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-05-07/62763e019e2f4.jpg",
+      "link": "http://www.zegomovie.com/Videos/EtharkkumThunindhavan/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Hero",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-02-28/621c3dfbcb0ed.jpg",
+      "link": "http://www.zegomovie.com/Videos/Hero/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Acharya",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-06-01/6296d24981921.jpg",
+      "link": "http://www.zegomovie.com/Videos/Acharya/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Heropanti 2",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-06-16/62aab37614f83.jpg",
+      "link": "http://www.zegomovie.com/Videos/Heropanti2/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Gangubai Kathiawadi",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-05-03/6270f72a4e78f.jpg",
+      "link": "http://www.zegomovie.com/Videos/GangubaiKathiawadi/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "RRR",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-05-17/6283329e6897d.jpg",
+      "link": "http://www.zegomovie.com/Videos/RRR/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
       "movietitle": "JOHN WICK CHAPTER 3",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2019-10-28/5db666ef7241d.jpg",
