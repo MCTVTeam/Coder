@@ -3,6 +3,41 @@
    
    
       {
+      "movietitle": "Gurtunda Seetakalam",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-25/63d0f5fc1eda4.png",
+      "link": "http://www.zegomovie.com/Videos/GurthundaSeethakalam/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Mister Mummy",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-25/63d0ae07bf127.png",
+      "link": "http://www.zegomovie.com/Videos/MisterMummy/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Occupation: Rainfall",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2021-06-14/60c6fda94f975.jpg",
+      "link": "http://www.zegomovie.com/Videos/OccupationRainfall/index.m3u8",
+      "catagory": "USA",
+      "studio": "Hollywood"
+    }, {
+      "movietitle": "Occupation",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-14/5d03468933876.jpg",
+      "link": "http://www.zegomovie.com/Videos/Occupation/index.m3u8",
+      "catagory": "USA",
+      "studio": "Hollywood"
+    }, {
+      "movietitle": "Occupation",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-14/5d03468933876.jpg",
+      "link": "http://www.zegomovie.com/Videos/Occupation/index.m3u8",
+      "catagory": "USA",
+      "studio": "Hollywood"
+    },{
       "movietitle": "Jung_E : 정이",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-21/63cb96312fbe3.png",
