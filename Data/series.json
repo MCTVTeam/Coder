@@ -1,6 +1,65 @@
 {
   "Series_Database": [
     {
+  "movietitle": "Let Fight Ghost",
+  "description": "This App is Designed for myanmar people",
+  "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60f2ffb1cc4.jpg",
+  "link": [
+
+    {
+      "ep_no": "EP 1",
+      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp1/index.m3u8"
+    },{
+      "ep_no": "EP 2",
+      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp2/index.m3u8"
+    },{
+      "ep_no": "EP 3",
+      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp3/index.m3u8"
+    },{
+      "ep_no": "EP 4",
+      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp4/index.m3u8"
+    },{
+      "ep_no": "EP 5",
+      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp5/index.m3u8"
+    },{
+      "ep_no": "EP 6",
+      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp6/index.m3u8"
+    },{
+      "ep_no": "EP 7",
+      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp7/index.m3u8"
+    },{
+      "ep_no": "EP 8",
+      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp8/index.m3u8"
+    },{
+      "ep_no": "EP 9",
+      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp9/index.m3u8"
+    },{
+      "ep_no": "EP 10",
+      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp10/index.m3u8"
+    },{
+      "ep_no": "EP 11",
+      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp11/index.m3u8"
+    },{
+      "ep_no": "EP 12",
+      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp12/index.m3u8"
+    },{
+      "ep_no": "EP 13",
+      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp13/index.m3u8"
+    },{
+      "ep_no": "EP 14",
+      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp14/index.m3u8"
+    },{
+      "ep_no": "EP 15",
+      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp15/index.m3u8"
+    },{
+      "ep_no": "EP 16",
+      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp16/index.m3u8"
+    }
+    
+  ],
+  "catagory": "Korea",
+  "studio": "Korea"
+},{
   "movietitle": "Bad and Crazy (Korea 2021)",
   "description": "This App is Designed for myanmar people",
   "movie_img": "http://zegomovie.com/Uploads/vod/2022-01-15/61e290399fe80.jpg",
