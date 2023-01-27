@@ -1,5 +1,115 @@
 {
   "Movies_Database": [
+    
+    
+    {
+      "movietitle": "Freddy",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-12-06/638f1e5fe4a19.JPG",
+      "link": "http://www.zegomovie.com/Videos/Freddy/index.m3u8",
+      "year": "2022",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },
+    {
+      "movietitle": "Thank God",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-12-13/639849594688f.jpg",
+      "link": "http://www.zegomovie.com/Videos/ThankGod/index.m3u8",
+      "year": "2022",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },
+    {
+      "movietitle": "Har Har Mahadev",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-12-15/639af9cdeb23a.jpg",
+      "link": "http://www.zegomovie.com/Videos/HarHarMahadev/index.m3u8",
+      "year": "2022",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },
+    {
+      "movietitle": "Yashoda",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-12-15/639afa0e4729c.JPG",
+      "link": "http://www.zegomovie.com/Videos/Yashoda/index.m3u8",
+      "year": "2022",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },
+    {
+      "movietitle": "Doctor G",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-12-19/63a01b41bcfb5.PNG",
+      "link": "http://www.zegomovie.com/Videos/DoctorG/index.m3u8",
+      "year": "2022",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },
+    {
+      "movietitle": "Monster",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-12-19/63a02c97d4a48.PNG",
+      "link": "http://www.zegomovie.com/Videos/Moster/index.m3u8",
+      "year": "2022",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },
+    {
+      "movietitle": "Blurr",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-12-19/63a0307f92bb3.PNG",
+      "link": "http://www.zegomovie.com/Videos/Bluur/index.m3u8",
+      "year": "2022",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },
+    {
+      "movietitle": "Tara vs Bilal",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-12-26/63a92a796dc45.png",
+      "link": "http://www.zegomovie.com/Videos/TaraVsBilal/index.m3u8",
+      "year": "2022",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },
+    {
+      "movietitle": "Butterfly",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-12-30/63ae6e0b96883.png",
+      "link": "http://www.zegomovie.com/Videos/Butterfly/index.m3u8",
+      "year": "2022",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },
+    {
+      "movietitle": "Aaja Mexico Challiye",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-04/63b52a4f9d970.png",
+      "link": "http://www.zegomovie.com/Videos/AajaMexicoChaliye/index.m3u8",
+      "year": "2022",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },
+    {
+      "movietitle": "Thallumaala",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-18/63c7684ea9685.PNG",
+      "link": "http://www.zegomovie.com/Videos/Thallumaala/index.m3u8",
+      "year": "2022",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },
+    {
+      "movietitle": "Plan A Plan B",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-12/63bf8e2ca5975.PNG",
+      "link": "http://www.zegomovie.com/Videos/PlanAPlanB/index.m3u8",
+      "year": "2022",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },
     {
       "movietitle": "Khiladi",
       "description": "This App is Designed for myanmar people",
