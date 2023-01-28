@@ -1,20 +1,22 @@
 {
   "Movies_Database": [
     {
+"movietitle":"Percy Jackson & the Olympians The Ligthing Thief",
+"description":"A teenager discovers he's the descendant of a Greek god and sets out on an adventure to settle an on-going battle between the gods.",
+"movie_cover_img":"https://whatsondisneyplus.com/wp-content/uploads/2020/06/Percy-Jackson-1024x576.png",
+"movie_img":"http://zegomovie.com/Uploads/vod/2019-06-04/5cf646e09b0a6.jpg",
+"link":"http://www.zegomovie.com/Videos/PercyJackson&theOlympiansTheLightningThief/index.m3u8",
+"year":"2010",
+"catagory":"Movies	Adventure	Family Fantasy",
+"studio":"Hollywood"
+},{
 "movietitle":"Angel Has Fallen",
-
 "description":"Mike Banning is framed for the attempted assassination of the President and must evade his own agency and the FBI as he tries to uncover the real threat.",
-
 "movie_cover_img":"https://i0.wp.com/jumpcutonline.co.uk/wp-content/uploads/2019/08/3840x2160-36-scaled.jpg?fit=2560%2C1440&ssl=1",
-
 "movie_img":"http://zegomovie.com/Uploads/vod/2019-12-27/5e05c3ea0557c.jpg",
-
 "link":"http://www.zegomovie.com/Videos/AngelHasFallen/index.m3u8",
-
-"year":"2016",
-
+"year":"2019",
 "catagory":"Movies	Action	Adventure",
-
 "studio":"Hollywood"
 },{
 "movietitle":"LONDON HAS FALLEN",
