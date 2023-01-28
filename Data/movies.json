@@ -3,6 +3,14 @@
     
     
     {
+      "movietitle": "Whiskey Tango Foxtrot",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-17/5d07480d92561.jpg",
+      "link": "http://www.zegomovie.com/Videos/WhiskeyTangoFoxtrot/index.m3u8",
+      "year": "2016",
+      "catagory": "Movies Biography Comedy Drama",
+      "studio": "Bollywood"
+    },{
       "movietitle": "Qala",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2022-12-06/638f09167bf75.JPG",
