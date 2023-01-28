@@ -1,330 +1,488 @@
 {
   "Series_Database": [
     {
-  "movietitle": "Let Fight Ghost",
-  "description": "This App is Designed for myanmar people",
-  "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60f2ffb1cc4.jpg",
-  "link": [
-
+      "movietitle": "Autumn in My Heart",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d636857ae2e4.jpg",
+      "link": [
+        {
+          "ep_no": "EP 1",
+          "link": "http://www.zegomovie.com/Videos/AutumninMyHeartEp1/index.m3u8"
+        },
+        {
+          "ep_no": "EP 2",
+          "link": "http://www.zegomovie.com/Videos/AutumninMyHeartEp2/index.m3u8"
+        },
+        {
+          "ep_no": "EP 3",
+          "link": "http://www.zegomovie.com/Videos/AutumninMyHeartEp3/index.m3u8"
+        },
+        {
+          "ep_no": "EP 4",
+          "link": "http://www.zegomovie.com/Videos/AutumninMyHeartEp4/index.m3u8"
+        },
+        {
+          "ep_no": "EP 5",
+          "link": "http://www.zegomovie.com/Videos/AutumninMyHeartEp5/index.m3u8"
+        },
+        {
+          "ep_no": "EP 6",
+          "link": "http://www.zegomovie.com/Videos/AutumninMyHeartEp6/index.m3u8"
+        },
+        {
+          "ep_no": "EP 7",
+          "link": "http://www.zegomovie.com/Videos/AutumninMyHeartEp7/index.m3u8"
+        },
+        {
+          "ep_no": "EP 8",
+          "link": "http://www.zegomovie.com/Videos/AutumninMyHeartEp8/index.m3u8"
+        },
+        {
+          "ep_no": "EP 9",
+          "link": "http://www.zegomovie.com/Videos/AutumninMyHeartEp9/index.m3u8"
+        },
+        {
+          "ep_no": "EP 10",
+          "link": "http://www.zegomovie.com/Videos/AutumninMyHeartEp10/index.m3u8"
+        },
+        {
+          "ep_no": "EP 11",
+          "link": "http://www.zegomovie.com/Videos/AutumninMyHeartEp11/index.m3u8"
+        },
+        {
+          "ep_no": "EP 12",
+          "link": "http://www.zegomovie.com/Videos/AutumninMyHeartEp12/index.m3u8"
+        },
+        {
+          "ep_no": "EP 13",
+          "link": "http://www.zegomovie.com/Videos/AutumninMyHeartEp13/index.m3u8"
+        },
+        {
+          "ep_no": "EP 14",
+          "link": "http://www.zegomovie.com/Videos/AutumninMyHeartEp14/index.m3u8"
+        },
+        {
+          "ep_no": "EP 15",
+          "link": "http://www.zegomovie.com/Videos/AutumninMyHeartEp15/index.m3u8"
+        },
+        {
+          "ep_no": "EP 16",
+          "link": "http://www.zegomovie.com/Videos/AutumninMyHeartEp16/index.m3u8"
+        }
+      ],
+      "year": "2000",
+      "catagory": "Korea",
+      "studio": "Korea"
+    },
     {
-      "ep_no": "EP 1",
-      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp1/index.m3u8"
-    },{
-      "ep_no": "EP 2",
-      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp2/index.m3u8"
-    },{
-      "ep_no": "EP 3",
-      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp3/index.m3u8"
-    },{
-      "ep_no": "EP 4",
-      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp4/index.m3u8"
-    },{
-      "ep_no": "EP 5",
-      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp5/index.m3u8"
-    },{
-      "ep_no": "EP 6",
-      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp6/index.m3u8"
-    },{
-      "ep_no": "EP 7",
-      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp7/index.m3u8"
-    },{
-      "ep_no": "EP 8",
-      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp8/index.m3u8"
-    },{
-      "ep_no": "EP 9",
-      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp9/index.m3u8"
-    },{
-      "ep_no": "EP 10",
-      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp10/index.m3u8"
-    },{
-      "ep_no": "EP 11",
-      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp11/index.m3u8"
-    },{
-      "ep_no": "EP 12",
-      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp12/index.m3u8"
-    },{
-      "ep_no": "EP 13",
-      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp13/index.m3u8"
-    },{
-      "ep_no": "EP 14",
-      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp14/index.m3u8"
-    },{
-      "ep_no": "EP 15",
-      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp15/index.m3u8"
-    },{
-      "ep_no": "EP 16",
-      "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp16/index.m3u8"
-    }
-    
-  ],
-  "catagory": "Korea",
-  "studio": "Korea"
-},{
-  "movietitle": "Bad and Crazy (Korea 2021)",
-  "description": "This App is Designed for myanmar people",
-  "movie_img": "http://zegomovie.com/Uploads/vod/2022-01-15/61e290399fe80.jpg",
-  "link": [
+      "movietitle": "Let Fight Ghost",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60f2ffb1cc4.jpg",
+      "link": [
+        {
+          "ep_no": "EP 1",
+          "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp1/index.m3u8"
+        },
+        {
+          "ep_no": "EP 2",
+          "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp2/index.m3u8"
+        },
+        {
+          "ep_no": "EP 3",
+          "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp3/index.m3u8"
+        },
+        {
+          "ep_no": "EP 4",
+          "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp4/index.m3u8"
+        },
+        {
+          "ep_no": "EP 5",
+          "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp5/index.m3u8"
+        },
+        {
+          "ep_no": "EP 6",
+          "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp6/index.m3u8"
+        },
+        {
+          "ep_no": "EP 7",
+          "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp7/index.m3u8"
+        },
+        {
+          "ep_no": "EP 8",
+          "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp8/index.m3u8"
+        },
+        {
+          "ep_no": "EP 9",
+          "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp9/index.m3u8"
+        },
+        {
+          "ep_no": "EP 10",
+          "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp10/index.m3u8"
+        },
+        {
+          "ep_no": "EP 11",
+          "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp11/index.m3u8"
+        },
+        {
+          "ep_no": "EP 12",
+          "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp12/index.m3u8"
+        },
+        {
+          "ep_no": "EP 13",
+          "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp13/index.m3u8"
+        },
+        {
+          "ep_no": "EP 14",
+          "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp14/index.m3u8"
+        },
+        {
+          "ep_no": "EP 15",
+          "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp15/index.m3u8"
+        },
+        {
+          "ep_no": "EP 16",
+          "link": "http://www.zegomovie.com/Videos/LetsFightGhostEp16/index.m3u8"
+        }
+      ],
+      "year": "2016",
+      "catagory": "Korea",
+      "studio": "Korea"
+    },
     {
-        "ep_no": "EP 1",
-        "link": "http://www.zegomovie.com/Videos/BadandCrazyEp1/index.m3u8"
-      },{
-        "ep_no": "EP 2",
-        "link": "http://www.zegomovie.com/Videos/BadandCrazyEp2/index.m3u8"
-      },{
-        "ep_no": "EP 3",
-        "link": "http://www.zegomovie.com/Videos/BadandCrazyEp3/index.m3u8"
-      },{
-        "ep_no": "EP 4",
-        "link": "http://www.zegomovie.com/Videos/BadandCrazyEp4/index.m3u8"
-      },{
-        "ep_no": "EP 5",
-        "link": "http://www.zegomovie.com/Videos/BadandCrazyEp5/index.m3u8"
-      },{
-        "ep_no": "EP 6",
-        "link": "http://www.zegomovie.com/Videos/BadandCrazyEp6/index.m3u8"
-      },{
-        "ep_no": "EP 7",
-        "link": "http://www.zegomovie.com/Videos/BadandCrazyEp7/index.m3u8"
-      },{
-        "ep_no": "EP 8",
-        "link": "http://www.zegomovie.com/Videos/BadandCrazyEp8/index.m3u8"
-      },{
-        "ep_no": "EP 9",
-        "link": "http://www.zegomovie.com/Videos/BadandCrazyEp9/index.m3u8"
-      },{
-        "ep_no": "EP 10",
-        "link": "http://www.zegomovie.com/Videos/BadandCrazyEp10/index.m3u8"
-      },{
-        "ep_no": "EP 11",
-        "link": "http://www.zegomovie.com/Videos/BadandCrazyEp11/index.m3u8"
-      },{
-        "ep_no": "EP 12",
-        "link": "http://www.zegomovie.com/Videos/BadandCrazyEp12/index.m3u8"
-      }
-  ],
-  "catagory": "Korea",
-  "studio": "Korea"
-},{
-  "movietitle": "Rooftop Prince (Korea 2012)",
-  "description": "This App is Designed for myanmar people",
-  "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60e5883ab55.jpg",
-  "link": [
+      "movietitle": "Bad and Crazy (Korea 2021)",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-01-15/61e290399fe80.jpg",
+      "link": [
+        {
+          "ep_no": "EP 1",
+          "link": "http://www.zegomovie.com/Videos/BadandCrazyEp1/index.m3u8"
+        },
+        {
+          "ep_no": "EP 2",
+          "link": "http://www.zegomovie.com/Videos/BadandCrazyEp2/index.m3u8"
+        },
+        {
+          "ep_no": "EP 3",
+          "link": "http://www.zegomovie.com/Videos/BadandCrazyEp3/index.m3u8"
+        },
+        {
+          "ep_no": "EP 4",
+          "link": "http://www.zegomovie.com/Videos/BadandCrazyEp4/index.m3u8"
+        },
+        {
+          "ep_no": "EP 5",
+          "link": "http://www.zegomovie.com/Videos/BadandCrazyEp5/index.m3u8"
+        },
+        {
+          "ep_no": "EP 6",
+          "link": "http://www.zegomovie.com/Videos/BadandCrazyEp6/index.m3u8"
+        },
+        {
+          "ep_no": "EP 7",
+          "link": "http://www.zegomovie.com/Videos/BadandCrazyEp7/index.m3u8"
+        },
+        {
+          "ep_no": "EP 8",
+          "link": "http://www.zegomovie.com/Videos/BadandCrazyEp8/index.m3u8"
+        },
+        {
+          "ep_no": "EP 9",
+          "link": "http://www.zegomovie.com/Videos/BadandCrazyEp9/index.m3u8"
+        },
+        {
+          "ep_no": "EP 10",
+          "link": "http://www.zegomovie.com/Videos/BadandCrazyEp10/index.m3u8"
+        },
+        {
+          "ep_no": "EP 11",
+          "link": "http://www.zegomovie.com/Videos/BadandCrazyEp11/index.m3u8"
+        },
+        {
+          "ep_no": "EP 12",
+          "link": "http://www.zegomovie.com/Videos/BadandCrazyEp12/index.m3u8"
+        }
+      ],
+      "year": "2021",
+      "catagory": "Korea",
+      "studio": "Korea"
+    },
     {
-        "ep_no": "EP 1",
-        "link": "http://www.zegomovie.com/Videos/RooftopPrinceEp1/index.m3u8"
-      },{
-        "ep_no": "EP 2",
-        "link": "http://www.zegomovie.com/Videos/RooftopPrinceEp2/index.m3u8"
-      },{
-        "ep_no": "EP 3",
-        "link": "http://www.zegomovie.com/Videos/RooftopPrinceEp3/index.m3u8"
-      },{
-        "ep_no": "EP 4",
-        "link": "http://www.zegomovie.com/Videos/RooftopPrinceEp4/index.m3u8"
-      },{
-        "ep_no": "EP 5",
-        "link": "http://www.zegomovie.com/Videos/RooftopPrinceEp5/index.m3u8"
-      },{
-        "ep_no": "EP 6",
-        "link": "http://www.zegomovie.com/Videos/RooftopPrinceEp6/index.m3u8"
-      },{
-        "ep_no": "EP 7",
-        "link": "http://www.zegomovie.com/Videos/RooftopPrinceEp7/index.m3u8"
-      },{
-        "ep_no": "EP 8",
-        "link": "http://www.zegomovie.com/Videos/RooftopPrinceEp8/index.m3u8"
-      },{
-        "ep_no": "EP 9",
-        "link": "http://www.zegomovie.com/Videos/RooftopPrinceEp9/index.m3u8"
-      },{
-        "ep_no": "EP 10",
-        "link": "http://www.zegomovie.com/Videos/RooftopPrinceEp10/index.m3u8"
-      },{
-        "ep_no": "EP 11",
-        "link": "http://www.zegomovie.com/Videos/RooftopPrinceEp11/index.m3u8"
-      },{
-        "ep_no": "EP 12",
-        "link": "http://www.zegomovie.com/Videos/RooftopPrinceEp12/index.m3u8"
-      },{
-        "ep_no": "EP 13",
-        "link": "http://www.zegomovie.com/Videos/RooftopPrinceEp13/index.m3u8"
-      },{
-        "ep_no": "EP 14",
-        "link": "http://www.zegomovie.com/Videos/RooftopPrinceEp14/index.m3u8"
-      },{
-        "ep_no": "EP 15",
-        "link": "http://www.zegomovie.com/Videos/RooftopPrinceEp15/index.m3u8"
-      }
-  ],
-  "catagory": "Korea",
-  "studio": "Korea"
-},{
-  "movietitle": "MrQueen",
-  "description": "This App is Designed for myanmar people",
-  "movie_img": "http://zegomovie.com/Uploads/vod/2020-12-22/5fe19649c5ed9.jpg",
-  "link": [
-
-
+      "movietitle": "Rooftop Prince (Korea 2012)",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60e5883ab55.jpg",
+      "link": [
+        {
+          "ep_no": "EP 1",
+          "link": "http://www.zegomovie.com/Videos/RooftopPrinceEp1/index.m3u8"
+        },
+        {
+          "ep_no": "EP 2",
+          "link": "http://www.zegomovie.com/Videos/RooftopPrinceEp2/index.m3u8"
+        },
+        {
+          "ep_no": "EP 3",
+          "link": "http://www.zegomovie.com/Videos/RooftopPrinceEp3/index.m3u8"
+        },
+        {
+          "ep_no": "EP 4",
+          "link": "http://www.zegomovie.com/Videos/RooftopPrinceEp4/index.m3u8"
+        },
+        {
+          "ep_no": "EP 5",
+          "link": "http://www.zegomovie.com/Videos/RooftopPrinceEp5/index.m3u8"
+        },
+        {
+          "ep_no": "EP 6",
+          "link": "http://www.zegomovie.com/Videos/RooftopPrinceEp6/index.m3u8"
+        },
+        {
+          "ep_no": "EP 7",
+          "link": "http://www.zegomovie.com/Videos/RooftopPrinceEp7/index.m3u8"
+        },
+        {
+          "ep_no": "EP 8",
+          "link": "http://www.zegomovie.com/Videos/RooftopPrinceEp8/index.m3u8"
+        },
+        {
+          "ep_no": "EP 9",
+          "link": "http://www.zegomovie.com/Videos/RooftopPrinceEp9/index.m3u8"
+        },
+        {
+          "ep_no": "EP 10",
+          "link": "http://www.zegomovie.com/Videos/RooftopPrinceEp10/index.m3u8"
+        },
+        {
+          "ep_no": "EP 11",
+          "link": "http://www.zegomovie.com/Videos/RooftopPrinceEp11/index.m3u8"
+        },
+        {
+          "ep_no": "EP 12",
+          "link": "http://www.zegomovie.com/Videos/RooftopPrinceEp12/index.m3u8"
+        },
+        {
+          "ep_no": "EP 13",
+          "link": "http://www.zegomovie.com/Videos/RooftopPrinceEp13/index.m3u8"
+        },
+        {
+          "ep_no": "EP 14",
+          "link": "http://www.zegomovie.com/Videos/RooftopPrinceEp14/index.m3u8"
+        },
+        {
+          "ep_no": "EP 15",
+          "link": "http://www.zegomovie.com/Videos/RooftopPrinceEp15/index.m3u8"
+        }
+      ],
+      "year": "2012",
+      "catagory": "Korea",
+      "studio": "Korea"
+    },
     {
-      "ep_no": "EP 1",
-      "link": "http://www.zegomovie.com/Videos/MrQueenEP1/index.m3u8"
-    },{
-      "ep_no": "EP 2",
-      "link": "http://www.zegomovie.com/Videos/MrQueenEP2/index.m3u8"
-    },{
-      "ep_no": "EP 3",
-      "link": "http://www.zegomovie.com/Videos/MrQueenEP3/index.m3u8"
-    },{
-      "ep_no": "EP 4",
-      "link": "http://www.zegomovie.com/Videos/MrQueenEP4/index.m3u8"
-    },{
-      "ep_no": "EP 5",
-      "link": "http://www.zegomovie.com/Videos/MrQueenEP5/index.m3u8"
-    },{
-      "ep_no": "EP 6",
-      "link": "http://www.zegomovie.com/Videos/MrQueenEP6/index.m3u8"
-    },{
-      "ep_no": "EP 7",
-      "link": "http://www.zegomovie.com/Videos/MrQueenEP7/index.m3u8"
-    },{
-      "ep_no": "EP 8",
-      "link": "http://www.zegomovie.com/Videos/MrQueenEP8/index.m3u8"
-    },{
-      "ep_no": "EP 9",
-      "link": "http://www.zegomovie.com/Videos/MrQueenEP9/index.m3u8"
-    },{
-      "ep_no": "EP 10",
-      "link": "http://www.zegomovie.com/Videos/MrQueenEP10/index.m3u8"
-    },{
-      "ep_no": "EP 11",
-      "link": "http://www.zegomovie.com/Videos/MrQueenEP11/index.m3u8"
-    },{
-      "ep_no": "EP 12",
-      "link": "http://www.zegomovie.com/Videos/MrQueenEP12/index.m3u8"
-    },{
-      "ep_no": "EP 13",
-      "link": "http://www.zegomovie.com/Videos/MrQueenEP13/index.m3u8"
-    },{
-      "ep_no": "EP 14",
-      "link": "http://www.zegomovie.com/Videos/MrQueenEP14/index.m3u8"
-    },{
-      "ep_no": "EP 15",
-      "link": "http://www.zegomovie.com/Videos/MrQueenEP15/index.m3u8"
-    },{
-      "ep_no": "EP 16",
-      "link": "http://www.zegomovie.com/Videos/MrQueenEP16/index.m3u8"
-    },{
-      "ep_no": "EP 17",
-      "link": "http://www.zegomovie.com/Videos/MrQueenEP17/index.m3u8"
-    },{
-      "ep_no": "EP 18",
-      "link": "http://www.zegomovie.com/Videos/MrQueenEP18/index.m3u8"
-    },{
-      "ep_no": "EP 19",
-      "link": "http://www.zegomovie.com/Videos/MrQueenEP19/index.m3u8"
-    },{
-      "ep_no": "EP 20",
-      "link": "http://www.zegomovie.com/Videos/MrQueenEP20End/index.m3u8"
-    }
-    
-  ],
-  "catagory": "Korea",
-  "studio": "Korea"
-},{
-  "movietitle": "Strong Woman Dobongsoo",
-  "description": "This App is Designed for myanmar people",
-  "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60ea949541d.jpg",
-  "link": [
-
+      "movietitle": "MrQueen",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2020-12-22/5fe19649c5ed9.jpg",
+      "link": [
+        {
+          "ep_no": "EP 1",
+          "link": "http://www.zegomovie.com/Videos/MrQueenEP1/index.m3u8"
+        },
+        {
+          "ep_no": "EP 2",
+          "link": "http://www.zegomovie.com/Videos/MrQueenEP2/index.m3u8"
+        },
+        {
+          "ep_no": "EP 3",
+          "link": "http://www.zegomovie.com/Videos/MrQueenEP3/index.m3u8"
+        },
+        {
+          "ep_no": "EP 4",
+          "link": "http://www.zegomovie.com/Videos/MrQueenEP4/index.m3u8"
+        },
+        {
+          "ep_no": "EP 5",
+          "link": "http://www.zegomovie.com/Videos/MrQueenEP5/index.m3u8"
+        },
+        {
+          "ep_no": "EP 6",
+          "link": "http://www.zegomovie.com/Videos/MrQueenEP6/index.m3u8"
+        },
+        {
+          "ep_no": "EP 7",
+          "link": "http://www.zegomovie.com/Videos/MrQueenEP7/index.m3u8"
+        },
+        {
+          "ep_no": "EP 8",
+          "link": "http://www.zegomovie.com/Videos/MrQueenEP8/index.m3u8"
+        },
+        {
+          "ep_no": "EP 9",
+          "link": "http://www.zegomovie.com/Videos/MrQueenEP9/index.m3u8"
+        },
+        {
+          "ep_no": "EP 10",
+          "link": "http://www.zegomovie.com/Videos/MrQueenEP10/index.m3u8"
+        },
+        {
+          "ep_no": "EP 11",
+          "link": "http://www.zegomovie.com/Videos/MrQueenEP11/index.m3u8"
+        },
+        {
+          "ep_no": "EP 12",
+          "link": "http://www.zegomovie.com/Videos/MrQueenEP12/index.m3u8"
+        },
+        {
+          "ep_no": "EP 13",
+          "link": "http://www.zegomovie.com/Videos/MrQueenEP13/index.m3u8"
+        },
+        {
+          "ep_no": "EP 14",
+          "link": "http://www.zegomovie.com/Videos/MrQueenEP14/index.m3u8"
+        },
+        {
+          "ep_no": "EP 15",
+          "link": "http://www.zegomovie.com/Videos/MrQueenEP15/index.m3u8"
+        },
+        {
+          "ep_no": "EP 16",
+          "link": "http://www.zegomovie.com/Videos/MrQueenEP16/index.m3u8"
+        },
+        {
+          "ep_no": "EP 17",
+          "link": "http://www.zegomovie.com/Videos/MrQueenEP17/index.m3u8"
+        },
+        {
+          "ep_no": "EP 18",
+          "link": "http://www.zegomovie.com/Videos/MrQueenEP18/index.m3u8"
+        },
+        {
+          "ep_no": "EP 19",
+          "link": "http://www.zegomovie.com/Videos/MrQueenEP19/index.m3u8"
+        },
+        {
+          "ep_no": "EP 20",
+          "link": "http://www.zegomovie.com/Videos/MrQueenEP20End/index.m3u8"
+        }
+      ],
+      "year": "2020",
+      "catagory": "Korea",
+      "studio": "Korea"
+    },
     {
-      "ep_no": "EP 1",
-      "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp1/index.m3u8"
-    },{
-      "ep_no": "EP 2",
-      "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp2/index.m3u8"
-    },{
-      "ep_no": "EP 3",
-      "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp3/index.m3u8"
-    },{
-      "ep_no": "EP 4",
-      "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp4/index.m3u8"
-    },{
-      "ep_no": "EP 5",
-      "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp5/index.m3u8"
-    },{
-      "ep_no": "EP 6",
-      "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp6/index.m3u8"
-    },{
-      "ep_no": "EP 7",
-      "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp7/index.m3u8"
-    },{
-      "ep_no": "EP 8",
-      "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp8/index.m3u8"
-    },{
-      "ep_no": "EP 9",
-      "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp9/index.m3u8"
-    },{
-      "ep_no": "EP 10",
-      "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp10/index.m3u8"
-    },{
-      "ep_no": "EP 11",
-      "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp11/index.m3u8"
-    },{
-      "ep_no": "EP 12",
-      "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp12/index.m3u8"
-    },{
-      "ep_no": "EP 13",
-      "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp13/index.m3u8"
-    },{
-      "ep_no": "EP 14",
-      "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp14/index.m3u8"
-    },{
-      "ep_no": "EP 15",
-      "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp15/index.m3u8"
-    },{
-      "ep_no": "EP 16",
-      "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp16/index.m3u8"
-    }
-    
-  ],
-  "catagory": "Korea",
-  "studio": "Korea"
-},{
-  "movietitle": "The Glory (2022)",
-  "description": "This App is Designed for myanmar people",
-  "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-10/63bcd9bde3ae4.jpg",
-  "link": [
-
+      "movietitle": "Strong Woman Dobongsoo",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60ea949541d.jpg",
+      "link": [
+        {
+          "ep_no": "EP 1",
+          "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp1/index.m3u8"
+        },
+        {
+          "ep_no": "EP 2",
+          "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp2/index.m3u8"
+        },
+        {
+          "ep_no": "EP 3",
+          "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp3/index.m3u8"
+        },
+        {
+          "ep_no": "EP 4",
+          "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp4/index.m3u8"
+        },
+        {
+          "ep_no": "EP 5",
+          "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp5/index.m3u8"
+        },
+        {
+          "ep_no": "EP 6",
+          "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp6/index.m3u8"
+        },
+        {
+          "ep_no": "EP 7",
+          "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp7/index.m3u8"
+        },
+        {
+          "ep_no": "EP 8",
+          "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp8/index.m3u8"
+        },
+        {
+          "ep_no": "EP 9",
+          "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp9/index.m3u8"
+        },
+        {
+          "ep_no": "EP 10",
+          "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp10/index.m3u8"
+        },
+        {
+          "ep_no": "EP 11",
+          "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp11/index.m3u8"
+        },
+        {
+          "ep_no": "EP 12",
+          "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp12/index.m3u8"
+        },
+        {
+          "ep_no": "EP 13",
+          "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp13/index.m3u8"
+        },
+        {
+          "ep_no": "EP 14",
+          "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp14/index.m3u8"
+        },
+        {
+          "ep_no": "EP 15",
+          "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp15/index.m3u8"
+        },
+        {
+          "ep_no": "EP 16",
+          "link": "http://www.zegomovie.com/Videos/StrongWomanDobongsooEp16/index.m3u8"
+        }
+      ],
+      "year": "2017",
+      "catagory": "Korea",
+      "studio": "Korea"
+    },
     {
-      "ep_no": "EP 1",
-      "link": "http://www.zegomovie.com/Videos/TheGloryS01Ep01/index.m3u8"
-    },{
-      "ep_no": "EP 2",
-      "link": "http://www.zegomovie.com/Videos/TheGloryS01Ep02/index.m3u8"
-    },{
-      "ep_no": "EP 3",
-      "link": "http://www.zegomovie.com/Videos/TheGloryS01Ep03/index.m3u8"
-    },{
-      "ep_no": "EP 4",
-      "link": "http://www.zegomovie.com/Videos/TheGloryS01Ep04/index.m3u8"
-    },{
-      "ep_no": "EP 5",
-      "link": "http://www.zegomovie.com/Videos/TheGloryS01Ep05/index.m3u8"
-    },{
-      "ep_no": "EP 6",
-      "link": "http://www.zegomovie.com/Videos/TheGloryS01Ep06/index.m3u8"
-    },{
-      "ep_no": "EP 7",
-      "link": "http://www.zegomovie.com/Videos/TheGloryS01Ep07/index.m3u8"
-    },{
-      "ep_no": "EP 8",
-      "link": "http://www.zegomovie.com/Videos/TheGloryS01Ep08/index.m3u8"
-    }
-    
-  ],
-  "catagory": "Korea",
-  "studio": "Korea"
-},{
+      "movietitle": "The Glory (2022)",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-10/63bcd9bde3ae4.jpg",
+      "link": [
+        {
+          "ep_no": "EP 1",
+          "link": "http://www.zegomovie.com/Videos/TheGloryS01Ep01/index.m3u8"
+        },
+        {
+          "ep_no": "EP 2",
+          "link": "http://www.zegomovie.com/Videos/TheGloryS01Ep02/index.m3u8"
+        },
+        {
+          "ep_no": "EP 3",
+          "link": "http://www.zegomovie.com/Videos/TheGloryS01Ep03/index.m3u8"
+        },
+        {
+          "ep_no": "EP 4",
+          "link": "http://www.zegomovie.com/Videos/TheGloryS01Ep04/index.m3u8"
+        },
+        {
+          "ep_no": "EP 5",
+          "link": "http://www.zegomovie.com/Videos/TheGloryS01Ep05/index.m3u8"
+        },
+        {
+          "ep_no": "EP 6",
+          "link": "http://www.zegomovie.com/Videos/TheGloryS01Ep06/index.m3u8"
+        },
+        {
+          "ep_no": "EP 7",
+          "link": "http://www.zegomovie.com/Videos/TheGloryS01Ep07/index.m3u8"
+        },
+        {
+          "ep_no": "EP 8",
+          "link": "http://www.zegomovie.com/Videos/TheGloryS01Ep08/index.m3u8"
+        }
+      ],
+      "year": "2022",
+      "catagory": "Korea",
+      "studio": "Korea"
+    },
+    {
       "movietitle": "Live",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d63625aa3676.jpg",
@@ -402,6 +560,7 @@
           "link": "http://www.zegomovie.com/Videos/LiveEp18/index.m3u8"
         }
       ],
+      "year": "2017",
       "catagory": "Korea Series",
       "studio": "Korea"
     },
@@ -491,6 +650,7 @@
           "link": "http://www.zegomovie.com/Videos/Iris2Ep20/index.m3u8"
         }
       ],
+      "year": "2013",
       "catagory": "Korea",
       "studio": "Korea"
     },
@@ -503,11 +663,12 @@
           "ep_no": "EP 1",
           "link": "http://www.zegomovie.com/Videos/Loki/index.m3u8"
         }
-        
       ],
+      "year": "2021",
       "catagory": "Marvel",
       "studio": "Marvel"
-    },{
+    },
+    {
       "movietitle": "SE 1 Agents of SHIELD",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d63547f14cd2.jpg",
@@ -601,9 +762,11 @@
           "link": "http://www.zegomovie.com/Videos/AgentsofSHIELDS1Ep22/index.m3u8"
         }
       ],
+      "year": "2013",
       "catagory": "Marvel",
       "studio": "Marvel"
-    },{
+    },
+    {
       "movietitle": "SE 2 Agents of SHIELD",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d63547f14cd2.jpg",
@@ -697,9 +860,11 @@
           "link": "http://www.zegomovie.com/Videos/AgentsofSHIELDS2Ep22/index.m3u8"
         }
       ],
+      "year": "2013",
       "catagory": "Marvel",
       "studio": "Marvel"
-    },{
+    },
+    {
       "movietitle": "SE 3 Agents of SHIELD",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d63547f14cd2.jpg",
@@ -793,9 +958,11 @@
           "link": "http://www.zegomovie.com/Videos/AgentsofSHIELDS3Ep22/index.m3u8"
         }
       ],
+      "year": "2013",
       "catagory": "Marvel",
       "studio": "Marvel"
-    },{
+    },
+    {
       "movietitle": "SE 4 Agents of SHIELD",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d63547f14cd2.jpg",
@@ -889,9 +1056,11 @@
           "link": "http://www.zegomovie.com/Videos/AgentsofSHIELDS4Ep22/index.m3u8"
         }
       ],
+      "year": "2013",
       "catagory": "Marvel",
       "studio": "Marvel"
-    },{
+    },
+    {
       "movietitle": "SE 5 Agents of SHIELD",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d63547f14cd2.jpg",
@@ -925,9 +1094,11 @@
           "link": "http://www.zegomovie.com/Videos/AgentsofSHIELDS5Ep7/index.m3u8"
         }
       ],
+      "year": "2013",
       "catagory": "Marvel",
       "studio": "Marvel"
-    },{
+    },
+    {
       "movietitle": "Sherlock Homes Season 1",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60e673d5762.jpg",
@@ -944,11 +1115,12 @@
           "ep_no": "EP 3",
           "link": "http://www.zegomovie.com/Videos/Sherlock(Season1)Ep3/index.m3u8"
         }
-      
       ],
+      "year": "2010",
       "catagory": "USA",
       "studio": "USA"
-    },{
+    },
+    {
       "movietitle": "Sherlock Homes Season 2",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60e673d5762.jpg",
@@ -965,11 +1137,12 @@
           "ep_no": "EP 3",
           "link": "http://www.zegomovie.com/Videos/Sherlock(Season2)Ep3/index.m3u8"
         }
-      
       ],
+      "year": "2010",
       "catagory": "USA",
       "studio": "USA"
-    },{
+    },
+    {
       "movietitle": "Sherlock Homes Season 3",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60e673d5762.jpg",
@@ -990,11 +1163,12 @@
           "ep_no": "EP 4",
           "link": "http://www.zegomovie.com/Videos/Sherlock(SpecialEpisode)TheAbominableBride/index.m3u8"
         }
-      
       ],
+      "year": "2010",
       "catagory": "USA",
       "studio": "USA"
-    },{
+    },
+    {
       "movietitle": "Sherlock Homes Season 4",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60e673d5762.jpg",
@@ -1011,11 +1185,12 @@
           "ep_no": "EP 3",
           "link": "http://www.zegomovie.com/Videos/Sherlock(Season4)Ep3/index.m3u8"
         }
-      
       ],
+      "year": "2010",
       "catagory": "USA",
       "studio": "USA"
-    },{
+    },
+    {
       "movietitle": "Big Mouth",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2022-08-20/6300a24ddddff.jpg",
@@ -1023,330 +1198,415 @@
         {
           "ep_no": "EP 1",
           "link": "http://www.zegomovie.com/Videos/BigMouthEp1/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 2",
           "link": "http://www.zegomovie.com/Videos/BigMouthEp2/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 3",
           "link": "http://www.zegomovie.com/Videos/BigMouthEp3/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 4",
           "link": "http://www.zegomovie.com/Videos/BigMouthEp4/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 5",
           "link": "http://www.zegomovie.com/Videos/BigMouthEp5/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 6",
           "link": "http://www.zegomovie.com/Videos/BigMouthEp6/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 7",
           "link": "http://www.zegomovie.com/Videos/BigMouthEp7/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 8",
           "link": "http://www.zegomovie.com/Videos/BigMouthEp8/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 9",
           "link": "http://www.zegomovie.com/Videos/BigMouthEp9/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 10",
           "link": "http://www.zegomovie.com/Videos/BigMouthEp10/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 11",
           "link": "http://www.zegomovie.com/Videos/BigMouthEp11/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 12",
           "link": "http://www.zegomovie.com/Videos/BigMouthEp12/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 13",
           "link": "http://www.zegomovie.com/Videos/BigMouthEp13/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 14",
           "link": "http://www.zegomovie.com/Videos/BigMouthEp14/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 15",
           "link": "http://www.zegomovie.com/Videos/BigMouthEp15/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 16",
           "link": "http://www.zegomovie.com/Videos/BigMouthEp16/index.m3u8"
         }
-        
       ],
+      "year": "2022",
       "catagory": "Korea",
       "studio": "Korea"
-    },{
+    },
+    {
       "movietitle": "Good Doctor (Korea 2013)",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-28/5d15ce6c924fa.jpg",
       "link": [
         {
-            "ep_no": "EP 1",
-            "link": "http://www.zegomovie.com/Videos/GoodDoctor1/index.m3u8"
-          },{
-            "ep_no": "EP 2",
-            "link": "http://www.zegomovie.com/Videos/GoodDoctor2/index.m3u8"
-          },{
-            "ep_no": "EP 3",
-            "link": "http://www.zegomovie.com/Videos/GoodDoctor3/index.m3u8"
-          },{
-            "ep_no": "EP 4",
-            "link": "http://www.zegomovie.com/Videos/GoodDoctor4/index.m3u8"
-          },{
-            "ep_no": "EP 5",
-            "link": "http://www.zegomovie.com/Videos/GoodDoctor5/index.m3u8"
-          },{
-            "ep_no": "EP 6",
-            "link": "http://www.zegomovie.com/Videos/GoodDoctor6/index.m3u8"
-          },{
-            "ep_no": "EP 7",
-            "link": "http://www.zegomovie.com/Videos/GoodDoctor7/index.m3u8"
-          },{
-            "ep_no": "EP 8",
-            "link": "http://www.zegomovie.com/Videos/GoodDoctor8/index.m3u8"
-          },{
-            "ep_no": "EP 9",
-            "link": "http://www.zegomovie.com/Videos/GoodDoctor9/index.m3u8"
-          },{
-            "ep_no": "EP 10",
-            "link": "http://www.zegomovie.com/Videos/GoodDoctor10/index.m3u8"
-          },{
-            "ep_no": "EP 11",
-            "link": "http://www.zegomovie.com/Videos/GoodDoctor11/index.m3u8"
-          },{
-            "ep_no": "EP 12",
-            "link": "http://www.zegomovie.com/Videos/GoodDoctor12/index.m3u8"
-          },{
-            "ep_no": "EP 13",
-            "link": "http://www.zegomovie.com/Videos/GoodDoctor13/index.m3u8"
-          },{
-            "ep_no": "EP 14",
-            "link": "http://www.zegomovie.com/Videos/GoodDoctor14/index.m3u8"
-          },{
-            "ep_no": "EP 15",
-            "link": "http://www.zegomovie.com/Videos/GoodDoctor15/index.m3u8"
-          },{
-            "ep_no": "EP 16",
-            "link": "http://www.zegomovie.com/Videos/GoodDoctor16/index.m3u8"
-          },{
-            "ep_no": "EP 17",
-            "link": "http://www.zegomovie.com/Videos/GoodDoctor17/index.m3u8"
-          },{
-            "ep_no": "EP 18",
-            "link": "http://www.zegomovie.com/Videos/GoodDoctor18/index.m3u8"
-          },{
-            "ep_no": "EP 19",
-            "link": "http://www.zegomovie.com/Videos/GoodDoctor19/index.m3u8"
-          },{
-            "ep_no": "EP 20",
-            "link": "http://www.zegomovie.com/Videos/GoodDoctor20/index.m3u8"
-          }
-      
+          "ep_no": "EP 1",
+          "link": "http://www.zegomovie.com/Videos/GoodDoctor1/index.m3u8"
+        },
+        {
+          "ep_no": "EP 2",
+          "link": "http://www.zegomovie.com/Videos/GoodDoctor2/index.m3u8"
+        },
+        {
+          "ep_no": "EP 3",
+          "link": "http://www.zegomovie.com/Videos/GoodDoctor3/index.m3u8"
+        },
+        {
+          "ep_no": "EP 4",
+          "link": "http://www.zegomovie.com/Videos/GoodDoctor4/index.m3u8"
+        },
+        {
+          "ep_no": "EP 5",
+          "link": "http://www.zegomovie.com/Videos/GoodDoctor5/index.m3u8"
+        },
+        {
+          "ep_no": "EP 6",
+          "link": "http://www.zegomovie.com/Videos/GoodDoctor6/index.m3u8"
+        },
+        {
+          "ep_no": "EP 7",
+          "link": "http://www.zegomovie.com/Videos/GoodDoctor7/index.m3u8"
+        },
+        {
+          "ep_no": "EP 8",
+          "link": "http://www.zegomovie.com/Videos/GoodDoctor8/index.m3u8"
+        },
+        {
+          "ep_no": "EP 9",
+          "link": "http://www.zegomovie.com/Videos/GoodDoctor9/index.m3u8"
+        },
+        {
+          "ep_no": "EP 10",
+          "link": "http://www.zegomovie.com/Videos/GoodDoctor10/index.m3u8"
+        },
+        {
+          "ep_no": "EP 11",
+          "link": "http://www.zegomovie.com/Videos/GoodDoctor11/index.m3u8"
+        },
+        {
+          "ep_no": "EP 12",
+          "link": "http://www.zegomovie.com/Videos/GoodDoctor12/index.m3u8"
+        },
+        {
+          "ep_no": "EP 13",
+          "link": "http://www.zegomovie.com/Videos/GoodDoctor13/index.m3u8"
+        },
+        {
+          "ep_no": "EP 14",
+          "link": "http://www.zegomovie.com/Videos/GoodDoctor14/index.m3u8"
+        },
+        {
+          "ep_no": "EP 15",
+          "link": "http://www.zegomovie.com/Videos/GoodDoctor15/index.m3u8"
+        },
+        {
+          "ep_no": "EP 16",
+          "link": "http://www.zegomovie.com/Videos/GoodDoctor16/index.m3u8"
+        },
+        {
+          "ep_no": "EP 17",
+          "link": "http://www.zegomovie.com/Videos/GoodDoctor17/index.m3u8"
+        },
+        {
+          "ep_no": "EP 18",
+          "link": "http://www.zegomovie.com/Videos/GoodDoctor18/index.m3u8"
+        },
+        {
+          "ep_no": "EP 19",
+          "link": "http://www.zegomovie.com/Videos/GoodDoctor19/index.m3u8"
+        },
+        {
+          "ep_no": "EP 20",
+          "link": "http://www.zegomovie.com/Videos/GoodDoctor20/index.m3u8"
+        }
       ],
+      "year": "2013",
       "catagory": "Korea",
       "studio": "Korea"
-    },{
-    "movietitle": "Grand Prince (Korea 2013)",
-    "description": "This App is Designed for myanmar people",
-    "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d6360ad1b31b.jpg",
-    "link": [
-      {
+    },
+    {
+      "movietitle": "Grand Prince (Korea 2013)",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d6360ad1b31b.jpg",
+      "link": [
+        {
           "ep_no": "EP 1",
           "link": "http://www.zegomovie.com/Videos/GrandPrinceEp1/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 2",
           "link": "http://www.zegomovie.com/Videos/GrandPrinceEp2/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 3",
           "link": "http://www.zegomovie.com/Videos/GrandPrinceEp3/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 4",
           "link": "http://www.zegomovie.com/Videos/GrandPrinceEp4/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 5",
           "link": "http://www.zegomovie.com/Videos/GrandPrinceEp5/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 6",
           "link": "http://www.zegomovie.com/Videos/GrandPrinceEp6/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 7",
           "link": "http://www.zegomovie.com/Videos/GrandPrinceEp7/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 8",
           "link": "http://www.zegomovie.com/Videos/GrandPrinceEp8/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 9",
           "link": "http://www.zegomovie.com/Videos/GrandPrinceEp9/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 10",
           "link": "http://www.zegomovie.com/Videos/GrandPrinceEp10/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 11",
           "link": "http://www.zegomovie.com/Videos/GrandPrinceEp11/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 12",
           "link": "http://www.zegomovie.com/Videos/GrandPrinceEp12/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 13",
           "link": "http://www.zegomovie.com/Videos/GrandPrinceEp13/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 14",
           "link": "http://www.zegomovie.com/Videos/GrandPrinceEp14/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 15",
           "link": "http://www.zegomovie.com/Videos/GrandPrinceEp15/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 16",
           "link": "http://www.zegomovie.com/Videos/GrandPrinceEp16/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 17",
           "link": "http://www.zegomovie.com/Videos/GrandPrinceEp17/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 18",
           "link": "http://www.zegomovie.com/Videos/GrandPrinceEp18/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 19",
           "link": "http://www.zegomovie.com/Videos/GrandPrinceEp19/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 20",
           "link": "http://www.zegomovie.com/Videos/GrandPrinceEp20/index.m3u8"
         }
-    
-    ],
-    "catagory": "Korea",
-    "studio": "Korea"
-  },{
-    "movietitle": "Ghost Doctor (2022)",
-    "description": "This App is Designed for myanmar people",
-    "movie_img": "http://zegomovie.com/Uploads/vod/2022-01-12/61de7a43daf11.jpg",
-    "link": [
-      {
-        
+      ],
+      "year": "2018",
+      "catagory": "Korea",
+      "studio": "Korea"
+    },
+    {
+      "movietitle": "Ghost Doctor (2022)",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-01-12/61de7a43daf11.jpg",
+      "link": [
+        {
           "ep_no": "EP 1",
           "link": "http://www.zegomovie.com/Videos/GhostDoctorEp1/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 2",
           "link": "http://www.zegomovie.com/Videos/GhostDoctorEp2/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 3",
           "link": "http://www.zegomovie.com/Videos/GhostDoctorEp3/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 4",
           "link": "http://www.zegomovie.com/Videos/GhostDoctorEp4/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 5",
           "link": "http://www.zegomovie.com/Videos/GhostDoctorEp5/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 6",
           "link": "http://www.zegomovie.com/Videos/GhostDoctorEp6/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 7",
           "link": "http://www.zegomovie.com/Videos/GhostDoctorEp7/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 8",
           "link": "http://www.zegomovie.com/Videos/GhostDoctorEp8/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 9",
           "link": "http://www.zegomovie.com/Videos/GhostDoctorEp9/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 10",
           "link": "http://www.zegomovie.com/Videos/GhostDoctorEp10/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 11",
           "link": "http://www.zegomovie.com/Videos/GhostDoctorEp11/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 12",
           "link": "http://www.zegomovie.com/Videos/GhostDoctorEp12/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 13",
           "link": "http://www.zegomovie.com/Videos/GhostDoctorEp13/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 14",
           "link": "http://www.zegomovie.com/Videos/GhostDoctorEp14/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 15",
           "link": "http://www.zegomovie.com/Videos/GhostDoctorEp15/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 16",
           "link": "http://www.zegomovie.com/Videos/GhostDoctorEp16/index.m3u8"
         }
-
-      
-    
-    ],
-    "catagory": "Korea",
-    "studio": "Korea"
-  },{
-    "movietitle": "Doctor Strange (2014)",
-    "description": "This App is Designed for myanmar people",
-    "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-20/5d5bd33f97364.jpg",
-    "link": [
-      {
-        
+      ],
+      "year": "2022",
+      "catagory": "Korea",
+      "studio": "Korea"
+    },
+    {
+      "movietitle": "Doctor Strange (2014)",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-20/5d5bd33f97364.jpg",
+      "link": [
+        {
           "ep_no": "EP 1",
           "link": "http://www.zegomovie.com/Videos/DoctorStrangerEp1/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 2",
           "link": "http://www.zegomovie.com/Videos/DoctorStrangerEp2/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 3",
           "link": "http://www.zegomovie.com/Videos/DoctorStrangerEp3/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 4",
           "link": "http://www.zegomovie.com/Videos/DoctorStrangerEp4/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 5",
           "link": "http://www.zegomovie.com/Videos/DoctorStrangerEp5/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 6",
           "link": "http://www.zegomovie.com/Videos/DoctorStrangerEp6/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 7",
           "link": "http://www.zegomovie.com/Videos/DoctorStrangerEp7/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 8",
           "link": "http://www.zegomovie.com/Videos/DoctorStrangerEp8/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 9",
           "link": "http://www.zegomovie.com/Videos/DoctorStrangerEp9/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 10",
           "link": "http://www.zegomovie.com/Videos/DoctorStrangerEp10/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 11",
           "link": "http://www.zegomovie.com/Videos/DoctorStrangerEp11/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 12",
           "link": "http://www.zegomovie.com/Videos/DoctorStrangerEp12/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 13",
           "link": "http://www.zegomovie.com/Videos/DoctorStrangerEp13/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 14",
           "link": "http://www.zegomovie.com/Videos/DoctorStrangerEp14/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 15",
           "link": "http://www.zegomovie.com/Videos/DoctorStrangerEp15/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 16",
           "link": "http://www.zegomovie.com/Videos/DoctorStrangerEp16/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 17",
           "link": "http://www.zegomovie.com/Videos/DoctorStrangerEp17/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 18",
           "link": "http://www.zegomovie.com/Videos/DoctorStrangerEp18/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 19",
           "link": "http://www.zegomovie.com/Videos/DoctorStrangerEp19/index.m3u8"
-        },{
+        },
+        {
           "ep_no": "EP 20",
           "link": "http://www.zegomovie.com/Videos/DoctorStrangerEp20/index.m3u8"
         }
-
-      
-    
-    ],
-    "catagory": "Korea",
-    "studio": "Korea"
-  }
+      ],
+      "year": "2014",
+      "catagory": "Korea",
+      "studio": "Korea"
+    }
   ]
 }
