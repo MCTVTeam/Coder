@@ -1,6 +1,42 @@
 {
   "Movies_Database": [
     {
+"movietitle":"Jame Bond Spectre",
+"description":"A cryptic message from 007's past sends him pitted against a mysterious terrorist organization called Spectre, and learns of its involvement in previous events of his most dangerous missions.",
+"movie_cover_img":"https://upload.wikimedia.org/wikipedia/en/b/b9/Spectre_2015_poster.jpg",
+"movie_img":"http://zegomovie.com/Uploads/vod/2019-06-22/5d0dd9b70e18a.jpg",
+"link":"http://www.zegomovie.com/Videos/JameBondSpectre/index.m3u8",
+"year":"2015",
+"catagory":"Movies	Action	Adventure",
+"studio":"Hollywood"
+},{
+"movietitle":"007 James Bond A View To A Kill",
+"description":"This App is Designed for myanmar people",
+"movie_cover_img":"https://w0.peakpx.com/wallpaper/307/437/HD-wallpaper-view-to-a-kill-james-bond-movie-007.jpg",
+"movie_img":"http://zegomovie.com/Uploads/vod/2019-06-14/5d0319813f730.jpg",
+"link":"http://www.zegomovie.com/Videos/007JamesBondAViewTAKill/index.m3u8",
+"year":"1985",
+"catagory":"Movies	Action	Adventure",
+"studio":"Hollywood"
+},{
+"movietitle":"007 James Bond Never Say Never Again",
+"description":"This App is Designed for myanmar people",
+"movie_cover_img":"https://upload.wikimedia.org/wikipedia/en/6/6c/Never_Say_Never_Again_%E2%80%93_UK_cinema_poster.jpg",
+"movie_img":"http://zegomovie.com/Uploads/vod/2019-06-12/5d00b18a97e10.jpg",
+"link":"http://www.zegomovie.com/Videos/007JamesBondNeverSayNeverAgain/index.m3u8",
+"year":"1983",
+"catagory":"Movies	Action	Adventure",
+"studio":"Hollywood"
+},{
+"movietitle":"007 James Bond Gold finger",
+"description":"This App is Designed for myanmar people",
+"movie_cover_img":"https://c4.wallpaperflare.com/wallpaper/162/247/634/movie-goldfinger-wallpaper-preview.jpg",
+"movie_img":"http://zegomovie.com/Uploads/vod/2019-06-05/5cf74d3d142f2.jpg",
+"link":"http://www.zegomovie.com/Videos/007JamesBondGoldfinger/index.m3u8",
+"year":"1964",
+"catagory":"Movies	Action	Adventure",
+"studio":"Hollywood"
+},{
       "movietitle": "Whiskey Tango Foxtrot",
       "description": "This App is Designed for myanmar people",
       "movie_cover_img": "https://hcmoviereviews.files.wordpress.com/2016/05/whiskey-tango-foxtrot-web.jpg",
