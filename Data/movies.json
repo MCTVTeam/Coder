@@ -1,78 +1,106 @@
 {
   "Movies_Database": [
     {
-"movietitle":"Ninja II: Shadow of a Tear",
-"description":"This App is Designed for myanmar people",
-"movie_cover_img":"https://i.ytimg.com/vi/U1vGrAj8m4Y/maxresdefault.jpg",
-"movie_img":"http://zegomovie.com/Uploads/vod/2023-01-28/63d4e8e1445b3.png",
-"link":"http://www.zegomovie.com/Videos/Ninja/index.m3u8",
-"year":"2013",
-"catagory":"Movies	Action",
-"studio":"Thailand"
-},{
-"movietitle":"Percy Jackson & the Olympians The Ligthing Thief",
-"description":"A teenager discovers he's the descendant of a Greek god and sets out on an adventure to settle an on-going battle between the gods.",
-"movie_cover_img":"https://whatsondisneyplus.com/wp-content/uploads/2020/06/Percy-Jackson-1024x576.png",
-"movie_img":"http://zegomovie.com/Uploads/vod/2019-06-04/5cf646e09b0a6.jpg",
-"link":"http://www.zegomovie.com/Videos/PercyJackson&theOlympiansTheLightningThief/index.m3u8",
-"year":"2010",
-"catagory":"Movies	Adventure	Family Fantasy",
-"studio":"Hollywood"
-},{
-"movietitle":"Angel Has Fallen",
-"description":"Mike Banning is framed for the attempted assassination of the President and must evade his own agency and the FBI as he tries to uncover the real threat.",
-"movie_cover_img":"https://i0.wp.com/jumpcutonline.co.uk/wp-content/uploads/2019/08/3840x2160-36-scaled.jpg?fit=2560%2C1440&ssl=1",
-"movie_img":"http://zegomovie.com/Uploads/vod/2019-12-27/5e05c3ea0557c.jpg",
-"link":"http://www.zegomovie.com/Videos/AngelHasFallen/index.m3u8",
-"year":"2019",
-"catagory":"Movies	Action	Adventure",
-"studio":"Hollywood"
-},{
-"movietitle":"LONDON HAS FALLEN",
-"description":"Mike Banning is framed for the attempted assassination of the President and must evade his own agency and the FBI as he tries to uncover the real threat.",
-"movie_cover_img":"https://imageio.forbes.com/blogs-images/scottmendelson/files/2016/03/london1-1200x900.jpg?format=jpg&width=960",
-"movie_img":"http://zegomovie.com/Uploads/vod/2019-05-23/5ce67eeb876a0.jpg",
-"link":"http://www.zegomovie.com/Videos/LONDONHASFALLEN/index.m3u8",
-"year":"2016",
-"catagory":"Movies	Action	Adventure",
-"studio":"Hollywood"
-},{
-"movietitle":"Jame Bond Spectre",
-"description":"A cryptic message from 007's past sends him pitted against a mysterious terrorist organization called Spectre, and learns of its involvement in previous events of his most dangerous missions.",
-"movie_cover_img":"https://upload.wikimedia.org/wikipedia/en/b/b9/Spectre_2015_poster.jpg",
-"movie_img":"http://zegomovie.com/Uploads/vod/2019-06-22/5d0dd9b70e18a.jpg",
-"link":"http://www.zegomovie.com/Videos/JameBondSpectre/index.m3u8",
-"year":"2015",
-"catagory":"Movies	Action	Adventure",
-"studio":"Hollywood"
-},{
-"movietitle":"007 James Bond A View To A Kill",
-"description":"This App is Designed for myanmar people",
-"movie_cover_img":"https://w0.peakpx.com/wallpaper/307/437/HD-wallpaper-view-to-a-kill-james-bond-movie-007.jpg",
-"movie_img":"http://zegomovie.com/Uploads/vod/2019-06-14/5d0319813f730.jpg",
-"link":"http://www.zegomovie.com/Videos/007JamesBondAViewTAKill/index.m3u8",
-"year":"1985",
-"catagory":"Movies	Action	Adventure",
-"studio":"Hollywood"
-},{
-"movietitle":"007 James Bond Never Say Never Again",
-"description":"This App is Designed for myanmar people",
-"movie_cover_img":"https://upload.wikimedia.org/wikipedia/en/6/6c/Never_Say_Never_Again_%E2%80%93_UK_cinema_poster.jpg",
-"movie_img":"http://zegomovie.com/Uploads/vod/2019-06-12/5d00b18a97e10.jpg",
-"link":"http://www.zegomovie.com/Videos/007JamesBondNeverSayNeverAgain/index.m3u8",
-"year":"1983",
-"catagory":"Movies	Action	Adventure",
-"studio":"Hollywood"
-},{
-"movietitle":"007 James Bond Gold finger",
-"description":"This App is Designed for myanmar people",
-"movie_cover_img":"https://c4.wallpaperflare.com/wallpaper/162/247/634/movie-goldfinger-wallpaper-preview.jpg",
-"movie_img":"http://zegomovie.com/Uploads/vod/2019-06-05/5cf74d3d142f2.jpg",
-"link":"http://www.zegomovie.com/Videos/007JamesBondGoldfinger/index.m3u8",
-"year":"1964",
-"catagory":"Movies	Action	Adventure",
-"studio":"Hollywood"
-},{
+      "movietitle": "Korameenu",
+      "description": "Set in fisherman's colony of jalaripeta, this is a twisty-roller coaster story of a happy go-lucky driver of a narcissistic rich man with a lot of influence. After both of them end up liking the same woman, conflicts ensue.",
+      "movie_cover_img": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2022/10/29/maxresdefault-130.jpg?fit=1280%2C720&quality=80&zoom=1&ssl=1?v=1667058365",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-28/63d4f8bf0ded2.png",
+      "link": "http://www.zegomovie.com/Videos/Korameenu/index.m3u8",
+      "year": "2022",
+      "catagory": "Movies Action Drama ",
+      "studio": "Bollywood"
+    },
+    {
+      "movietitle": "Aan: Men at Work",
+      "description": "DCP Patnaik and his team's fights against corrupted politicians and mafia rule Mumbai city. However their faith in law and order is tested with serious outcomes.",
+      "movie_cover_img": "https://www.moviesavailableon.com/Images/movies/aamen_atwork_h.jpg",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-27/63d35da489031.png",
+      "link": "http://www.zegomovie.com/Videos/AanMenatWork/index.m3u8",
+      "year": "2004",
+      "catagory": "Movies Action Crime Drama ",
+      "studio": "Bollywood"
+    },
+    {
+      "movietitle": "Ninja II: Shadow of a Tear",
+      "description": "This App is Designed for myanmar people",
+      "movie_cover_img": "https://i.ytimg.com/vi/U1vGrAj8m4Y/maxresdefault.jpg",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-28/63d4e8e1445b3.png",
+      "link": "http://www.zegomovie.com/Videos/Ninja/index.m3u8",
+      "year": "2013",
+      "catagory": "Movies Action",
+      "studio": "Thailand"
+    },
+    {
+      "movietitle": "Percy Jackson & the Olympians The Ligthing Thief",
+      "description": "A teenager discovers he's the descendant of a Greek god and sets out on an adventure to settle an on-going battle between the gods.",
+      "movie_cover_img": "https://whatsondisneyplus.com/wp-content/uploads/2020/06/Percy-Jackson-1024x576.png",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-04/5cf646e09b0a6.jpg",
+      "link": "http://www.zegomovie.com/Videos/PercyJackson&theOlympiansTheLightningThief/index.m3u8",
+      "year": "2010",
+      "catagory": "Movies Adventure Family Fantasy",
+      "studio": "Hollywood"
+    },
+    {
+      "movietitle": "Angel Has Fallen",
+      "description": "Mike Banning is framed for the attempted assassination of the President and must evade his own agency and the FBI as he tries to uncover the real threat.",
+      "movie_cover_img": "https://i0.wp.com/jumpcutonline.co.uk/wp-content/uploads/2019/08/3840x2160-36-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-12-27/5e05c3ea0557c.jpg",
+      "link": "http://www.zegomovie.com/Videos/AngelHasFallen/index.m3u8",
+      "year": "2019",
+      "catagory": "Movies Action Adventure",
+      "studio": "Hollywood"
+    },
+    {
+      "movietitle": "LONDON HAS FALLEN",
+      "description": "Mike Banning is framed for the attempted assassination of the President and must evade his own agency and the FBI as he tries to uncover the real threat.",
+      "movie_cover_img": "https://imageio.forbes.com/blogs-images/scottmendelson/files/2016/03/london1-1200x900.jpg?format=jpg&width=960",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-05-23/5ce67eeb876a0.jpg",
+      "link": "http://www.zegomovie.com/Videos/LONDONHASFALLEN/index.m3u8",
+      "year": "2016",
+      "catagory": "Movies Action Adventure",
+      "studio": "Hollywood"
+    },
+    {
+      "movietitle": "Jame Bond Spectre",
+      "description": "A cryptic message from 007's past sends him pitted against a mysterious terrorist organization called Spectre, and learns of its involvement in previous events of his most dangerous missions.",
+      "movie_cover_img": "https://upload.wikimedia.org/wikipedia/en/b/b9/Spectre_2015_poster.jpg",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-22/5d0dd9b70e18a.jpg",
+      "link": "http://www.zegomovie.com/Videos/JameBondSpectre/index.m3u8",
+      "year": "2015",
+      "catagory": "Movies Action Adventure",
+      "studio": "Hollywood"
+    },
+    {
+      "movietitle": "007 James Bond A View To A Kill",
+      "description": "This App is Designed for myanmar people",
+      "movie_cover_img": "https://w0.peakpx.com/wallpaper/307/437/HD-wallpaper-view-to-a-kill-james-bond-movie-007.jpg",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-14/5d0319813f730.jpg",
+      "link": "http://www.zegomovie.com/Videos/007JamesBondAViewTAKill/index.m3u8",
+      "year": "1985",
+      "catagory": "Movies Action Adventure",
+      "studio": "Hollywood"
+    },
+    {
+      "movietitle": "007 James Bond Never Say Never Again",
+      "description": "This App is Designed for myanmar people",
+      "movie_cover_img": "https://upload.wikimedia.org/wikipedia/en/6/6c/Never_Say_Never_Again_%E2%80%93_UK_cinema_poster.jpg",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-12/5d00b18a97e10.jpg",
+      "link": "http://www.zegomovie.com/Videos/007JamesBondNeverSayNeverAgain/index.m3u8",
+      "year": "1983",
+      "catagory": "Movies Action Adventure",
+      "studio": "Hollywood"
+    },
+    {
+      "movietitle": "007 James Bond Gold finger",
+      "description": "This App is Designed for myanmar people",
+      "movie_cover_img": "https://c4.wallpaperflare.com/wallpaper/162/247/634/movie-goldfinger-wallpaper-preview.jpg",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-05/5cf74d3d142f2.jpg",
+      "link": "http://www.zegomovie.com/Videos/007JamesBondGoldfinger/index.m3u8",
+      "year": "1964",
+      "catagory": "Movies Action Adventure",
+      "studio": "Hollywood"
+    },
+    {
       "movietitle": "Whiskey Tango Foxtrot",
       "description": "This App is Designed for myanmar people",
       "movie_cover_img": "https://hcmoviereviews.files.wordpress.com/2016/05/whiskey-tango-foxtrot-web.jpg",
