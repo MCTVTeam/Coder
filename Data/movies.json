@@ -1,6 +1,15 @@
 {
   "Movies_Database": [
     {
+"movietitle":"Ninja II: Shadow of a Tear",
+"description":"This App is Designed for myanmar people",
+"movie_cover_img":"https://i.ytimg.com/vi/U1vGrAj8m4Y/maxresdefault.jpg",
+"movie_img":"http://zegomovie.com/Uploads/vod/2023-01-28/63d4e8e1445b3.png",
+"link":"http://www.zegomovie.com/Videos/Ninja/index.m3u8",
+"year":"2013",
+"catagory":"Movies	Action",
+"studio":"Thailand"
+},{
 "movietitle":"Percy Jackson & the Olympians The Ligthing Thief",
 "description":"A teenager discovers he's the descendant of a Greek god and sets out on an adventure to settle an on-going battle between the gods.",
 "movie_cover_img":"https://whatsondisneyplus.com/wp-content/uploads/2020/06/Percy-Jackson-1024x576.png",
