@@ -1,6 +1,88 @@
 {
     "Series_Database": [
       {
+    "movietitle": "Poong the Joseon Psychiatrist",
+    "description": "About a royal physician who got expelled from the royal court and now heals souls in a strange but beautiful village",
+    "series_cover_img": "https://cms.dmpcdn.com/dara/2022/07/25/41f4b290-0b78-11ed-8fb5-e15f9fff3e9e_webp_320.webp",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-29/63d60c233db0e.PNG",
+    "year": "2022",
+    "catagory": "Series Comedy History Romance ",
+    "studio": "Korea",
+    "link": [
+      {
+        "ep_no": "Ep 1",
+        "link": "http://www.zegomovie.com/Videos/PoongtheJoseonPsychiatristEp1/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 2",
+        "link": "http://www.zegomovie.com/Videos/PoongtheJoseonPsychiatristEp2/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 3",
+        "link": "http://www.zegomovie.com/Videos/PoongtheJoseonPsychiatristEp3/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 4",
+        "link": "http://www.zegomovie.com/Videos/PoongtheJoseonPsychiatristEp4/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 5",
+        "link": "http://www.zegomovie.com/Videos/PoongtheJoseonPsychiatristEp5/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 6",
+        "link": "http://www.zegomovie.com/Videos/PoongtheJoseonPsychiatristEp6/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 7",
+        "link": "http://www.zegomovie.com/Videos/PoongtheJoseonPsychiatristEp7/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 8",
+        "link": "http://www.zegomovie.com/Videos/PoongtheJoseonPsychiatristEp8/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 9",
+        "link": "http://www.zegomovie.com/Videos/PoongtheJoseonPsychiatristEp9/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 10",
+        "link": "http://www.zegomovie.com/Videos/PoongtheJoseonPsychiatristEp10/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 11",
+        "link": "http://www.zegomovie.com/Videos/PoongtheJoseonPsychiatristEp11/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 12",
+        "link": "http://www.zegomovie.com/Videos/PoongtheJoseonPsychiatristEp12/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 13",
+        "link": "http://www.zegomovie.com/Videos/PoongtheJoseonPsychiatristEp13/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 14",
+        "link": "http://www.zegomovie.com/Videos/PoongtheJoseonPsychiatristEp14/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 15",
+        "link": "http://www.zegomovie.com/Videos/PoongtheJoseonPsychiatristEp15/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 16",
+        "link": "http://www.zegomovie.com/Videos/PoongtheJoseonPsychiatristEp16/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 17",
+        "link": "http://www.zegomovie.com/Videos/PoongtheJoseonPsychiatristEp17/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 18",
+        "link": "http://www.zegomovie.com/Videos/PoongtheJoseonPsychiatristEp18/index.m3u8"
+      }
+    ]
+  },{
         "movietitle": "Autumn in My Heart",
         "description": "This App is Designed for myanmar people",
         "series_cover_img": "https://mctvteam.github.io/Coder/Logo/moviecover.png",
