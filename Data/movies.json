@@ -1,6 +1,25 @@
 {
   "Movies_Database": [
     {
+    "movietitle": "Deep Impact",
+    "description": "Deep Impactဆိုတဲ့အတိုင်းပါပဲ ကမ္ဘာရှိရာကို ဦးတည်ရိုက်ခတ်လာတော့မဲ့ ကြယ်တံခွန်ကြီး တစ်ခုအကြောင်းကို\r\nဇာတ်အိမ်တည်ပြီး Sci-fiနဲ့ Drama တွဲလျက် ရိုက်ကူးထားတာပါ။\r\nဇာတ်လမ်းကိုတော့ ဆယ်ကျော်သက် နက္ခတ္တဗေဒ ဝါသနာအိုးလေးတစ်ယောက်က ညဖက် Telescopeနဲ့ ကြည့်ရင်း\r\nအမျိုးအမည်မသိ ကြယ်တံခွန်ကြီး တစ်လုံးကို တွေ့ရာကနေ စပြီးဖွင့်ထားပါတယ်။\r\nဒီလိုနဲ့ New Yorkမြို့လောက်ကြီးတဲ့ အာကာသထဲက ပြဿနာထုပ်ကြီးကို အစိုးရဖက်က ပါးပါးနပ်နပ် ကိုင်တွယ်ဖြေရှင်း‌\r\nပုံတွေကို ကြည့်ရှုရမှာပါ။ အမေရိကန်သမ္မတ နေရာကို Morgan Freemanက ပါဝင်သရုပ်ဆောင်ထားတဲ့အပြင်\r\nIMDbကလည်း 6.2ရထားပြီး CGIတွေက မဆိုးလှတဲ့အနေအထား တစ်ခုမှာ ရှိတာမို့ ကြည့်ရကျိုးမနပ်ရင်တောင်\r\nအကျိုးတော့မယုတ်ဘူးဆိုတာ အာမခံပါတယ်။",
+    "movie_cover_img": "https://dvdcover.com/wp-content/uploads/2019/04/2019-04-06_5ca7f33b1b90a_Deep_ImpactSL-950x655.jpg",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-30/63d7945616c4f.PNG",
+    "link": "http://www.zegomovie.com/Videos/DeepImpact/index.m3u8",
+    "year": "1998",
+    "catagory": "Movies Action Drama ",
+    "studio": "Hollywood"
+  },
+  {
+    "movietitle": "Raangi",
+    "description": "Thaiyal Nayagi ဆိုတာအမျိုးသမီးတွေရဲ့ခေါင်းဆောင်ဆိုတဲ့အဓိပ္ပာယ်ပါနာမည်နဲ့လိုက်အောင် ရဲစွမ်းသတ္တိနဲ့ပြည့်စုံတဲ့သတင်းထောက်မလေးမတရားတာတွေကိုလက်ပိုက်ကြည့်မနေဘဲ ဖြေရှင်းပေးတတ်သူသူတင်တဲ့သတင်းတိုင်းက မပေါက်တာမရှိတဲ့လူပေါ့ ဒါကြောင့်ပဲဇာတ်လမ်းစစချင်းမှာ FBI တွေက သူ့နာမည်ကိုမေးပြီး အပူတပြင်းလိုက်ရှာနေကြတယ်ဘာကိစ္စကိုဘယ်လိုပတ်သက်မိလို့ FBI ကအစပါဝင်နေလဲသူလည်းမသိခဲ့ဘူးဒီအဖွဲ့အစည်းကပါလို့ပြောပြီး သူ့ကိုနေရာတစ်နေရာဆီဆွဲခေါ်သွားကြတယ်ဒီအကြောင်းကိုသတင်းရေးရင် သေသလားရှင်သလားပြည်သူတွေမသိအောင်လူပျောက်စာရင်းဖွင့်မယ်လို့လည်း ခြိမ်းခြောက်ထားကြတာပေါ့ …ဒီဇာတ်လမ်းတွေရဲ့အစက သူ့တူမ စုရှ်မီသာကစပါတယ် သူ့နာမည်နဲ့ သူ့ပုံပါတဲ့Facebook က ယောကျာ်းလေး ၁၈ယောက်နဲ့ Sex Chat ထားပြီးအဲဒီ၁၈ယောက်တည်းကတစ်ယောက်ကခြိမ်းခြောက်လေတော့သိုင်ရယ်လည်းမနေနိုင် ဝင်ဖြေရှင်းရပါတော့တယ် ဒီလိုနဲ့သူ့တူမနာမည်နဲ့အကောင့်ထဲဝင်လိုက်ရင်း ထင်မထားတဲ့ဓာတ်ပုံကိုတွေ့ပြီးမီဒီယာမှာတင်လိုက်မိရာက…. သူ့ဘဝတစ်ဆစ်ချိုးဘယ်လိုပြောင်းလဲသွားမလဲစိတ်ဝင်စားစရာတွေတစ်ပုံကြီးနဲ့ ကြည့်ရှုရမဲ့ကားဖြစ်တာကြောင့် အခုပဲကြည့်လိုက်ကြပါတော့နော်",
+    "movie_cover_img": "https://static.moviecrow.com/marquee/raangi-fdfs-plot-censor-runtime-ott-satellite--more/210233_thumb_665.jpg",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-30/63d74c18ac936.png",
+    "link": "http://www.zegomovie.com/Videos/Raangi/index.m3u8",
+    "year": "2022",
+    "catagory": "Movies Action Drama ",
+    "studio": "Boolywood"
+  },{
     "movietitle": "Dakuaan Da Munda 2",
     "description": "An autobiography of the famous writer and teacher \u0027Manga Singh Antal\u0027, a young Kabaddi and Volleyball player Manga became a drug addict which introduced him to crime.",
     "movie_cover_img": "https://filmibytes.com/wp-content/uploads/2022/05/dakuaan-da-munda-2-movie-review.jpg",
