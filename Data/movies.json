@@ -1,6 +1,25 @@
 {
   "Movies_Database": [
     {
+    "movietitle": "Dakuaan Da Munda 2",
+    "description": "An autobiography of the famous writer and teacher \u0027Manga Singh Antal\u0027, a young Kabaddi and Volleyball player Manga became a drug addict which introduced him to crime.",
+    "movie_cover_img": "https://filmibytes.com/wp-content/uploads/2022/05/dakuaan-da-munda-2-movie-review.jpg",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-30/63d743e43afdc.png",
+    "link": "http://www.zegomovie.com/Videos/DakuaanDaMunda2/index.m3u8",
+    "year": "2022",
+    "catagory": "Movies Action ",
+    "studio": "Bollywood"
+  },
+  {
+    "movietitle": "All of You",
+    "description": "The film concerns the life of King Naresuan, who liberated the Siamese from the control of Burma. Born in 1555, he was taken to Burma as a child hostage; there he became acquainted with sword fighting and became a threat to the Burmese empire.",
+    "movie_cover_img": "http://zegomovie.com/Uploads/vod/2023-01-30/63d738175ddf5.png",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-30/63d738175ddf5.png",
+    "link": "http://www.zegomovie.com/Videos/AllOfYou/index.m3u8",
+    "year": "2007",
+    "catagory": "Movies Comedy ",
+    "studio": "Philippine"
+  },{
     "movietitle": "Gulu Gulu",
     "description": "The hero who lives in the present day and does every odd job for survival. He is approached for help by a group of youngsters who want to rescue one of their friends from a kidnap. But that kidnap had happened due to mistaken identity.",
     "movie_cover_img": "https://images.cinemaexpress.com/uploads/user/imagelibrary/2022/7/29/original/Gulu_Gulu.jpg?w\u003d640\u0026dpr\u003d1.0",
