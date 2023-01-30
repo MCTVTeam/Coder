@@ -1,6 +1,25 @@
 {
   "Movies_Database": [
     {
+    "movietitle": "Gulu Gulu",
+    "description": "The hero who lives in the present day and does every odd job for survival. He is approached for help by a group of youngsters who want to rescue one of their friends from a kidnap. But that kidnap had happened due to mistaken identity.",
+    "movie_cover_img": "https://images.cinemaexpress.com/uploads/user/imagelibrary/2022/7/29/original/Gulu_Gulu.jpg?w\u003d640\u0026dpr\u003d1.0",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-28/63d4fb9de1a06.png",
+    "link": "http://www.zegomovie.com/Videos/GuluGulu/index.m3u8",
+    "year": "2022",
+    "catagory": "Movies Comedy ",
+    "studio": "Bollywood"
+  },
+  {
+    "movietitle": "Mission Majnu",
+    "description": "The untold story of India\u0027s most audacious and daring covert operation in the heart of Pakistan.",
+    "movie_cover_img": "https://www.bollymoviereviewz.com/wp-content/uploads/2023/01/Mission-Majnu-Review.jpg",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-23/63cdf8a9860e1.png",
+    "link": "http://www.zegomovie.com/Videos/MissionMajnu/index.m3u8",
+    "year": "2023",
+    "catagory": "Movies Action Drama History ",
+    "studio": "Boolywood"
+  },{
       "movietitle": "Korameenu",
       "description": "Set in fisherman's colony of jalaripeta, this is a twisty-roller coaster story of a happy go-lucky driver of a narcissistic rich man with a lot of influence. After both of them end up liking the same woman, conflicts ensue.",
       "movie_cover_img": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2022/10/29/maxresdefault-130.jpg?fit=1280%2C720&quality=80&zoom=1&ssl=1?v=1667058365",
