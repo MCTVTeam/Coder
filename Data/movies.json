@@ -1,5 +1,25 @@
 {
-  "Movies_Database": [
+  "Movies_Database": [ 
+    {
+     "movietitle": "Paradise City",
+      "description": "နာမည်ကျော်မင်းသားကြီးနှစ်ယောက် Pulp Fiction အပြီးမှာပြန်ဆုံကြတဲ့ကားလေးပါ။ Bruse Willis နဲ့ John Travolta တို့တွဲဖက်သရုပ်ဆောင်ထားတဲ့ အက်ရှင်ကားလေးပါ။ Ryan ဆိုတဲ့လူငယ်တစ်ယောက်သူ့အဖေ ဖြစ်သူသေဆုံးသွားတဲ့ Maui ကျွန်းပေါ်ကို‌ရောက်လာပြီး ဖြစ်ရပ်မှန်ဖော်ထုတ်ဖို့ကြိုးစားရာကနေ ထင်မထားဘဲ ရန်သူတွေဝိုင်းလာပါတော့တယ်။ Ryan လည်းရသမျှအကူအညီယူပြီး မူးယစ်ရာဇာတစ်ယောက်နဲ့ထိပ်တိုက်တွေ့ရာကနေ ပွဲကြမ်းလာပုံကိုကြည့်ရှုရမှာပါ။",
+      "movie_cover_img": "https://whatsondisneyplus.com/wp-content/uploads/2020/06/Percy-Jackson-1024x576.png",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-13/63c11266cc739.PNG",
+      "link": "http://www.zegomovie.com/Videos/ParadiseCity/index.m3u8",
+      "year": "2022",
+      "catagory": "Movies Action",
+      "studio": "Hollywood"
+    },
+    {
+    "movietitle": "Black Warrant",
+    "description": "ကမ္ဘာ​ကို မီးဖျက်ဖို့ကြိုးစား​နေတဲ့ အကြမ်းဖက်သမား​တွေရဲ့အကြံကို တားဖို့ အ​သေဖမ်းဝရမ်းနဲ့ တာဝန်​ပေးခံရတဲ့ အ​ဖေဖြစ်သူနစ်ခ် နဲ့ နှစ်​ပေါင်းများစွာ အ​ဖေဖြစ်သူနဲ့ကွာ​ဝေး​နေပြီး မူးယစ်ရဲ ဖြစ်​နေတဲ့သားဖြစ်သူ အန်တိုနီတို့ မစ်ရှင်တစ်ခုတည်းကို ဘယ်လိုပူး​ပေါင်းပြီး တားမလဲဆိုတာကို အက်ရှင်ဆန်​ဆန်ရိုက်ပြ​ထားတဲ့ ကားလေးပါပဲ။အ​ဖေနဲ့သားအကြားက နားလည်မှုလွဲတာ​တွေကို ဘယ်လိုပုံစံနဲ့ ​​ဖြေရှင်းကြမလဲ… ​ပေးထားတဲ့မစ်ရှင်ကိုလည်း သားအဖနှစ်​ယောက် ဘယ်လို အကြံ​ကောင်း​ကောင်း နဲ့ရင်ဆိုင်ရမလဲဆိုတာ​​တွေကို ​တွေ့ရမှာမို့လို့ တစ်​ခေါက်​လောက်​တော့ကြည့်သင့်တဲ့ အက်ရှင်ကားလေးတစ်ကားဆိုလည်း မမှားပါဘူး။(ဒီဇာတ်ကားနဲ့အညွှန်းကို DB မှ ပြန်ဆို ရေးသားထားပါတယ်)
+    "movie_cover_img": "https://fr.web.img6.acsta.net/pictures/22/11/04/07/34/4519206.jpg",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-23/63ce134bcbed4.png",
+    "link": "http://www.zegomovie.com/Videos/BlackWarrant/index.m3u8",
+    "year": "2022",
+    "catagory": "Movies Action  ",
+    "studio": "Hollywood"
+  },
     {
     "movietitle": "Deep Impact",
     "description": "Deep Impactဆိုတဲ့အတိုင်းပါပဲ ကမ္ဘာရှိရာကို ဦးတည်ရိုက်ခတ်လာတော့မဲ့ ကြယ်တံခွန်ကြီး တစ်ခုအကြောင်းကို\r\nဇာတ်အိမ်တည်ပြီး Sci-fiနဲ့ Drama တွဲလျက် ရိုက်ကူးထားတာပါ။\r\nဇာတ်လမ်းကိုတော့ ဆယ်ကျော်သက် နက္ခတ္တဗေဒ ဝါသနာအိုးလေးတစ်ယောက်က ညဖက် Telescopeနဲ့ ကြည့်ရင်း\r\nအမျိုးအမည်မသိ ကြယ်တံခွန်ကြီး တစ်လုံးကို တွေ့ရာကနေ စပြီးဖွင့်ထားပါတယ်။\r\nဒီလိုနဲ့ New Yorkမြို့လောက်ကြီးတဲ့ အာကာသထဲက ပြဿနာထုပ်ကြီးကို အစိုးရဖက်က ပါးပါးနပ်နပ် ကိုင်တွယ်ဖြေရှင်း‌\r\nပုံတွေကို ကြည့်ရှုရမှာပါ။ အမေရိကန်သမ္မတ နေရာကို Morgan Freemanက ပါဝင်သရုပ်ဆောင်ထားတဲ့အပြင်\r\nIMDbကလည်း 6.2ရထားပြီး CGIတွေက မဆိုးလှတဲ့အနေအထား တစ်ခုမှာ ရှိတာမို့ ကြည့်ရကျိုးမနပ်ရင်တောင်\r\nအကျိုးတော့မယုတ်ဘူးဆိုတာ အာမခံပါတယ်။",
@@ -19,7 +39,8 @@
     "year": "2022",
     "catagory": "Movies Action Drama ",
     "studio": "Boolywood"
-  },{
+  },
+    {
     "movietitle": "Dakuaan Da Munda 2",
     "description": "An autobiography of the famous writer and teacher \u0027Manga Singh Antal\u0027, a young Kabaddi and Volleyball player Manga became a drug addict which introduced him to crime.",
     "movie_cover_img": "https://filmibytes.com/wp-content/uploads/2022/05/dakuaan-da-munda-2-movie-review.jpg",
