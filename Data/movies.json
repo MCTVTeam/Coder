@@ -1,6 +1,15 @@
 {
   "Movies_Database": [ 
     {
+    "movietitle": "Night Train",
+    "description": "ဟောလီးဝုဒ်အဖွဲ့သားတစ်ဦးသည် မှောင်ခိုဈေးကွက်တွင် ဆေးဘက်ဆိုင်ရာပစ္စည်းများကို မှောင်ခိုဈေးကွက်အတွင်းမှ ဆေးဘက်ဆိုင်ရာ အထောက်အပံ့များ ပေးဆောင်နေစဉ် ရက်စက်သော FBI အေးဂျင့်တစ်ဦး၏ ဖမ်းဆီးခြင်းကို ရှောင်လွှဲကာ အောင်မြင်မှုရရှိရန် ရုန်းကန်နေရသည့် မိခင်တစ်ဦး၏ အကြောင်းအားရင်ခုန်စွာရှုစားရမှာပဲဖြစ်ပါတယ်။",
+    "movie_cover_img": "https://a.qfilm.tv/social-thumb.php?vid\u003dc0056fd85",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2023-02-03/63dc922b7d18c.PNG",
+    "link": "http://www.zegomovie.com/Videos/nighttrain/index.m3u8",
+    "year": "2023",
+    "catagory": "Movies Thriller ",
+    "studio": "hollywood"
+  },{
     "movietitle": "The Offering",
     "description": "ဆုံးရှုံးခြင်းနှင့် ရုန်းကန်နေရသော မိသားစုတစ်စုသည် ၎င်းတို့ကို အတွင်းပိုင်းမှ ဖျက်ဆီးရန် ကြိုးပမ်းနေသည့် ရှေးနတ်ဆိုး၏ ကရုဏာဖြင့် သူတို့ကိုယ်သူတို့ တွေ့ရှိသွားကြသောအခါ.....",
     "movie_cover_img": "https://www.heavenofhorror.com/wp-content/uploads/2023/01/the-offering-2022-horror-movie-review-1000x640.jpg",
