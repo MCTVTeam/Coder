@@ -1,6 +1,284 @@
 {
     "Series_Database": [
       {
+    "movietitle": "Game of Witches",
+    "description": "သမီးဖြစ်သူကို ဆုံးရှုံးလိုက်ရပေမဲ့ အလောင်းကို ကိုယ်တိုင်မမြင်ခဲ့တဲ့အတွက် လက်မခံနိုင်တဲ့ ယူဂျောင်း တစ်ယောက် တစ်နေ့မှာတော့ သူ့သမီးလေး အသက်ရှင်နေသေးတယ်ဆိုတာကို သိလိုက်ရလို့ အပူတပြင်း လိုက်ရှာပါတော့တယ်။\n\nသားသမီးရှေ့ရေးအတွက် မတရားမှုတွေကို ဘယ်လိုနည်းနဲ့မဆို တွန်းလှန်ဖို့ အသင့်ဖြစ်နေတဲ့ မိခင်နှစ်ဦး သားသမီးတွေအတွက် လက်စားချေရဖို့ဖြစ်လာတဲ့အခါ …\n\nဆုံးရှုံးလိုက်ရတဲ့ သမီးလေးက တကယ်ပဲ အသက်ရှင်နေသေးတာလား?\nဘာတွေဆက်ဖြစ်မလဲ? ဆိုတာကိုတော့ လှည့်ကွက် မြုပ်ကွက်တွေ တသီကြီး စိတ်ကြိုက် အဝ ကြည့်ရမဲ့ ဇာတ်လမ်းတွဲရှည်ကြီးမှာ ဆက်ပြီး စောင့်ကြည့်လိုက်ရအောင်နော်။\n\nအပတ်စဉ် တနင်္လာ မှ သောကြာ တစ်ပတ်ငါးပိုင်း ပြသမှာဖြစ်ပြီး CMမှလည်း အပတ်စဉ်တင်ဆက်ပေးသွားပါ့မယ်။\n\n(ဇာတ်လမ်းအညွှန်းကိုတော့ Hnin Wut Yi က ရေးပေးထားပါတယ်။)",
+    "series_cover_img": "https://6.vikiplatform.com/image/9c62770c9b96478b888a7bbbc08c5496/dummy.jpg?x\u003db\u0026a\u003d0x0",
+    "movie_img": "https://asianwiki.com/images/0/0b/Game_of_Witches-p1.jpg",
+    "year": "2022",
+    "catagory": "Series Crime Drama Mystery ",
+    "studio": "Korea",
+    "link": [
+      {
+        "ep_no": "EP 1",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp01/index.m3u8"
+      },
+      {
+        "ep_no": "EP 2",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp02/index.m3u8"
+      },
+      {
+        "ep_no": "EP 3",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp03/index.m3u8"
+      },
+      {
+        "ep_no": "EP 4",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp04/index.m3u8"
+      },
+      {
+        "ep_no": "EP 5",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp05/index.m3u8"
+      },
+      {
+        "ep_no": "EP 6",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp06/index.m3u8"
+      },
+      {
+        "ep_no": "EP 7",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp07/index.m3u8"
+      },
+      {
+        "ep_no": "EP 8",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp08/index.m3u8"
+      },
+      {
+        "ep_no": "EP 9",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp09/index.m3u8"
+      },
+      {
+        "ep_no": "EP 10",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp10/index.m3u8"
+      },
+      {
+        "ep_no": "EP 11",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp11/index.m3u8"
+      },
+      {
+        "ep_no": "EP 12",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp12/index.m3u8"
+      },
+      {
+        "ep_no": "EP 13",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp13/index.m3u8"
+      },
+      {
+        "ep_no": "EP 14",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp14/index.m3u8"
+      },
+      {
+        "ep_no": "EP 15",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp15/index.m3u8"
+      },
+      {
+        "ep_no": "EP 16",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp16/index.m3u8"
+      },
+      {
+        "ep_no": "EP 17",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp17/index.m3u8"
+      },
+      {
+        "ep_no": "EP 18",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp18/index.m3u8"
+      },
+      {
+        "ep_no": "EP 19",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp19/index.m3u8"
+      },
+      {
+        "ep_no": "EP 20",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp20/index.m3u8"
+      },
+      {
+        "ep_no": "EP 21",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp21/index.m3u8"
+      },
+      {
+        "ep_no": "EP 22",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp22/index.m3u8"
+      },
+      {
+        "ep_no": "EP 23",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp23/index.m3u8"
+      },
+      {
+        "ep_no": "EP 24",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp24/index.m3u8"
+      },
+      {
+        "ep_no": "EP 25",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp25/index.m3u8"
+      },
+      {
+        "ep_no": "EP 26",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp26/index.m3u8"
+      },
+      {
+        "ep_no": "EP 27",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp27/index.m3u8"
+      },
+      {
+        "ep_no": "EP 28",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp28/index.m3u8"
+      },
+      {
+        "ep_no": "EP 29",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp29/index.m3u8"
+      },
+      {
+        "ep_no": "EP 30",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp30/index.m3u8"
+      },
+      {
+        "ep_no": "EP 31",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp31/index.m3u8"
+      },
+      {
+        "ep_no": "EP 32",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp32/index.m3u8"
+      },
+      {
+        "ep_no": "EP 33",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp33/index.m3u8"
+      },
+      {
+        "ep_no": "EP 34",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp34/index.m3u8"
+      },
+      {
+        "ep_no": "EP 35",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp35/index.m3u8"
+      },
+      {
+        "ep_no": "EP 36",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp36/index.m3u8"
+      },
+      {
+        "ep_no": "EP 37",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp37/index.m3u8"
+      },
+      {
+        "ep_no": "EP 38",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp38/index.m3u8"
+      },
+      {
+        "ep_no": "EP 39",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp39/index.m3u8"
+      },
+      {
+        "ep_no": "EP 40",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp40/index.m3u8"
+      },
+      {
+        "ep_no": "EP 41",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp41/index.m3u8"
+      },
+      {
+        "ep_no": "EP 42",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp42/index.m3u8"
+      },
+      {
+        "ep_no": "EP 43",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp43/index.m3u8"
+      },
+      {
+        "ep_no": "EP 44",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp44/index.m3u8"
+      },
+      {
+        "ep_no": "EP 45",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp45/index.m3u8"
+      },
+      {
+        "ep_no": "EP 46",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp46/index.m3u8"
+      },
+      {
+        "ep_no": "EP 47",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp47/index.m3u8"
+      },
+      {
+        "ep_no": "EP 48",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp48/index.m3u8"
+      },
+      {
+        "ep_no": "EP 49",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp49/index.m3u8"
+      },
+      {
+        "ep_no": "EP 50",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp50/index.m3u8"
+      },
+      {
+        "ep_no": "EP 51",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp51/index.m3u8"
+      },
+      {
+        "ep_no": "EP 52",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp52/index.m3u8"
+      },
+      {
+        "ep_no": "EP 53",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp53/index.m3u8"
+      },
+      {
+        "ep_no": "EP 54",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp54/index.m3u8"
+      },
+      {
+        "ep_no": "EP 55",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp55/index.m3u8"
+      },
+      {
+        "ep_no": "EP 56",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp56/index.m3u8"
+      },
+      {
+        "ep_no": "EP 57",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp57/index.m3u8"
+      },
+      {
+        "ep_no": "EP 58",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp58/index.m3u8"
+      },
+      {
+        "ep_no": "EP 59",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp59/index.m3u8"
+      },
+      {
+        "ep_no": "EP 60",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp60/index.m3u8"
+      },
+      {
+        "ep_no": "EP 61",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp61/index.m3u8"
+      },
+      {
+        "ep_no": "EP 62",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp62/index.m3u8"
+      },
+      {
+        "ep_no": "EP 63",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp63/index.m3u8"
+      },
+      {
+        "ep_no": "EP 64",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp64/index.m3u8"
+      },
+      {
+        "ep_no": "EP 65",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp65/index.m3u8"
+      },
+      {
+        "ep_no": "EP 66",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp66/index.m3u8"
+      },
+      {
+        "ep_no": "EP 67",
+        "link": "http://www.zegomovie.com/Videos/GameofWitchesEp67/index.m3u8"
+      }
+    ]
+  },{
     "movietitle": "Moonshine",
     "description": "သမိုင်းနောက်ခံအချစ်ဇာတ်လမ်းအမိုက်စားလေးတွေကို မျှော်လင့်နေကြတဲ့ CM ပရိသတ်ကြီးအတွက် အခုတစ်ခေါက်တင်ဆက်ပေးမှာကတော့\n\nလူငယ်တွေရဲ့ ချစ်ခြင်းမေတ္တာနဲ့ ခင်မင်မှုတွေကို စိတ်ဝင်စားဖွယ်ဖော်ညွှန်းထားတဲ့ ဂျိုဆွန်းခေတ်နောက်ခံဇာတ်ကားလေးပဲဖြစ်ပါတယ်။\n\n \n\nဒီကားလေးထဲမှာတော့ …\n\n \n\nအရက်သေစာရောင်းဝယ်ဖောက်ကားမှုကို ပြင်းပြင်းထန်ထန်တားမြစ်ထားတဲ့ ကာလကြီးမှာ အောင်မြင်မှုအတွက် ယန်ဟန်းမြို့တော်ကိုတက်လာပြီး တရားရေးဌာနမှာအလုပ်လုပ်နေသူ အထောက်တော်လေး Nam Young\nအကြွေးတွေကိုဆပ်ဖို့အတွက် အရက်ပုန်းရောင်းရုံသာမက ရရာအလုပ်နဲ့ မိသားစုကိုရှာကျွေးနေရတဲ့ကောင်မလေး Kang Ro Seo နဲ့\nအရက်သေစာသောက်စားမှုတားမြစ်ထားပေမယ့် စည်းမျဥ်းတွေကိုဂရုမစိုက်ဘဲ နန်းတော်အပြင်ကိုခိုးခိုးထွက်ပြီး သောက်စားနေတတ်တဲ့ ပြဿနာအိုးမင်းသားလေး Lee Pyo\nကိုယ်လိုချင်တာကိုရအောင်ယူတတ်တဲ့ မျိုးရိုးမြင့်မိသားစုရဲ့ သခင်မလေး Han Ae jin တို့လေးဦး ဆုံစည်းဖို့ အကြောင်းဖန်လာခဲ့ပါတယ်။\n\n \n\nသူတို့လေးဦးရဲ့ ဘယ်လိုကမောက်ကမအဖြစ်အပျက်လေးတွေနဲ့ ဆုံစည်းဖြစ်ကြမလဲ ?\nဘယ်လိုအမှုတွေ ဘယ်လိုအခြေအနေတွေနဲ့ စုံစမ်းမှုတွေကို ရင်တထိတ်ထိတ်နဲ့ လုပ်ဆောင်ကြမလဲ ?\nလူငယ်တွေကြား ဘယ်လိုအချစ်ဇာတ်လမ်းမျိုးတွေ ပေါက်ဖွားလာကြမလဲ ? ဆိုတာကိုတော့ အခုတင်ဆက်ပေးထားတဲ့ When Flowers Bloom, I Think of the Moon (Moonshine) ကားလေးကို အပတ်စဥ်စောင့်ကြည့်ရင်း ရင်ခုန်လိုက်ကြရအောင်နော်။\n\n \n\n \n\nပါဝင်ထားတဲ့ cast တွေကလည်း နာမည်ကြီးသရုပ်ဆောင်တွေဖြစ်တဲ့ Yoo Seung Ho, LeeHyeri, Byun Woo Seok,\nKang Mi Na တွေပဲဖြစ်လို့ သူတို့ လေးဦးရဲ့ အလန်းစားသရုပ်ဆောင်ချက်တွေကို ကြည့်ရှုရမှာပဲဖြစ်ပါတယ်။",
     "series_cover_img": "https://6.viki.io/image/92a44bd21c0046e485dc15e85c6d7049/dummy.jpeg?s\u003d900x600\u0026e\u003dt",
