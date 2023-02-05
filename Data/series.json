@@ -1,6 +1,80 @@
 {
     "Series_Database": [
       {
+    "movietitle": "Reborn Rich",
+    "description": "Yoon Hyun Woo (Song Joong Ki)က အင်အားကြီးလုပ်ငန်းစုကြီးဖြစ်တဲ့\n\nSoonyang Group မှာ သူဌေးမိသားစုရဲ့ လူယုံအတွင်းရေးမှူးအဖြစ် ၁၀ နှစ်ကြာအလုပ်ကျွေးပြုခဲ့ပါတယ်\n\nဒီမိသားစုဆီမှာပဲ အစေခံတစ်ယောက်လို အလုပ်ကြိုးစားခဲ့ပေမဲ့ တစ်နေ့မှာတော့\n\nအလွဲသုံးစားမှုနဲ့စွပ်စွဲခံရပြီး အသတ်ခံခဲ့ရတယ် ..\nသေဆုံးသွားပေမဲ့ အံ့ဩဖို့ကောင်းစွာနဲ့ပဲ သူ့ဝိညာဥ်ဟာ\n\nSoonyang Group CEO Jin Yang Cheol (Lee Sung Min) ရဲ့အငယ်ဆုံးသားလေး\n\nJin Do Joon ခန္ဓာကိုယ်ထဲကနေ နောက်တစ်ကြိမ်ပြန်နိုးလာတဲ့အခါမှာတော့ ..\n\nအဖြစ်အပျက်တွေအားလုံးကို မှတ်မိနေတဲ့ Jin Do Joon တစ်ယောက် ..\n\nသူ့ကိုသတ်ခဲ့တဲ့ ဂျင်မိသားစုကို ဘယ်လိုလက်စားပြန်ချေမလဲ ..\n\n“Soonyang Group Grim Reaper”လို့ လူသိများတဲ့ အဂတိလိုက်စားမှုတိုက်ဖျက်ရေးအဖွဲ့က\n\nအမှုစစ် Seo Min Young (Shin Hyun Bin) နဲ့ လက်တွဲပြီး\n\nငွေကလွဲရင် ဘာမှမမြင်နိုင်တဲ့ CEO ကို ဘယ်လိုအစီအစဥ်တွေနဲ့ အကွက်စေ့စေ့ဖြုတ်ချနိုင်မလဲဆိုတာ ..\nရင်တမမနဲ့ တစ်ခန်းမှမလွတ်တမ်း စောင့်ကြည့်ရမယ့် series လေး ဖြစ်ပါတယ်",
+    "series_cover_img": "https://sls-prod.api-onscene.com/partner_files/trueidintrend/327930/cover_image/1668912405367.jpg",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2022-12-07/63906f6ec34f1.JPG",
+    "year": "2022",
+    "catagory": "Series Drama Fantasy ",
+    "studio": "Korea",
+    "link": [
+      {
+        "ep_no": "Ep 1",
+        "link": "http://www.zegomovie.com/Videos/RebornRichEp1/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 2",
+        "link": "http://www.zegomovie.com/Videos/RebornRichEp2/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 3",
+        "link": "http://www.zegomovie.com/Videos/RebornRichEp3/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 4",
+        "link": "http://www.zegomovie.com/Videos/RebornRichEp4/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 5",
+        "link": "http://www.zegomovie.com/Videos/RebornRichEp5/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 6",
+        "link": "http://www.zegomovie.com/Videos/RebornRichEp6/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 7",
+        "link": "http://www.zegomovie.com/Videos/RebornRichEp7/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 8",
+        "link": "http://www.zegomovie.com/Videos/RebornRichEp8/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 9",
+        "link": "http://www.zegomovie.com/Videos/RebornRichEp9/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 10",
+        "link": "http://www.zegomovie.com/Videos/RebornRichEp10/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 11",
+        "link": "http://www.zegomovie.com/Videos/RebornRichEp11/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 12",
+        "link": "http://www.zegomovie.com/Videos/RebornRichEp12/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 13",
+        "link": "http://www.zegomovie.com/Videos/RebornRichEp13/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 14",
+        "link": "http://www.zegomovie.com/Videos/RebornRichEp14/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 15",
+        "link": "http://www.zegomovie.com/Videos/RebornRichEp15/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 16",
+        "link": "http://www.zegomovie.com/Videos/RebornRichEp16/index.m3u8"
+      }
+    ]
+  },{
     "movietitle": "Game of Witches",
     "description": "သမီးဖြစ်သူကို ဆုံးရှုံးလိုက်ရပေမဲ့ အလောင်းကို ကိုယ်တိုင်မမြင်ခဲ့တဲ့အတွက် လက်မခံနိုင်တဲ့ ယူဂျောင်း တစ်ယောက် တစ်နေ့မှာတော့ သူ့သမီးလေး အသက်ရှင်နေသေးတယ်ဆိုတာကို သိလိုက်ရလို့ အပူတပြင်း လိုက်ရှာပါတော့တယ်။\n\nသားသမီးရှေ့ရေးအတွက် မတရားမှုတွေကို ဘယ်လိုနည်းနဲ့မဆို တွန်းလှန်ဖို့ အသင့်ဖြစ်နေတဲ့ မိခင်နှစ်ဦး သားသမီးတွေအတွက် လက်စားချေရဖို့ဖြစ်လာတဲ့အခါ …\n\nဆုံးရှုံးလိုက်ရတဲ့ သမီးလေးက တကယ်ပဲ အသက်ရှင်နေသေးတာလား?\nဘာတွေဆက်ဖြစ်မလဲ? ဆိုတာကိုတော့ လှည့်ကွက် မြုပ်ကွက်တွေ တသီကြီး စိတ်ကြိုက် အဝ ကြည့်ရမဲ့ ဇာတ်လမ်းတွဲရှည်ကြီးမှာ ဆက်ပြီး စောင့်ကြည့်လိုက်ရအောင်နော်။\n\nအပတ်စဉ် တနင်္လာ မှ သောကြာ တစ်ပတ်ငါးပိုင်း ပြသမှာဖြစ်ပြီး CMမှလည်း အပတ်စဉ်တင်ဆက်ပေးသွားပါ့မယ်။\n\n(ဇာတ်လမ်းအညွှန်းကိုတော့ Hnin Wut Yi က ရေးပေးထားပါတယ်။)",
     "series_cover_img": "https://6.vikiplatform.com/image/9c62770c9b96478b888a7bbbc08c5496/dummy.jpg?x\u003db\u0026a\u003d0x0",
