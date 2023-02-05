@@ -1,6 +1,214 @@
 {
     "Series_Database": [
+      
+  {
+    "movietitle": "Dream of Chang’an",
+    "description": "အားလုံးမျှော်လင့်စောင့်စားနေတဲ့ကားလေး လာပါပြီနော်\n\nRatingတွေအများကြီးနဲ့ ပရိတ်သတ်အသည်းကို သိမ်းသွားခဲ့တဲ့ love and redemption လေးကိုမှတ်မိကြတယ်မို့လား\nဒီတစ်ခေါက်တော့ CMက ​အဲ့ဒီ ဇာတ်ကားလေးထဲက မင်းသား ယွီစီဖုန်းလေးနဲ့\nမင်းသမီးရဲ့အမ ချူလင်းလုံတို့ အတူတွဲဖက်ပြီး ရိုက်ကူးထားတဲ့ကားလေးကို တင်ဆက်ပေးချင်ပါတယ်\n\nဇာတ်ကြောင်းလေးကတော့…\nထန်မင်းဆက်ရဲ့ ဝမ်ကျုံးမင်းခေတ်မှာ မိန်းမစိုးတွေဟာ မင်းကြီးထက်ပိုပြီး အာဏာကုန်ရထားကြပါတယ်\nအဲ့လို့ အာဏာလွှမ်းမိုးနေတာကို ကြည့်မနေနိုင်တဲ့ ဝမ်ကျုံးမင်းကြီးဟာ ဝန်ကြီးဝမ်ယန်နဲ့ ပူးပေါင်းပြီး\nမိန်းမစိုးခေါင်းဆောင် ချိုဇီလျန်ကို အကွက်ချဖို့စီစဉ်ပါတော့တယ်\nဒါပေမဲ့ သူတို့ရဲ့ အကြံအစဉ်ဟာ အကြီးအကျယ်ရှုံးနိမ့်ပြီး\nဝန်ကြီး ဝမ်ယန်တို့ အိမ်တော်တစ်ခုလုံးလည်း သေဒဏ်ချမှတ်ခံခဲ့ရပါတယ်\n\nကံကောင်းထောက်မစွာ ဝမ်ယန်ရဲ့ မြေးအမွှာနှစ်ယောက်ကတော့ လွှတ်မြောက်သွားခဲ့ပါတယ်\nဒါပေမဲ့လည်း ကံကြမ္မာကမျက်နှာသာမပေးဘဲ ညီအမနှစ်ယောက် ကွဲသွားရှာတော့တယ်\nသူတို့ညီအစ်မနှစ်ယောက်ထဲက အမကြီး ယွီပင်အာဟာ ဇီယီဌာနက မွေးစားခံခဲ့ရပြီး\nသွေးကြွေးပြန်ချေဖို့ ယန်ကျီလို့ နာမည်ပြောင်းကာ ချိုရှစ်လျန်ရဲ့ မွေးစားသမီးအဖြစ်ခံယူလိုက်ပါတယ်\n\nနောက် ခုနှစ်နှစ်ကြာပြီး မင်းကြီး လီယန် နန်းတတ်လာတဲ့အခါမှာတော့\nလီယန်က ဇီယီဌာနကို သုံးပြီး ချိုရှစ်လျန်ကို ဆန့်ကျင်ဖို့ ကြံပါတော့တယ်\nအဲ့ဒီအချိန်မှာ အမွှာညီအမနှစ်ယောက် ရန်သူအဖြစ်နဲ့ ပြန်တွေ့ကြပြီး\nဘယ်လိုကံကြမ္မာဆိုးတွေက သူတို့ညီအမနှစ်ယောက်ကြားကို ဝင်မွှေဦးမလဲဆိုတာ\nဆက်လက်ကြည့်ရှုကြပါဦးနော်",
+    "series_cover_img": "https://puui.wetvinfo.com/vcover_hz_pic/0/oufdok6d9e7sbll1628245571520/0",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2021-08-11/61137a3283baa.jpg",
+    "year": "2021",
+    "catagory": "Series History Mystery Romance ",
+    "studio": "China",
+    "link": [
       {
+        "ep_no": "Ep 1",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp1/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 2",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp2/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 3",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp3/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 4",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp4/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 5",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp5/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 6",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp6/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 7",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp7/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 8",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp8/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 9",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp9/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 10",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp10/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 11",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp11/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 12",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp12/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 13",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp13/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 14",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp14/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 15",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp15/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 16",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp16/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 17",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp17/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 18",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp18/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 19",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp19/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 20",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp20/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 21",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp21/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 22",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp22/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 23",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp23/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 24",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp24/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 25",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp25/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 26",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp26/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 27",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp27/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 28",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp28/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 29",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp29/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 30",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp30/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 31",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp31/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 32",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp32/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 33",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp33/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 34",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp34/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 35",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp35/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 36",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp36/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 37",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp37/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 38",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp38/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 39",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp39/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 40",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp40/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 41",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp41/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 42",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp42/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 43",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp43/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 44",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp44/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 45",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp45/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 46",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp46/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 47",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp47/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 48",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp48/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 49",
+        "link": "http://www.zegomovie.com/Videos/DreamOfChangAnEp49End/index.m3u8"
+      }
+    ]
+  }
+,{
     "movietitle": "Revenge of Others",
     "description": "မင်းသမီး Shin Ye Eunက ဒီကားထဲမှာ Ok Chan Miဆိုတဲ့ ၁၉နှစ်အရွယ်ကျောင်းသူလေးဖြစ်ပြီးတော့\nအထက်တန်းကျောင်းရဲ့ သေနတ်ပစ်အသင်းက ကစားသမားတစ်ဦးအဖြစ် သရုပ်ဆောင်ထားပါတယ်။\n\nAll of Us are dead ထဲက အားလုံးရဲ့အချစ်တော် Lomonကတော့\nမိခင်ဖြစ်သူကို တစ်ကိုယ်တည်းစောင့်ရှောက်နေရတဲ့ အထက်တန်းကျောင်းသားလေး Ji Soo Heonအဖြစ်ပါဝင်ထားပါတယ်။\n\nOk Chan Miဟာ သံသယဖြစ်ဖွယ်ကောင်းတဲ့ အမွှာအစ်ကိုဖြစ်သူရဲ့သေဆုံးမှုရဲ့နောက်ကွယ်က တရားခံနဲ့ အမှန်တရားကို ရှာဖွေဖို့ကြိုးစားနေခဲ့ပြီး\nJi Soo Heonကတော့ အနိုင်ကျင့်ခံရတဲ့ကျောင်းသားတွေကိုယ်စား အပြစ်ရှိသူတွေကို ကလဲ့စားချေသွားမှာပါ။\n\nရည်ရွယ်ချက်ချင်းမကွာကြတဲ့ နှစ်ယောက်သားတွေ့ဆုံကြပြီး အမှန်တရားကို ရှာဖွေသွားကြမှာဆိုတော့\nသည်းထိပ်ရင်ဖိုဇာတ်လမ်းကောင်းတစ်ပုဒ်ဖြစ်လာဦးမှာအသေချာပါပဲ။\n\nSchool Dramaကို Thriller အမျိုးအစားနဲ့ကြည့်ချင်သူတွေအတွက်ကတော့ ကြည့်သင့်တဲ့ဇာတ်လမ်းလေးပါပဲနော်။\n\nမျှော်နေတဲ့လူတိုင်းအတွက်လည်း အပတ်စဉ်ဗုဒ္ဓဟူးနေ့တိုင်း တင်ဆက်ပေးသွားမှာမို့လို့ အတူလိုက်ပါစီးမျောဖို့ ဖိတ်ခေါ်လိုက်ပါတယ်။\n\nအညွှန်းကိုတော့ Milkeux က ရေးထားပေးပြီးတော့\nဘာသာပြန်ထားတာကတော့ Milkeux, Cali, Shin, Thant Sin တို့ပဲ ဖြစ်ကြပါတယ်။",
     "series_cover_img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4966/1414966-h-68bf06274812",
