@@ -1,6 +1,64 @@
 {
     "Series_Database": [
       {
+    "movietitle": "Revenge of Others",
+    "description": "မင်းသမီး Shin Ye Eunက ဒီကားထဲမှာ Ok Chan Miဆိုတဲ့ ၁၉နှစ်အရွယ်ကျောင်းသူလေးဖြစ်ပြီးတော့\nအထက်တန်းကျောင်းရဲ့ သေနတ်ပစ်အသင်းက ကစားသမားတစ်ဦးအဖြစ် သရုပ်ဆောင်ထားပါတယ်။\n\nAll of Us are dead ထဲက အားလုံးရဲ့အချစ်တော် Lomonကတော့\nမိခင်ဖြစ်သူကို တစ်ကိုယ်တည်းစောင့်ရှောက်နေရတဲ့ အထက်တန်းကျောင်းသားလေး Ji Soo Heonအဖြစ်ပါဝင်ထားပါတယ်။\n\nOk Chan Miဟာ သံသယဖြစ်ဖွယ်ကောင်းတဲ့ အမွှာအစ်ကိုဖြစ်သူရဲ့သေဆုံးမှုရဲ့နောက်ကွယ်က တရားခံနဲ့ အမှန်တရားကို ရှာဖွေဖို့ကြိုးစားနေခဲ့ပြီး\nJi Soo Heonကတော့ အနိုင်ကျင့်ခံရတဲ့ကျောင်းသားတွေကိုယ်စား အပြစ်ရှိသူတွေကို ကလဲ့စားချေသွားမှာပါ။\n\nရည်ရွယ်ချက်ချင်းမကွာကြတဲ့ နှစ်ယောက်သားတွေ့ဆုံကြပြီး အမှန်တရားကို ရှာဖွေသွားကြမှာဆိုတော့\nသည်းထိပ်ရင်ဖိုဇာတ်လမ်းကောင်းတစ်ပုဒ်ဖြစ်လာဦးမှာအသေချာပါပဲ။\n\nSchool Dramaကို Thriller အမျိုးအစားနဲ့ကြည့်ချင်သူတွေအတွက်ကတော့ ကြည့်သင့်တဲ့ဇာတ်လမ်းလေးပါပဲနော်။\n\nမျှော်နေတဲ့လူတိုင်းအတွက်လည်း အပတ်စဉ်ဗုဒ္ဓဟူးနေ့တိုင်း တင်ဆက်ပေးသွားမှာမို့လို့ အတူလိုက်ပါစီးမျောဖို့ ဖိတ်ခေါ်လိုက်ပါတယ်။\n\nအညွှန်းကိုတော့ Milkeux က ရေးထားပေးပြီးတော့\nဘာသာပြန်ထားတာကတော့ Milkeux, Cali, Shin, Thant Sin တို့ပဲ ဖြစ်ကြပါတယ်။",
+    "series_cover_img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4966/1414966-h-68bf06274812",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2022-11-16/6374a9993b1b3.jpg",
+    "year": "2022",
+    "catagory": "Series Drama Mystery ",
+    "studio": "Korea",
+    "link": [
+      {
+        "ep_no": "Ep 1",
+        "link": "http://www.zegomovie.com/Videos/RevengeofOthersEp1/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 2",
+        "link": "http://www.zegomovie.com/Videos/RevengeofOthersEp2/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 3",
+        "link": "http://www.zegomovie.com/Videos/RevengeofOthersEp3/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 4",
+        "link": "http://www.zegomovie.com/Videos/RevengeofOthersEp4/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 5",
+        "link": "http://www.zegomovie.com/Videos/RevengeofOthersEp5/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 6",
+        "link": "http://www.zegomovie.com/Videos/RevengeofOthersEp6/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 7",
+        "link": "http://www.zegomovie.com/Videos/RevengeofOthersEp7/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 8",
+        "link": "http://www.zegomovie.com/Videos/RevengeofOthersEp8/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 9",
+        "link": "http://www.zegomovie.com/Videos/RevengeofOthersEp9/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 10",
+        "link": "http://www.zegomovie.com/Videos/RevengeofOthersEp10/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 11",
+        "link": "http://www.zegomovie.com/Videos/RevengeofOthersEp11/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 12",
+        "link": "http://www.zegomovie.com/Videos/RevengeofOthersEp12/index.m3u8"
+      }
+    ]
+  },{
     "movietitle": "Reborn Rich",
     "description": "Yoon Hyun Woo (Song Joong Ki)က အင်အားကြီးလုပ်ငန်းစုကြီးဖြစ်တဲ့\n\nSoonyang Group မှာ သူဌေးမိသားစုရဲ့ လူယုံအတွင်းရေးမှူးအဖြစ် ၁၀ နှစ်ကြာအလုပ်ကျွေးပြုခဲ့ပါတယ်\n\nဒီမိသားစုဆီမှာပဲ အစေခံတစ်ယောက်လို အလုပ်ကြိုးစားခဲ့ပေမဲ့ တစ်နေ့မှာတော့\n\nအလွဲသုံးစားမှုနဲ့စွပ်စွဲခံရပြီး အသတ်ခံခဲ့ရတယ် ..\nသေဆုံးသွားပေမဲ့ အံ့ဩဖို့ကောင်းစွာနဲ့ပဲ သူ့ဝိညာဥ်ဟာ\n\nSoonyang Group CEO Jin Yang Cheol (Lee Sung Min) ရဲ့အငယ်ဆုံးသားလေး\n\nJin Do Joon ခန္ဓာကိုယ်ထဲကနေ နောက်တစ်ကြိမ်ပြန်နိုးလာတဲ့အခါမှာတော့ ..\n\nအဖြစ်အပျက်တွေအားလုံးကို မှတ်မိနေတဲ့ Jin Do Joon တစ်ယောက် ..\n\nသူ့ကိုသတ်ခဲ့တဲ့ ဂျင်မိသားစုကို ဘယ်လိုလက်စားပြန်ချေမလဲ ..\n\n“Soonyang Group Grim Reaper”လို့ လူသိများတဲ့ အဂတိလိုက်စားမှုတိုက်ဖျက်ရေးအဖွဲ့က\n\nအမှုစစ် Seo Min Young (Shin Hyun Bin) နဲ့ လက်တွဲပြီး\n\nငွေကလွဲရင် ဘာမှမမြင်နိုင်တဲ့ CEO ကို ဘယ်လိုအစီအစဥ်တွေနဲ့ အကွက်စေ့စေ့ဖြုတ်ချနိုင်မလဲဆိုတာ ..\nရင်တမမနဲ့ တစ်ခန်းမှမလွတ်တမ်း စောင့်ကြည့်ရမယ့် series လေး ဖြစ်ပါတယ်",
     "series_cover_img": "https://sls-prod.api-onscene.com/partner_files/trueidintrend/327930/cover_image/1668912405367.jpg",
