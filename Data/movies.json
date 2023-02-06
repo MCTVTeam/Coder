@@ -2,7 +2,7 @@
   "Movies_Database": [ 
     {
     "movietitle": "The Last Rite",
-    "description": "ပထမဆုံးအနေနဲ့ ရုပ်ရှင်နာမည်ရဲ့အဓိပ္ပါယ်က “သေခါနီးလူအတွက် ရွတ်ဖတ်မှုများ” ဆိုတဲ့ အဓိပ္ပါယ်ပါ\nခရစ်ယာန်ဘာသာမှာ ဘုန်းတော်ကြီးတစ်ပါးက သေတော့မယ် လူတစ်ယောက်အတွက် သူသေသွားရင် သူလုပ်ခဲ့တဲ့အပြစ်တွေသန့်စင်သွားအောင်လို့ ရွတ်ဖတ်ပေးရတဲ့ အရာတွေပါပဲဒီလို အပနှင်တဲ့ဇာတ်ကားမျိုးတွေက မယုံကြည်တဲ့သူတွေအတွက်တော့ တစ်ခါတစ်လေမှာ ကြောက်ဖို့ကောင်းပေမယ့် တစ်ခါတစ်လေမှတော့ ဘာfeelingမှကို မရတတ်ပါဘူး\nဒါပေမယ့် ယုံကြည်သူတွေအဖို့တော့ လုံးဝ ကျွန်တော်တို့နဲ့မတူတဲ့ level တစ်ခုအထိ ကြောက်ဖို့ကောင်းတာတွေဖြစ်နိုင်ပါတယ်ဒါပေမယ့် ဒီဇာတ်လမ်းက အပနှင်တာကိုမှ ကျွန်တော်တို့နဲ့ ဆိုင်တယ်လို့ ခံစားရတဲ့ “အိပ်နေရင်းရုတ်တရက်နိုးလာရင် လုံးဝ လှုပ်မရတာမျိုး”၊ “တစ်ယောက်ယောက်က လိုက်ကြည့်နေသလို ခံစားရတာမျိုး”၊\n“စိတ်ဖိစီးမှုတွေများတာ အိပ်ချိန်နောက်ကျ အိပ်ရေးမဝတာမျိုးတွေ”\nအဲ့လိုအကြောင်းအရာတွေနဲ့ ရောယှက်ထားတဲ့ အခါမှာတော့ ကြည့်ရှုသူတွေအနေနဲ့ ဒီဇာတ်ကောင်က သူတို့နဲ့ ပိုပြီး သက်ဆိုင်သွားသလို ခံစားရစေမှာပါအပနှင် Horror မျိုး ကြိုက်သူတွေအတွက် ကြည့်ပျော်တဲ့ ဇာတ်ကားတစ်ခုပါပဲ ။",
+    "description": "A medical student suffering from sleep paralysis finds herself plagued by a demonic entity, after moving in with her boyfriend.",
     "movie_cover_img": "https://mctvteam.github.io/Coder/Logo/moviecover.png",
     "movie_img": "http://www.zegomovie.com/Uploads/vod/2022-01-15/61e2804eb63bd.jpg",
     "link": "http://www.zegomovie.com/Videos/TheLastRite/index.m3u8",
@@ -72,7 +72,7 @@
   },
   {
     "movietitle": "Guardians of The Galaxy Vol-2",
-    "description": "The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord\u0027s encounter with his father the ambitious celestial being Ego.",
+    "description": "The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord encounter with his father the ambitious celestial being Ego.",
     "movie_cover_img": "https://mctvteam.github.io/Coder/Logo/moviecover.png",
     "movie_img": "http://www.zegomovie.com/Uploads/vod/2019-05-24/5ce7d1147625f.jpg",
     "link": "http://www.zegomovie.com/Videos/GuardiansofTheGalaxyVol2/index.m3u8",
@@ -92,7 +92,7 @@
   },
   {
     "movietitle": "Captain America Civil War",
-    "description": "Political involvement in the Avengers\u0027 affairs causes a rift between Captain America and Iron Man.",
+    "description": "Political involvement in the Avengers affairs causes a rift between Captain America and Iron Man.",
     "movie_cover_img": "https://mctvteam.github.io/Coder/Logo/moviecover.png",
     "movie_img": "http://www.zegomovie.com/Uploads/vod/2019-06-11/5cff3473832da.jpg",
     "link": "http://www.zegomovie.com/Videos/CaptainAmericaCivilWar/index.m3u8",
