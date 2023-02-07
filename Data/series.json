@@ -1,7 +1,147 @@
 {
     "Series_Database": [
       
+  
   {
+    "movietitle": "Doctor Detective",
+    "description": "Do Jung Eun works as an industrial health doctor. She partners with Doctor Heo Min Ki to uncover the truth related to industrial accidents, diseases and other incidents that take place at ...",
+    "series_cover_img": "https://cdn-2.tstatic.net/jateng/foto/bank/images/doctor-detective.jpg",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2020-02-15/5e47d791e7c02.jpg",
+    "year": "2019",
+    "catagory": "Series Drama ",
+    "studio": "Korea",
+    "link": [
+      {
+        "ep_no": "Ep 1",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp1/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 2",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp2/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 3",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp3/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 4",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp4/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 5",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp5/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 6",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp6/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 7",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp7/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 8",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp8/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 9",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp9/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 10",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp10/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 11",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp11/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 12",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp12/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 13",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp13/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 14",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp14/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 15",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp15/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 16",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp16/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 17",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp17/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 18",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp18/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 19",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp19/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 20",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp20/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 21",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp21/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 22",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp22/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 23",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp23/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 24",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp24/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 25",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp25/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 26",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp26/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 27",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp27/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 28",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp28/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 29",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp29/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 30",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp30/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 31",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp31/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 32",
+        "link": "http://www.zegomovie.com/Videos/DoctorDetectiveEp32End/index.m3u8"
+      }
+    ]
+  }
+,{
     "movietitle": "S-1 Oh My Emperor",
     "description": "ဒီကားလေး Tralier ထွက်ကတည်းကလူပြောများခဲ့ပြီး\nMoon Lover version အသစ်လို့တောင်တင်စားကြပါတယ်\nမင်းသား အနေနဲ့ကတော့X-NINE chinese boy band ထဲက\nrapper ချောချောလေးJason Koo(Gu Jia Cheng)ပါ\nနောက်မင်းသားတစ်လက်ကတော့\nX-NINE ထဲကအဆိုတော်ချောလေးXiao Zhan ပါ\nမင်းသမီးအနေနဲ့ကတော့ ချစ်စရာဟန်ပန်လေးတွေနဲ့Lusi Zhaoပါ\n\nလော့ဖေးဖေးဆိုတဲ့ဆရာဝန်မလေးဟာ \nကျားချန်ဆိုတဲ့အဆိုတော်ရဲ့ big fanပါ\nတစ်နေ့ ကျားချန်ဒဏ်ရာရလို့ ဆေးရုံမှာလာကုရင်း\nshow ပွဲဖိတ်စာလေးလက်ဆောင်ရခဲ့တယ်\nအဲ့နေ့ညမှာ ကြယ်တာရာအစုအဝေးဟာ\nအီကွေတာပေါ်တည့်တည့်ကျရောက်နေပြီး\nကြယ်တွေကြွေကျတယ်\nShow ပွဲသွားရင် accidence တစ်ခုကြောင့်\nမေ့မောသွားပြီး\nလွန်ခဲ့တဲ့နှစ်၁၀၀ကျော် နန်းတော်ထဲကရေကန်မှာ\nပြန်ပေါ်လာတဲ့အခါ ဘာတွေဆက်ဖြစ်ကြမလဲ\nမင်းသားချောချောလေးတွေအများကြီးပါတဲ့အပြင်\nမင်းသမီး ဘရုတ်ကျမှုလေးတွေကို ဟာသဆန်ဆန်\nရိုက်ကူးထားတာကြောင့် ခွီရမှာကျိန်းသေပါပဲ\n\nSeason-1 မှာ 21ပိုင်းပါရှိပြီး Season-2 မှာ 21ပိုင်းပါရှိပါတယ်",
     "series_cover_img": "https://i0.wp.com/www.globalgranary.life/wp-content/uploads/2018/05/oh-my-emperor-chinese-drama.jpg?resize\u003d600%2C337\u0026ssl\u003d1",
