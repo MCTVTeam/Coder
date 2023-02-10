@@ -1,6 +1,56 @@
 {
   "Movies_Database": [ 
     {
+    "movietitle": "X-men 1",
+    "description": "In a world where mutants (evolved super-powered humans) exist and are discriminated against, two groups form for an inevitable clash: the supremacist Brotherhood, and the pacifist X-Men",
+    "movie_cover_img": "https://mctvteam.github.io/Coder/Logo/moviecover.png",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-11/5cff39ca7abc3.jpg",
+    "link": "http://www.zegomovie.com/Videos/Xmen1/index.m3u8",
+    "year": "2019",
+    "catagory": "Movies Action Adventure Sci-fi ",
+    "studio": "USA"
+  },
+  {
+    "movietitle": "X-men Days of Future Past",
+    "description": "The X-Men send Wolverine to the past in a desperate effort to change history and prevent an event that results in doom for both humans and mutants.",
+    "movie_cover_img": "https://mctvteam.github.io/Coder/Logo/moviecover.png",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-11/5cff26d02a96e.jpg",
+    "link": "http://www.zegomovie.com/Videos/XmenDaysofFuturePast/index.m3u8",
+    "year": "2014",
+    "catagory": "Movies Action Adventure Sci-fi ",
+    "studio": "USA"
+  },
+  {
+    "movietitle": "X-Men: The Last Stand",
+    "description": "The human government develops a cure for mutations, and Jean Gray becomes a darker uncontrollable persona called the Phoenix who allies with Magneto, causing escalation into an all-out battle for the X-Men.",
+    "movie_cover_img": "https://mctvteam.github.io/Coder/Logo/moviecover.png",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2020-11-25/5fbe0b04aec04.jpg",
+    "link": "http://www.zegomovie.com/Videos/XMenTheLastStand/index.m3u8",
+    "year": "2016",
+    "catagory": "Movies Action Adventure Sci-fi ",
+    "studio": "USA"
+  },
+  {
+    "movietitle": "Day of Reckoning",
+    "description": "Fifteen years ago evil creatures from the underworld plagued the Earth with the intent of eliminating mankind. Dubbed the Day of Reckoning by survivors of the hellish holocaust, warriors of mankind again must battle the forces of darkness.",
+    "movie_cover_img": "https://mctvteam.github.io/Coder/Logo/moviecover.png",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-10/5cfe19198fd4e.jpg",
+    "link": "http://www.zegomovie.com/Videos/DayofReckoning/index.m3u8",
+    "year": "2016",
+    "catagory": "Movies Action Horror Sci-fi ",
+    "studio": "USA"
+  },
+  {
+    "movietitle": "I Fine Thank You Love You",
+    "description": "ဘာကြောင့်လဲဆိုတော့ အချစ်ဆိုတာဟာ အမှန်တရားတွေအများကြီးရှိနေပြီး ထူးဆန်းလွန်းအားကြီးလို့ပါပဲ…သင့်အနေနဲ့ အချစ်ဆိုတာ ဘယ်အချိန် ဘယ်နေရာမှာ ဘယ်လိုတွေ့ရမယ်ဆိုတာဘယ်သူမှမသိနိုင်ပါဘူး။ဒီလိုမျိုးထူးဆန်းတဲ့ အချစ်အကြောင်းကို ကြည်နူးစရာ တင်ဆက်ထားတဲ့ ဇာတ်ကားပါ။\nဒီဇာတ်ကားလေးဟာ ဖလန်းဖလန်းစိန် အင်္ဂလိပ်စာသင်တန်းဆရာမလေး Pleng နဲ့ ဂွတီးဂွကျနိုင်တဲ့ Yim ဆိုတဲ့အင်ဂျင်နီယာတစ်ယောက်တို့ရဲ့ အချစ်ဇာတ်လမ်းလေးကို ရသပေါင်းစုံဝေဝေဆာဆာနဲ့ ရိုက်ကူးတင်ဆက်ထားတာဖြစ်ပါတယ် … လူကြီးမင်းတို့အနေနဲ့ ထူးဆန်းလွန်းတဲ့ အချစ်ဆိုတာကြီးကို ဒီဇာတ်ကားလေးကြည့်ရှုရင်း ခံစားကြပါဦးလို့ …….။ဖေဖော်ဝါရီ ၁၄ ရက်နေ့ (V-Day နေ့)ဟာဆိုရင် ဇာတ်ကားထဲက အဓိကမင်းသမီးလေး\nIce Preechaya ခေါ် Preechaya Pongthananikorn ရဲ့ မွေးနေ့လည်းဖြစ်ပါတယ်…ပျော်ရွှင်စရာ ချစ်သူများနေ့ဖြစ်ပါစေ………။",
+    "movie_cover_img": "https://mctvteam.github.io/Coder/Logo/moviecover.png",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-04/5cf61b896f16f.jpg",
+    "link": "http://www.zegomovie.com/Videos/IFineThankYouLoveYou/index.m3u8",
+    "year": "2014",
+    "catagory": "Movies Drama Fantasy ",
+    "studio": "Thailnad"
+  },
+  {
     "movietitle": "Go Goa Gone",
     "description": "အခုတစ်ခါတင်ဆက်ပေးမယ်ကားလေးကတော့ မင်းသားကြီးဆေ့ဖ်အလီခန်းနဲ့ Lootcase 2020 မင်းသားကူနားတို့\nသမီးယောက်ဖနှစ်ဦးရဲ့ဟာသအက်ရှင်ကားလေးပဲဖြစ်ပါတယ်။\nဒီဇာတ်ကားလေးဟာ အိန္ဒိယရူပီ ၁၉.၄သန်း (ကန်ဒေါ်လာ ၂.၄သန်း) အထိအမြတ်ရခဲ့တဲ့ ၂၀၁၃ခုနှစ်က ကားကောင်းလေးတစ်ကားပဲဖြစ်ပါတယ်။ဟာဒစ် လဗ် ဘန်နီ ဆိုတဲ့ သူငယ်ချင်းသုံးယောက်ရှိတယ်..ဟာဒစ်နဲ့လဗ်က အတိုင်အဖောက်ညီတဲ့\nဆိုးဖေါ်ဆိုးဖက်တွေဖြစ်ပြီး ဘန်နီကတော့ အမြဲဒုက္ခခံပေးနေရရှာတဲ့ ရိုးသားကြိုးစားတဲ့ကောင်လေးပေါ့။တစ်ရက်တော့ သူတို့သုံးယောက်ဟာ လောကဓံရဲ့ရိုက်ခတ်ကြားမှာ ယက်ကန်ယက်ကန်နဲ့\nရုရှားမာဖီးယားဦးဆောင်ပြီးကျင်းပပေးတဲ့ ပါတီပွဲတစ်ခုမှာ အပီကဲဖို့ ဝေးလံခေါင်သီတဲ့ ကျွန်းတစ်ကျွန်းပေါ်ကို\nရောက်လာခဲ့ပါတယ်။\nသူတို့တွေ အပီကဲပြီး နောက်တစ်နေ့မှာတော့ လူတွေဟာ မူးယစ်ဆေးတစ်မျိုးသုံးစွဲမှုကြောင့်\nအသိစိတ်မရှိကြတော့ဘဲ အချင်းချင်းကိုက်ဖြတ်စားသောက်လာခဲ့ပါတော့တယ်။အလွဲလွဲအချော်အချော်နဲ့ ဒီသူငယ်ချင်းသုံးယောက်ဟာ ဒီမရဏကျွန်းပေါ်ကနေ\nလွတ်မြောက်နိုင်ပါ့မလားဆိုတာကိုတော့ ဟာသလေးနှောပြီးကြည့်ရဦးမှာမို့ ရှုစားတော်မူကြပါဦးနော်။",
     "movie_cover_img": "https://mctvteam.github.io/Coder/Logo/moviecover.png",
