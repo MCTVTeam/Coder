@@ -3,6 +3,80 @@
       
   
   {
+    "movietitle": "The Suit",
+    "description": "Hotshot lawyer Choi Kang Seok is known as the most talented closer at the prestigious Kang and Ham Law Firm. Go Yeon Woo has a photographic memory and a high IQ. Having dreamed of becoming ...",
+    "series_cover_img": "https://www.hellokpop.com/wp-content/uploads/2018/04/suits-premier-official-poster-2.jpg",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-20/5d5bd53906cec.jpg",
+    "year": "2018",
+    "catagory": "Series Crime Drama Thriller ",
+    "studio": "Korea",
+    "link": [
+      {
+        "ep_no": "Ep 1",
+        "link": "http://www.zegomovie.com/Videos/SuitEp1/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 2",
+        "link": "http://www.zegomovie.com/Videos/SuitEp2/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 3",
+        "link": "http://www.zegomovie.com/Videos/SuitEp3/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 4",
+        "link": "http://www.zegomovie.com/Videos/SuitEp4/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 5",
+        "link": "http://www.zegomovie.com/Videos/SuitEp5/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 6",
+        "link": "http://www.zegomovie.com/Videos/SuitEp6/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 7",
+        "link": "http://www.zegomovie.com/Videos/SuitEp7/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 8",
+        "link": "http://www.zegomovie.com/Videos/SuitEp8/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 9",
+        "link": "http://www.zegomovie.com/Videos/SuitEp9/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 10",
+        "link": "http://www.zegomovie.com/Videos/SuitEp10/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 11",
+        "link": "http://www.zegomovie.com/Videos/SuitEp11/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 12",
+        "link": "http://www.zegomovie.com/Videos/SuitEp12/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 13",
+        "link": "http://www.zegomovie.com/Videos/SuitEp13/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 14",
+        "link": "http://www.zegomovie.com/Videos/SuitEp14/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 15",
+        "link": "http://www.zegomovie.com/Videos/SuitEp15/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 16",
+        "link": "http://www.zegomovie.com/Videos/SuitEp16/index.m3u8"
+      }
+    ]
+  },{
     "movietitle": "Doctor Detective",
     "description": "Do Jung Eun works as an industrial health doctor. She partners with Doctor Heo Min Ki to uncover the truth related to industrial accidents, diseases and other incidents that take place at ...",
     "series_cover_img": "https://cdn-2.tstatic.net/jateng/foto/bank/images/doctor-detective.jpg",
