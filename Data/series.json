@@ -3,6 +3,40 @@
       
   
     {
+    "movietitle": "The Lost Room",
+    "description": "ရှေး ယုံတမ်းပုံပြင်တွေအရ မှော်ဆန်တဲ့ ခရီးသွား တစ်ယောက်ဟာ အခန်းတစ်ခုအတွင်းတည်းခိုနေထိုင်ခဲ့ပါတယ် ပြီးတော့ ထိုအခန်းအတွင်း ပစ္စည်းအားလုံးဟာတန်ခိုး ကိုယ်စီ အသက်ဝင်ပြီး တန်ဖိုးရှိကုန်ကြပါတယ်\nတစ်နည်းနည်းဖြင့် ထိုပစ္စည်းတစ်ချို့ အပြင်ရောက်လာခဲ့ပြီးရာဇဝတ်သားတွေလက်ထဲကို ရောက်ရှိပြီး သတ်ဖြတ် လုယက်ကြပါတော့တယ်ထို အခန်းထဲကို ဝင်တဲ့ သော့တံ ကတော့ ဘယ်တံခါးကို ဖွင့်ဖွင့်ရောက်ချင်တဲ့နေရာကိုချက်ချင်း ပို့ဆောင်ပေး ဖွင့်ပေးတဲ့ လိုတရ သော့တံ ဖြစ်ပြီး သမီးတစ်ယောက် အဖေ ရဲသား တစ်ယောက်ဆီရောက်သွားရာကနေ ဇတ်လမ်း စ ပါတော့တယ်….",
+    "series_cover_img": "https://m.media-amazon.com/images/M/MV5BMjI1OTc4MDkzOV5BMl5BanBnXkFtZTgwODEwOTk2MzE@._V1_.jpg",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60f0c4cfcc9.jpg",
+    "year": "2006",
+    "catagory": "Series Action Fantasy Mystery ",
+    "studio": "Hollywood",
+    "link": [
+      {
+        "ep_no": "Ep 1",
+        "link": "http://www.zegomovie.com/Videos/TheLostRoomEp1/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 2",
+        "link": "http://www.zegomovie.com/Videos/TheLostRoomEp2/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 3",
+        "link": "http://www.zegomovie.com/Videos/TheLostRoomEp3/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 4",
+        "link": "http://www.zegomovie.com/Videos/TheLostRoomEp4/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 5",
+        "link": "http://www.zegomovie.com/Videos/TheLostRoomEp5/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 6",
+        "link": "http://www.zegomovie.com/Videos/TheLostRoomEp6/index.m3u8"
+      }
+    ]
+  },{
     "movietitle": "Golden Time",
     "description": "The one hour you have to save a person\u0027s life after a traumatic injury is what emergency physicians call \"golden time.\"",
     "series_cover_img": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Golden_Time-poster.jpg/250px-Golden_Time-poster.jpg",
