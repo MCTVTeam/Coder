@@ -3,6 +3,80 @@
       
   
     {
+    "movietitle": "My Shy Boss",
+    "description": "ဇာတ်လမ်းအကျဉ်း \nအတ္တကြီးလွန်းဖခင်ကြောင့် လူတွေကိုကြောက်ပြီးရှက်တတ်တဲ့ကောင်လေးတယောက်ဟာ ဖခင်ရဲ့စကားကိုမလွန်ဆန်နိုင်ပဲ..ကုမ္ပဏီမှာအလုပ်ဝင်လုပ်ရတဲ့အခါမှာတော့ လူတွေကြောက်ပြီး..အမြဲလိုလို ဦးထုပ်ခေါင်းဆောင်းကိုဆောင်းထားတတ်တယ်\n\nသူ့ရဲ့ကုမ္ပဏီကိုသူငယ်ချင်းဖြစ်သူက ဦးစီးလုပ်ပေးခဲ့တယ်...တနေ့တော့ ရှက်တတ်တဲ့ဘော့စ်ရဲ့အတွင်းရေးမှူးမလေးဟာ ကုမ္ပဏီရဲ့အပေါ်ထပ်ကနေ ခုန်ချကာသတ်သေသွားခဲ့တယ်..ဘယ်သူ့ကြောင့် ဘာကြောင့် သူ့အတွင်းရေးမှူးမလေးသေတာကိုသိပေမဲ့ သူ့အပြစ်လဲမကင်းသလိုခံစားရပြီး\nဘာမှမပြောပဲ မသိသလိုနေလာခဲ့တယ် သူ့ရဲ့အတွင်းရေးမှူးမှာညီမတယောက်ရှိခဲ့ပြီး ပြဇာတ်ကတာကိုနှစ်သက်သူတယောက်သူပြဇာတ်ကတဲ့နေ့မှာ အစ်မဖြစ်သူကရောက်မလာပဲနာရေးသတင်းသာရောက်လာခဲ့တဲ့ ညီမဖြစ်သူက သူ့အစ်မဘာကြောင့်သေတယ်ဆိုတာကို သိချင်လို့ ဘော့စ်ရဲ့ကုမ္ပဏီကိုဝင်ရောက်လာတဲ့အခါမှာတော့.......",
+    "series_cover_img": "https://puui.wetvinfo.com/vcover_hz_pic/0/dw14b5bbabmiyf71611908630432/0",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2020-02-15/5e47db0f5a645.jpg",
+    "year": "2017",
+    "catagory": "Series Comedy Drama Romance ",
+    "studio": "Korea",
+    "link": [
+      {
+        "ep_no": "Ep 1",
+        "link": "http://www.zegomovie.com/Videos/ShyBossEp1/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 2",
+        "link": "http://www.zegomovie.com/Videos/ShyBossEp2/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 3",
+        "link": "http://www.zegomovie.com/Videos/ShyBossEp3/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 4",
+        "link": "http://www.zegomovie.com/Videos/ShyBossEp4/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 5",
+        "link": "http://www.zegomovie.com/Videos/ShyBossEp5/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 6",
+        "link": "http://www.zegomovie.com/Videos/ShyBossEp6/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 7",
+        "link": "http://www.zegomovie.com/Videos/ShyBossEp7/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 8",
+        "link": "http://www.zegomovie.com/Videos/ShyBossEp8/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 9",
+        "link": "http://www.zegomovie.com/Videos/ShyBossEp9/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 10",
+        "link": "http://www.zegomovie.com/Videos/ShyBossEp10/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 11",
+        "link": "http://www.zegomovie.com/Videos/ShyBossEp11/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 12",
+        "link": "http://www.zegomovie.com/Videos/ShyBossEp12/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 13",
+        "link": "http://www.zegomovie.com/Videos/ShyBossEp13/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 14",
+        "link": "http://www.zegomovie.com/Videos/ShyBossEp14/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 15",
+        "link": "http://www.zegomovie.com/Videos/ShyBossEp15/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 16",
+        "link": "http://www.zegomovie.com/Videos/ShyBossEp16End/index.m3u8"
+      }
+    ]
+  },{
     "movietitle": "The Good Detective",
     "description": "အပိုင်း( ၁ မှ ၁၆)  စ/ဆုံး\n\n(စဆုံးခုမှကြည့်မယ့်သူများအတွက် Zip File (၂)ခုဖြင့် ပြုလုပ်ပေးထားပါသည်…)\n\nမှုခင်း ဒရာမာ ကြိုက်သူတွေ အတွက် ကိုရီးယားဒရာမာကောင်းကောင်း တစ်ကားတော့ လာပြန်ပါပြီ။\n\nအဓိကဇာတ်ဆောင်မင်းသားတွေကတော့ Chocolate နဲ့ Encounter မှာ ပါဝင်ခဲ့တဲ့ မင်းသားချော ဂျန်ဆောင်းဂျို နဲ့\n\nသဘာဝကျကျ သရုပ်ဆောင်တတ်တဲ့ မင်းသားကြီး ဆုန်ဟွန်ဂျူးပါ။\n\nဇာတ်လမ်းအကျဉ်းကတော့ ဒီလိုပါ။\n\nလုပ်သက် ၁၈ နှစ်ရှိပြီဖြစ်တဲ့ စုံထောက်ကြီး ဂန်ဒိုချန်းက အမှုလိုက်ရာမှာ အတွေ့အကြုံ၊ အဆက်သွယ်နဲ့ နည်းပညာကို အသုံးချပါတယ်။\n\nလုပ်သက် ၉ နှစ်ရှိပြီ ဖြစ်တဲ့ စုံထောက် အိုဂျီဟော့ ကတော့ ဦးလေးဆုံးပါးပြီး အမွေတွေ ရရှိထားတဲ့ လူကုံထံစုံထောက်တစ်ယောက်ဖြစ်ပါတယ်။\n\nသူကတော့ အမှုလိုက်ရာမှာ ရရှိထားတဲ့ သက်သေတွေကို အသုံးချပြီး တရားခံရဲ့ စိတ်ကို ခန့်မှန်းပြီး အမှုလိုက်ပါတယ်။\n\nငယ်စဉ်က ရရှိထားတဲ့ စိတ်ဒဏ်ရာကြောင့် ဖြစ်ပျက်သမျှ ကိစ္စတွေကို ဘယ်သူ့ကိုမှ ရင်ဖွင့်လေ့ မရှိပါဘူး။\n\nမင်းသမီးကတော့ သတင်းထောက်တစ်ယောက်ဖြစ်ပြီး ဒီစုံထောက်နှစ်ယောက်နဲ့ ဘယ်လိုဆက်နွယ်မိမယ်ဆိုတာရယ်\n\nသူတို့နှစ်ယောက်ရဲ့ အမှုလိုက်ပုံတွေက ဇာတ်လမ်းကို ဘယ်လိုဆန်းသစ်စေမယ်ဆိုတာကို့ ကြည့်ရှုရမှာပါ\n\nဒီစီးရီးကို Chnannel Myanmar မှာအပတ်စဉ် အင်္ဂါနေ့ နဲ့ ဗုဒ္ဓဟူး မနက်တိုင်းမှာ အမြန်ဆုံးတင်ဆက်ပေးသွားမှာဖြစ်ပါတယ်\n\n(ဘာသာပြန်ပေးထားသူတွေကတော့ Khin Pyae Sone Kyaw,Kyar Phyu Lwin နဲ့ Shoon Thu Thu Chain တို့ပါ)",
     "series_cover_img": "https://0.soompi.io/wp-content/uploads/2022/06/28114046/The-Good-Detective-2.jpeg",
