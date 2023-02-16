@@ -1,6 +1,15 @@
 {
   "Movies_Database": [ 
     {
+    "movietitle": "Under Siege",
+    "description": "မင်းသားကြီး Steven Seagal ရဲ့\nအက်ရှင်ဇာတ်ကားကြီး ဖြစ်ပါတယ်။ကေဆီရိုင်းဘတ်က မစ်ဆူရီဆိုတဲ့ စစ်သင်္ဘောဟောင်းပေါ်က ခေါင်းဆောင်စားဖိုမှူးဖြစ်ပါတယ်။\nတစ်နေ့မှာ သင်္ဘောကပ္ပတိန်ကြီးရဲ့ စပရိုက် မွေးနေ့ပွဲအတွက်ဆိုပြီး တီးဝိုင်းအဖွဲ့တစ်ဖွဲ့ရယ်မိန်းမချောလေးတစ်ဦးရယ် ရောက်လာကြပါတယ်။\nဒါပေမဲ့ အဲဒီတီးဝိုင်းအဖွဲ့ရဲ့အကြံအစည်က သင်္ဘောသားတွေ ထင်ထားသလိုမဟုတ်တဲ့အခါသူတို့သင်္ဘောတစ်စီးလုံး ပြန်ပေးဆွဲခံလိုက်ရပါတော့တယ်။အဲဒါကို စားဖိုမှူးလို့ပဲသိထားကြတဲ့ ရေတပ် ဆီးလ်အထူးတပ်ဖွဲ့ဝင်ဟောင်းရိုင်းဘတ်က ဘယ်လိုပြန်ကယ်ဆယ်မလဲဆိုတာ…",
+    "movie_cover_img": "https://shatpod.com/movies/wp-content/uploads/Under-Siege-1992-Movie-Poster.jpg",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2023-02-16/63ed9a0555ca8.png",
+    "link": "http://www.zegomovie.com/Videos/UnderSiege/index.m3u8",
+    "year": "1992",
+    "catagory": "Movies Action Thriller ",
+    "studio": "Hollywood"
+  },{
     "movietitle": "Christmas Carol",
     "description": "A Christmas Carol\u0027 is a story about a twin brother who goes to a juvenile detention center on his own to avenge the death of his twin brother.",
     "movie_cover_img": "https://mctvteam.github.io/Coder/Logo/moviecover.png",
