@@ -3,6 +3,80 @@
       
   
     {
+    "movietitle": "Life on Mars",
+    "description": "While investigating a serial murder case, Han Tae Joo gets into an incident. When he wakes up, he finds himself back in 1987. To get back to his present world, he must solve the murder case.",
+    "series_cover_img": "https://6.viki.io/image/a202eee77bf14135baa63f985083d27f.jpeg?s\u003d900x600\u0026e\u003dt",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-23/5d5fd78813786.jpg",
+    "year": "2018",
+    "catagory": "Series Crime Drama Mystery ",
+    "studio": "Korea",
+    "link": [
+      {
+        "ep_no": "Ep 1",
+        "link": "http://www.zegomovie.com/Videos/LifeonMarsE1/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 2",
+        "link": "http://www.zegomovie.com/Videos/LifeonMarsE2/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 3",
+        "link": "http://www.zegomovie.com/Videos/LifeonMarsE3/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 4",
+        "link": "http://www.zegomovie.com/Videos/LifeonMarsE4/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 5",
+        "link": "http://www.zegomovie.com/Videos/LifeonMarsE5/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 6",
+        "link": "http://www.zegomovie.com/Videos/LifeonMarsE6/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 7",
+        "link": "http://www.zegomovie.com/Videos/LifeonMarsE7/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 8",
+        "link": "http://www.zegomovie.com/Videos/LifeonMarsE8/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 9",
+        "link": "http://www.zegomovie.com/Videos/LifeonMarsE9/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 10",
+        "link": "http://www.zegomovie.com/Videos/LifeonMarsE10/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 11",
+        "link": "http://www.zegomovie.com/Videos/LifeonMarsE11/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 12",
+        "link": "http://www.zegomovie.com/Videos/LifeonMarsE12/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 13",
+        "link": "http://www.zegomovie.com/Videos/LifeonMarsE13/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 14",
+        "link": "http://www.zegomovie.com/Videos/LifeonMarsE14/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 15",
+        "link": "http://www.zegomovie.com/Videos/LifeonMarsE15/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 16",
+        "link": "http://www.zegomovie.com/Videos/LifeonMarsE16/index.m3u8"
+      }
+    ]
+  },{
     "movietitle": "Vampire Detective",
     "description": "Yoon San (Lee Joon) a private detective suddenly becomes a vampire. He tries to solve various cases while also trying to uncover the mystery surrounding himself.",
     "series_cover_img": "https://m.media-amazon.com/images/I/71c78HW422L._RI_.jpg",
