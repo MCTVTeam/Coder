@@ -3,6 +3,80 @@
       
   
     {
+    "movietitle": "Terius Behind Me",
+    "description": "အမည်ဝှက်Teriusလို့ အမည်ရတဲ့ဂင်ဘွန်ဟာ အမျိုးသားထောက်လှမ်းရေးတပ်ဖွဲ့(NIS)ရဲ့\nထူးချွန်တဲ့အေးဂျင့်ဟောင်းတစ်ဦးဖြစ်ပြီး သူ့ကို မည်သူမှ ခြေရာခံ၍မရအောင်လျှို့ဝှက်၍နေထိုင်သူဖြစ်ပါတယ် …\n\nလွန်ခဲ့သော၃နှစ်ခန့်က မအောင်မြင်ခဲ့တဲ့လျှို့ဝှက်စစ်ဆင်ရေးတစ်ခုမှာ သူ့ချစ်သူမိန်းကလေးကို ဆုံးရှုံးခဲ့ရတယ်…\nအဲဒီအချိန်ကစပြီး ဂင်ဘွန်ဟာ ဂိုအယ်ရင်ရဲ့တိုက်ခန်းနဲ့ မျက်နှာချင်းဆိုင်မှာရှိတဲ့တိုက်ခန်းမှာ\n\nလျှို့ဝှက်နေထိုင်ပြီး ယခင်က မအောင်မြင်ခဲ့တဲ့စစ်ဆင်ရေးရဲ့\n\nနောက်ကွယ်မှာရှိတဲ့ကြိုးကိုင်သူကို ဖော်ထုတ်ဖို့ကြိုးစားနေပါတယ်…\n\nဒါပေမယ့်လည်း အဲဒီမသမာမှုမှာ ထင်မှတ်မထားတဲ့(NIS)ရဲ့ ထိပ်တန်းအရာရှိကြီးတစ်ဦး ပါဝင်ပတ်သက်နေတဲ့အခါမှာ . . .\n\nဘာတွေဆက်ဖြစ်မလဲဆိုတာကိုတော့…………….\n\nအက်ရှင်စပိုင်စီးရီးဖြစ်လို့ ကြည့်ရတာပျင်းဖို့မကောင်းသလို\n\nချစ်စရာကလေးတွေလည်းပါဝင်တဲ့အတွက်\n\nရယ်လည်းရယ်ရပါတယ်..",
+    "series_cover_img": "https://upload.wikimedia.org/wikipedia/en/c/ce/My_secret_terrius_poster.jpg",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-21/5d5cbddcca768.jpg",
+    "year": "2018",
+    "catagory": "Series Comedy Drama Romance ",
+    "studio": "Korea",
+    "link": [
+      {
+        "ep_no": "Ep 1",
+        "link": "http://www.zegomovie.com/Videos/TeriusBehindMeE1&2/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 2",
+        "link": "http://www.zegomovie.com/Videos/TeriusBehindMeE3&4/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 3",
+        "link": "http://www.zegomovie.com/Videos/TeriusBehindMeE5&6/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 4",
+        "link": "http://www.zegomovie.com/Videos/TeriusBehindMeE7&8/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 5",
+        "link": "http://www.zegomovie.com/Videos/TeriusBehindMeE9&10/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 6",
+        "link": "http://www.zegomovie.com/Videos/TeriusBehindMeE11&12/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 7",
+        "link": "http://www.zegomovie.com/Videos/TeriusBehindMeE13&14/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 8",
+        "link": "http://www.zegomovie.com/Videos/TeriusBehindMeE15&16/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 9",
+        "link": "http://www.zegomovie.com/Videos/TeriusBehindMeE17&18/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 10",
+        "link": "http://www.zegomovie.com/Videos/TeriusBehindMeE19&20/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 11",
+        "link": "http://www.zegomovie.com/Videos/TeriusBehindMeE21&22/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 12",
+        "link": "http://www.zegomovie.com/Videos/TeriusBehindMeE23&24/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 13",
+        "link": "http://www.zegomovie.com/Videos/TeriusBehindMeE25&26/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 14",
+        "link": "http://www.zegomovie.com/Videos/TeriusBehindMeE27&28/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 15",
+        "link": "http://www.zegomovie.com/Videos/TeriusBehindMeE29&30/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 16",
+        "link": "http://www.zegomovie.com/Videos/TeriusBehindMeE30&31/index.m3u8"
+      }
+    ]
+  },{
     "movietitle": "The Legend of the Blue Sea",
     "description": "ဇာတ်လမ်းအညွှန်း\n၁၅၈၆ ခုနှစ် မှာ ရွာတစ်ရွာမှာမုန်တိုင်းအသည်းအသန်ကျပြီးတဲ့နောက်\n\nပင်လယ်ပြင်ကနေ ရေသူမ မျိုးဆက်ရဲ့နောက်ဆုံးမျိုးဆက်ဟာ\n\nမုန်တိုင်းကြောင့် သောင်တင်ခဲ့ပါတယ်..ရွာအုပ်ချုပ်သူက ဖမ်းဆီးထားခဲ့ပြီး\n\nအသစ်ရောက်လာတဲ့ မြို့တော်ဝန်ကိုဝင့်ကြွားစွာပြသချိန်မှာတော့\n\nမြို့တော်ဝန်ဟာသနားပြီး ရေသူမ ကို ပင်လယ်ထဲပြန်လွှတ်လိုက်ပါတယ်\n\nမြို့တော်ဝန်ရဲ့လက်က အထိန်းအမှတ် ကျောက်စိမ်းလေးကို\n\nရေသူမကိုလက်ဆောင်အဖြစ်ပေးခဲ့ပါတယ်\n\nနောက်ထပ်နှစ်ပေါင်း 430 ကြာတဲ့အခါမှာတော့\n\nအဲ့ရေသူမလေးဟာမုန်တိုင်းကြောင့်ပဲ ကုန်းမြေပြင်ပေါ်မှာ\n\nနောက်တစ်ခေါက်သောင်တင်လာပြန်ပါတော့တယ်\n\nဗိုက်ကလည်းဆာဆာနဲ့တွေ့တဲ့ဟိုတယ်အခန်းထဲခိုးဝင်ပြီး\n\nအစားအသောက်တွေခိုးစားခဲ့တယ်..ဖြစ်ချင်တော့\n\nအဲ့အခန်းမှာတည်းနေတဲ့သူက ဆိုးလ်မြို့ကနေ\n\nခဏလာရောက်အနားယူနေတဲ့ မျက်လှည့်ပညာရှင်\n\nစိတ်ညို့ပညာရှင် တစ်ဦးပါ တနည်းအားဖြင့်\n\nပြောရမယ်ဆိုရင်တော့ မြို့တော်ဝန်လေး ဒန်ယောင်း\n\nလူဝင်စားတဲ့သူပေါ့ ..သူဟာ ရေသူမလေးကို ရဲလက်အပ်လိုက်ပေမယ့်\n\nသနားစိတ်လေးကတော့ရှိခဲ့တယ်..ပိုပြီးစိတ်ဝင်စားစေတာက\n\nရေသူမလေးလက်က လက်ကောက်ကိုမြင်လိုက်ရတော့\n\nနောက်ကြောင်းစုံစမ်းတဲ့အခါ နှစ်ပေါင်း 400 ကျော်သက်တမ်း\n\nကြာပြီး ဒေါ်လာ 6သောင်းလောက်တန်တယ်ဆိုတာကိုသိရတဲ့အခါ\n\nရေသူမလေးကိုပြန်ရှာပြီး ကြင်နာစွာဆက်ဆံပါတော့တယ်\n\nဒီလိုနဲ့ သူတို့တွေဘာတွေဆက်ဖြစ်မလဲ ဒန်ယောင်းကရော\n\nဘဝဟောင်းကိုမှတ်မိပါ့မလား.ရေသူမလေးကရော\n\nသူ့ကိုမှတ်မိပါ့မလား..ကမ္ဘာပေါ်ကိုရောက်လာတဲ့\n\nရေသူမလေးနောက်ဆုံးမျိုးဆက်လေးဟာလည်း\n\nလူတွေနဲ့အတူနေထိုင်နိုင်ပါ့မလားဆိုတာ ဆက်လက်စောင့်ကြည့်ပါ",
     "series_cover_img": "https://upload.wikimedia.org/wikipedia/en/6/69/Legend_of_the_Blue_Sea_Poster.jpg",
