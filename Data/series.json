@@ -3,6 +3,80 @@
       
   
     {
+    "movietitle": "Miss Hammurabi",
+    "description": "The series tells the story of the life of judges and the various disputes that they have to settle.",
+    "series_cover_img": "https://m.media-amazon.com/images/I/71EZw9-xZAL._SX300_.jpg",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-20/5d5b98fc817b4.jpg",
+    "year": "2018",
+    "catagory": "Series Comedy Drama ",
+    "studio": "Korea",
+    "link": [
+      {
+        "ep_no": "Ep 1",
+        "link": "http://www.zegomovie.com/Videos/MissHammurabiEp1/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 2",
+        "link": "http://www.zegomovie.com/Videos/MissHammurabiEp2/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 3",
+        "link": "http://www.zegomovie.com/Videos/MissHammurabiEp3/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 4",
+        "link": "http://www.zegomovie.com/Videos/MissHammurabiEp4/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 5",
+        "link": "http://www.zegomovie.com/Videos/MissHammurabiEp5/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 6",
+        "link": "http://www.zegomovie.com/Videos/MissHammurabiEp6/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 7",
+        "link": "http://www.zegomovie.com/Videos/MissHammurabiEp7/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 8",
+        "link": "http://www.zegomovie.com/Videos/MissHammurabiEp8/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 9",
+        "link": "http://www.zegomovie.com/Videos/MissHammurabiEp9/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 10",
+        "link": "http://www.zegomovie.com/Videos/MissHammurabiEp10/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 11",
+        "link": "http://www.zegomovie.com/Videos/MissHammurabiEp11/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 12",
+        "link": "http://www.zegomovie.com/Videos/MissHammurabiEp12/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 13",
+        "link": "http://www.zegomovie.com/Videos/MissHammurabiEp13/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 14",
+        "link": "http://www.zegomovie.com/Videos/MissHammurabiEp14/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 15",
+        "link": "http://www.zegomovie.com/Videos/MissHammurabiEp15/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 16",
+        "link": "http://www.zegomovie.com/Videos/MissHammurabiEp16/index.m3u8"
+      }
+    ]
+  },{
     "movietitle": "Live Up To Your Name",
     "description": "သမားဂုဏ်ရည် စဆုံး",
     "series_cover_img": "https://photos.hancinema.net/photos/photo871417.jpg",
