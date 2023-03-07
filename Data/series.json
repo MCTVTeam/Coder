@@ -3,6 +3,64 @@
       
   
     {
+    "movietitle": "Good Job",
+    "description": "This App is Designed for myanmar people",
+    "series_cover_img": "http://zegomovie.com/Uploads/vod/2023-03-07/6407162b05d2d.jpg",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2023-03-07/6407162b05d2d.jpg",
+    "year": "2022",
+    "catagory": "Series Comedy Romance ",
+    "studio": "Korea",
+    "link": [
+      {
+        "ep_no": "Ep 1",
+        "link": "http://www.zegomovie.com/Videos/GoodJobEp1/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 2",
+        "link": "http://www.zegomovie.com/Videos/GoodJobEp2/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 3",
+        "link": "http://www.zegomovie.com/Videos/GoodJobEp3/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 4",
+        "link": "http://www.zegomovie.com/Videos/GoodJobEp4/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 5",
+        "link": "http://www.zegomovie.com/Videos/GoodJobEp5/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 6",
+        "link": "http://www.zegomovie.com/Videos/GoodJobEp6/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 7",
+        "link": "http://www.zegomovie.com/Videos/GoodJobEp7/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 8",
+        "link": "http://www.zegomovie.com/Videos/GoodJobEp8/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 9",
+        "link": "http://www.zegomovie.com/Videos/GoodJobEp9/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 10",
+        "link": "http://www.zegomovie.com/Videos/GoodJobEp10/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 11",
+        "link": "http://www.zegomovie.com/Videos/GoodJobEp11/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 12",
+        "link": "http://www.zegomovie.com/Videos/GoodJobEp12/index.m3u8"
+      }
+    ]
+  },{
     "movietitle": "Pride and Prejudice",
     "description": "Sends a chilling message about the nature of a successful high profile corruption prosecution, not limited to the South Korean justice system. Always follow the money.",
     "series_cover_img": "https://www.kdramalove.com/PPoster2.jpg",
