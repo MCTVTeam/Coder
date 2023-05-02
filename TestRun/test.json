@@ -1,0 +1,21 @@
+{
+  "Quizz_Database": [
+    {
+    "Question": "Myanmar Independent Day",
+    "Answer1": "1990",
+    "Answer2": "1994",
+    "Answer3": "1948",
+    "Answer4": "1947",
+    "TrueAnswer": "1948"
+  },{
+    "Question": "Myanmar Worker Day",
+    "Answer1": "May 1",
+    "Answer2": "June 1",
+    "Answer3": "July 1",
+    "Answer4": "March 1",
+    "TrueAnswer": "May 1"
+  }
+    
+    ]
+  
+}
