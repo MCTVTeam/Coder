@@ -1,0 +1,66 @@
+{
+  "Series_Database": [
+    {
+      "movietitle": "Test Series 1",
+      "description": "This App is Designed for myanmar people",
+      "series_cover_img": "https://mctvteam.github.io/Coder/Logo/moviecover.png",
+      "year": "2022",
+      "movie_img": "https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/mccover.png?alt=media&token=95c60e07-53d3-4261-8096-d26944a5db17",
+      "link": [
+        {
+          "ep_no": "Test EP 1",
+          "link": "http://www.zegomovie.com/Videos/LiveEp1/index.m3u8"
+        },
+        {
+          "ep_no": "Test EP 2",
+          "link": "http://www.zegomovie.com/Videos/LiveEp2/index.m3u8"
+        },
+        {
+          "ep_no": "Test EP 3",
+          "link": "http://www.zegomovie.com/Videos/LiveEp3/index.m3u8"
+        },
+        {
+          "ep_no": "Test EP 4",
+          "link": "http://www.zegomovie.com/Videos/LiveEp4/index.m3u8"
+        }
+      ],
+      "catagory": "Test Series",
+      "studio": "Test"
+    },
+    {
+      "movietitle": "Test Series 2",
+      "description": "This App is Designed for myanmar people",
+      "series_cover_img": "https://mctvteam.github.io/Coder/Logo/moviecover.png",
+      "year": "2022",
+      "movie_img": "https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/mccover.png?alt=media&token=95c60e07-53d3-4261-8096-d26944a5db17",
+      "link": [
+        {
+          "ep_no": "Test EP 1",
+          "link": "http://www.zegomovie.com/Videos/Iris2Ep1/index.m3u8"
+        },
+        {
+          "ep_no": "Test EP 2",
+          "link": "http://www.zegomovie.com/Videos/Iris2Ep2/index.m3u8"
+        },
+        {
+          "ep_no": "Test EP 3",
+          "link": "http://www.zegomovie.com/Videos/Iris2Ep3/index.m3u8"
+        },
+        {
+          "ep_no": "Test EP 4",
+          "link": "http://www.zegomovie.com/Videos/Iris2Ep4/index.m3u8"
+        },
+        {
+          "ep_no": "Test EP 5",
+          "link": "http://www.zegomovie.com/Videos/Iris2Ep5/index.m3u8"
+        },
+        {
+          "ep_no": "Test EP 6",
+          "link": "http://www.zegomovie.com/Videos/Iris2Ep6/index.m3u8"
+        }
+      ],
+      "catagory": "Test",
+      "studio": "Test"
+    }
+  ]
+}
