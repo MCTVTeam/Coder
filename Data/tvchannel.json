@@ -44,11 +44,26 @@
       "channel": "TVChannel"
     },
     {
-      "channelname": "India Today",
-      "link": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_404p/chunks.m3u8",
-      "preview_img": "https://akm-img-a-in.tosshub.com/indiatoday/images/livetv/indiaToday.jpg",
+      "channelname": "Y TV",
+      "link": "http://183.89.246.119:8881/play/a081/index.m3u8",
+      "preview_img": "https://upload.wikimedia.org/wikipedia/en/6/68/YTV_Logo.png",
       "channel": "TVChannel"
-    },
+    },{
+      "channelname": "Mizzima TV",
+      "link": "https://mizzima-live.b-cdn.net/live2_720.m3u8",
+      "preview_img": "https://mizzima.com//sites/default/files/mizzima_logo_new.png",
+      "channel": "TVChannel"
+    }{
+      "channelname": "MM Movies",
+      "link": "https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8",
+      "preview_img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYkPCd1EbGG4Dl-AFwepyG7oC8EWcWJZRbsUbnYCi-duubQqXovQ2kGXrS3Tbf3w8asU4XP63ga_dgQQ7GTU3TnWPP-ci6-NNgYQB86aSeBi4I0Drpkq8X2Lu833nbEpvgLaqEOz4uApw-PtEWAGdM-LX6gL5kN7Sc0t8IbyT5h-Mfel0iromqltSNxg/s320/IMG_20221210_094602.jpg",
+      "channel": "TVChannel"
+    }{
+      "channelname": "5 Plus",
+      "link": "http://183.89.246.119:8881/play/a07w/index.m3u8",
+      "preview_img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9P0rMy4uyoA6HcCs90CbLqjSugMR7eVSXxwkty-_Qn-YysOg5PDzikFYJBjSIME4yc4yZQywvr7n3sIk7IT_ZKte8vho1wBwWG-cP3qtN4bzu3FVhtGaEit32JSyRfRrmgrExH9N6l_q-R2axB3AfeRKbT1506RLzhKbN-utgVib3mLGEz1EdIEaCMA/s320/IMG_20221208_003305.jpg",
+      "channel": "TVChannel"
+    },   
     {
       "channelname": "MUTV",
       "preview_img": "https://mctvteam.github.io/Coder/Logo/MUTV_logo.png",
