@@ -3,6 +3,80 @@
     
 
   {
+    "movietitle": "Cindrella \u0026 Four Knight",
+    "description": "This App is Designed for myanmar people",
+    "series_cover_img": "https://upload.wikimedia.org/wikipedia/en/c/cc/Cinderella_and_Four_Knights_-_Promotional_poster.jpg",
+    "movie_img": "https://upload.wikimedia.org/wikipedia/en/c/cc/Cinderella_and_Four_Knights_-_Promotional_poster.jpg",
+    "year": "2016",
+    "catagory": "Series Comedy Romance ",
+    "studio": "Korea",
+    "link": [
+      {
+        "ep_no": "Ep 1",
+        "link": "http://www.zegomovie.com/Videos/CindrellaandFourKnightsEp1/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 2",
+        "link": "http://www.zegomovie.com/Videos/CindrellaandFourKnightsEp2/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 3",
+        "link": "http://www.zegomovie.com/Videos/CindrellaandFourKnightsEp3/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 4",
+        "link": "http://www.zegomovie.com/Videos/CindrellaandFourKnightsEp4/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 5",
+        "link": "http://www.zegomovie.com/Videos/CindrellaandFourKnightsEp5/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 6",
+        "link": "http://www.zegomovie.com/Videos/CindrellaandFourKnightsEp6/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 7",
+        "link": "http://www.zegomovie.com/Videos/CindrellaandFourKnightsEp7/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 8",
+        "link": "http://www.zegomovie.com/Videos/CindrellaandFourKnightsEp8/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 9",
+        "link": "http://www.zegomovie.com/Videos/CindrellaandFourKnightsEp9/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 10",
+        "link": "http://www.zegomovie.com/Videos/CindrellaandFourKnightsEp10/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 11",
+        "link": "http://www.zegomovie.com/Videos/CindrellaandFourKnightsEp11/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 12",
+        "link": "http://www.zegomovie.com/Videos/CindrellaandFourKnightsEp12/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 13",
+        "link": "http://www.zegomovie.com/Videos/CindrellaandFourKnightsEp13/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 14",
+        "link": "http://www.zegomovie.com/Videos/CindrellaandFourKnightsEp14/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 15",
+        "link": "http://www.zegomovie.com/Videos/CindrellaandFourKnightsEp15/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 16",
+        "link": "http://www.zegomovie.com/Videos/CindrellaandFourKnightsEp16/index.m3u8"
+      }
+    ]
+  },{
     "movietitle": "S1 - Under The Dome",
     "description": "This App is Designed for myanmar people",
     "series_cover_img": "http://zegomovie.com/Uploads/vod/2020-03-03/5e5e09d77b4e1.jpg",
