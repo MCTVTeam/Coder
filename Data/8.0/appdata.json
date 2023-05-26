@@ -4,14 +4,16 @@
     "DB_AppData":[
 
         {
+            
+            
 
-            "appversion":"8.0",
-            "updatemessage":"Fix Force Close. Change UI Design.",
+            "appversion":"9.0",
+            "updatemessage":"Movie တွေ search လုပ်ပြီး ကြည့်တဲ့အခါ တလွဲ ဖြစ်နေတာကို ပြန်ပြင်ပေးထားပါတယ်။ အရင်ဗားရှင်းထက်လည်း သုံးရတာ ပိုသွက်လာပါတယ်။",            
             "channelURL":"https://mctvteam.github.io/Coder/Data/tvchannel.json",
             "movieURL":"https://mctvteam.github.io/Coder/Data/movies.json",
             "seriesURL":"https://mctvteam.github.io/Coder/Data/series.json",
-            "sliderURL":"https://mctvteam.github.io/Coder/Ads/ads.json",            
-            "directDownload":"https://mctvteam.github.io/Coder/Download/mctv8.0.apk"
+            "sliderURL":"https://mctvteam.github.io/Coder/Ads/ads.json",          
+            "directDownload":"https://mctvteam.github.io/Coder/Download/mctv9.0.apk"
             
             
         }
