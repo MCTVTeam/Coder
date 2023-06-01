@@ -1,6 +1,15 @@
 {
   "Movies_Database": [
    {
+    "movietitle": "John Wick;Chapter 4",
+    "description": "This App is Designed for myanmar people",
+    "movie_cover_img": "http://zegomovie.com/Uploads/vod/2023-05-24/646d90ec9e183.png",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2023-05-24/646d90ec9e183.png",
+    "link": "http://www.zegomovie.com/Videos/JohnWickChapter4/index.m3u8",
+    "year": "2023",
+    "catagory": "Movies Action Crime ",
+    "studio": "USA"
+  },{
     "movietitle": "Batman vs Superman",
     "description": "This App is Designed for myanmar people",
     "movie_cover_img": "http://zegomovie.com/Uploads/vod/2019-06-04/5cf6168ab8716.jpg",
