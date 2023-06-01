@@ -1,6 +1,15 @@
 {
   "Movies_Database": [
-    {
+   {
+    "movietitle": "Batman vs Superman",
+    "description": "This App is Designed for myanmar people",
+    "movie_cover_img": "http://zegomovie.com/Uploads/vod/2019-06-04/5cf6168ab8716.jpg",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-04/5cf6168ab8716.jpg",
+    "link": "http://www.zegomovie.com/Videos/Batman\u0026Superman/index.m3u8",
+    "year": "2016",
+    "catagory": "Movies Action Adventure Fantasy ",
+    "studio": "USA"
+  }, {
     "movietitle": "Coast Guard Malaysia: Ops Helang",
     "description": "မလေးရှားကမ်းခြေစောင့်တပ်ရဲ့ အထူးတပ်ဖွဲ့ဝင် ဗိုလ်တစ်ဦးဖြစ်သူဟဖစ်ဟာ မှုခင်းတိုက်ဖျက်စစ်ဆင်ရေးတွေပြုလုပ်အပြီးမှာတော့\nဇနီးလောင်းလေးနဲ့ ဘဝအသစ်စမယ်ဆိုပြီး ကျွန်းလေးတစ်ကျွန်းမှာ စေ့စပ်ပွဲလေးကျင်းပလက်ထပ်ကြတယ်ပေါ့။\nကံဆိုးချင်တော့ အဲ့နေ့ညမှာပဲ ပင်လယ်ဓားပြတွေက ကျွန်းကိုဝင်စီး ဟဖစ်တို့ ဇနီးမောင်နှံအပါအဝင်မိသားစုနဲ့ ပွဲလာသူတွေကို လူတွေကိုဖမ်းဆီး ဓားစာခံလုပ်ကာဖမ်းခေါ်သွားပါတယ်။\nဒါပေမယ့် ဟဖစ်ကတော့ ဒဏ်ရာရကာ ကံကောင်းပြီးဓားပြတွေလက်ထဲမှလွတ်မြောက်လာခဲ့ပြီး\nဇနီးဖြစ်သူနဲ့မိသားစုကိုပြန်ကယ်ဖို့ကြိးပမ်းပါတော့တယ်။\nဒီဓားပြမှုဟာ သာမန်ဖြစ်ရိုးဖြစ်စဥ်မဟုတ်ဘဲ တခြားအကြောင်းအရာများစွာ နောက်ကွယ်မှာရှိနေသေးကြောင်းသိလိုက်ရတဲ့အခါ….\nဘာတွေဆက်ဖြစ်မလဲဆိုတာကို ဇာတ်လမ်းလေးထဲမှာကြည့်ရှုခံစားနိုင်ပါပြီ။",
     "movie_cover_img": "http://zegomovie.com/Uploads/vod/2023-04-06/642ea1d7cc992.png",
