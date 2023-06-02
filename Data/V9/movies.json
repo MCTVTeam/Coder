@@ -1,6 +1,15 @@
 {
   "Movies_Database": [
    {
+    "movietitle": "Justice League Gods and monsters",
+    "description": "This App is Designed for myanmar people",
+    "movie_cover_img": "http://zegomovie.com/Uploads/vod/2019-06-03/5cf4ec9dc5161.jpg",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-03/5cf4ec9dc5161.jpg",
+    "link": "http://www.zegomovie.com/Videos/JusticeLeagueGodsandMonsters/index.m3u8",
+    "year": "2015",
+    "catagory": "Movies Action Adventure Animation ",
+    "studio": "USA"
+  },{
     "movietitle": "Justice League",
     "description": "This App is Designed for myanmar people",
     "movie_cover_img": "http://zegomovie.com/Uploads/vod/2023-04-29/644ca114b78b0.jpg",
