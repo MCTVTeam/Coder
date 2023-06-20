@@ -1,6 +1,15 @@
 {
   "Movies_Database": [
     {
+    "movietitle": "I am Groot",
+    "description": "This App is Designed for myanmar people",
+    "movie_cover_img": "http://zegomovie.com/Uploads/vod/2023-01-17/63c670a76834d.PNG",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-17/63c670a76834d.PNG",
+    "link": "http://www.zegomovie.com/Videos/Iamgroot/index.m3u8",
+    "year": "2022",
+    "catagory": "Movies Action Animation Sci-fi ",
+    "studio": "Marvel"
+  },{
     "movietitle": "Mighty Morphin Power Ranger",
     "description": "This App is Designed for myanmar people",
     "movie_cover_img": "http://zegomovie.com/Uploads/vod/2023-04-20/6440cc832af82.jpg",
