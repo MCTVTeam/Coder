@@ -1,6 +1,15 @@
 {
   "Movies_Database": [
     {
+    "movietitle": "Snake Eyes: G.I. Joe Origins",
+    "description": "This App is Designed for myanmar people",
+    "movie_cover_img": "http://zegomovie.com/Uploads/vod/2021-08-19/611e2d72e7ece.jpg",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2021-08-19/611e2d72e7ece.jpg",
+    "link": "http://www.zegomovie.com/Videos/SnakeEyesGIJoeOrigins/index.m3u8",
+    "year": "2021",
+    "catagory": "Movies Action Adventure ",
+    "studio": "Canada"
+  },{
     "movietitle": "Venom: Let There Be Carnage",
     "description": "Venom ဒုတိယကားမှာလည်း အက်ဒီ နဲ့ ဗယ်နွန်က မတည့်အတူနေပါပဲ။ ငြင်းလိုက်ခုန်လို့ ရန်ဖြစ်လိုက်နဲ့ လူဆိုးတွေနဲ့ ချနေဆဲပါပဲ။ကလိတပ်ဆိုတဲ့ စိတ္တဇလူသတ်သမားဆီကို အနီရောင် ကပ်ပါးကောင် ကာနေ့ဂျ် ရောက်သွားပြီ ထောင်ကနေ လွတ်မြောက်သွားပါတယ်။ကလိတပ်က သူ့ရဲ့ချစ်သူကိုပါ ထောင်ထဲက ကယ်ထုတ်ပြီး အက်ဒီ နဲ့ဗယ်နွန်ကို ကလဲ့စားချေဖို့ လိုက်လာတဲ့အခါ…..အဆက်အစပ်ရှိချင်ရင်တော့ CM မှာတင်ပေးထားတဲ့ Venom 1 ကိုကြည့်လို့ရပါတယ်။ နောက်ပြီးတော့ Venom-2 ရဲ့ အဆုံးမှာစပိုက်ဒါမန်း နဲ့ ဆက်စပ်မယ့် တစ်ခန်းပါသေးတာမို့ သေချာလေး ရှာကြည့်လိုက်ပါဦးနော်။(ဒီဇာတ်လမ်းရဲ့ အညွှန်းနဲ့ ဘာသာပြန်ရေးသားပေးသူကတော့ Mr.Anderson ပဲဖြစ်ပါတယ်။)",
     "movie_cover_img": "http://zegomovie.com/Uploads/vod/2021-11-09/618a39ad3c592.jpg",
