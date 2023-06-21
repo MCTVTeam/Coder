@@ -1,6 +1,15 @@
 {
   "Movies_Database": [
     {
+    "movietitle": "The Last Samurai",
+    "description": "This App is Designed for myanmar people",
+    "movie_cover_img": "http://zegomovie.com/Uploads/vod/2019-06-18/5d0863db34ae8.jpg",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-18/5d0863db34ae8.jpg",
+    "link": "http://www.zegomovie.com/Videos/TheLastSamurai/index.m3u8",
+    "year": "2003",
+    "catagory": "Movies Action Drama Thriller ",
+    "studio": "USA"
+  },{
     "movietitle": "Under Siege",
     "description": "This App is Designed for myanmar people",
     "movie_cover_img": "http://zegomovie.com/Uploads/vod/2023-02-16/63ed9a0555ca8.png",
