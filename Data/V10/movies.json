@@ -1,6 +1,15 @@
 {
   "Movies_Database": [
     {
+    "movietitle": "Ride On",
+    "description": "This App is Designed for myanmar people",
+    "movie_cover_img": "http://zegomovie.com/Uploads/vod/2023-06-05/647d6fe40ce01.png",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2023-06-05/647d6fe40ce01.png",
+    "link": "http://www.zegomovie.com/Videos/RideOn/index.m3u8",
+    "year": "2023",
+    "catagory": "Movies Action Comedy Drama ",
+    "studio": "China"
+  },{
     "movietitle": "Naruto Shippuden the Movie: The Los",
     "description": "This App is Designed for myanmar people",
     "movie_cover_img": "http://zegomovie.com/Uploads/vod/2023-01-04/63b51d706b482.png",
