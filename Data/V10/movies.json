@@ -1,6 +1,15 @@
 {
   "Movies_Database": [
     {
+    "movietitle": "Shazam! Fury of the Gods",
+    "description": "This App is Designed for myanmar people",
+    "movie_cover_img": "http://zegomovie.com/Uploads/vod/2023-04-08/64310f73d5eeb.png",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2023-04-08/64310f73d5eeb.png",
+    "link": "http://www.zegomovie.com/Videos/ShazamFuryoftheGods/index.m3u8",
+    "year": "2023",
+    "catagory": "Movies Action Adventure Comedy ",
+    "studio": "USA"
+  },{
     "movietitle": "Ambush",
     "description": "This App is Designed for myanmar people",
     "movie_cover_img": "http://zegomovie.com/Uploads/vod/2023-06-12/6486c3b16f879.png",
