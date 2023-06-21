@@ -1,6 +1,15 @@
 {
   "Movies_Database": [
     {
+    "movietitle": "Raw Deal",
+    "description": "This App is Designed for myanmar people",
+    "movie_cover_img": "http://zegomovie.com/Uploads/vod/2023-01-19/63c8ee62853bb.png",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-19/63c8ee62853bb.png",
+    "link": "http://www.zegomovie.com/Videos/RawDeal/index.m3u8",
+    "year": "1996",
+    "catagory": "Movies Action Crime ",
+    "studio": "USA"
+  },{
     "movietitle": "Hunter Killer",
     "description": "This App is Designed for myanmar people",
     "movie_cover_img": "http://zegomovie.com/Uploads/vod/2023-01-19/63c8ef3aebd8e.PNG",
