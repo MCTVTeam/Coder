@@ -1,6 +1,15 @@
 {
   "Movies_Database": [
     {
+    "movietitle": "Naruto Shippuden the Movie: The Los",
+    "description": "This App is Designed for myanmar people",
+    "movie_cover_img": "http://zegomovie.com/Uploads/vod/2023-01-04/63b51d706b482.png",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-04/63b51d706b482.png",
+    "link": "http://www.zegomovie.com/Videos/NarutoShippudentheMovieTheLostTower/index.m3u8",
+    "year": "2013",
+    "catagory": "Movies Action Adventure Animation ",
+    "studio": "Japan"
+  },{
     "movietitle": "Adventure Of Tin Tin",
     "description": "This App is Designed for myanmar people",
     "movie_cover_img": "http://zegomovie.com/Uploads/vod/2023-02-01/63d9e74c08daf.png",
