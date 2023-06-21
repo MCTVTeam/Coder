@@ -1,6 +1,15 @@
 {
   "Movies_Database": [
     {
+    "movietitle": "Ambush",
+    "description": "This App is Designed for myanmar people",
+    "movie_cover_img": "http://zegomovie.com/Uploads/vod/2023-06-12/6486c3b16f879.png",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2023-06-12/6486c3b16f879.png",
+    "link": "http://www.zegomovie.com/Videos/Ambush223/index.m3u8",
+    "year": "2023",
+    "catagory": "Movies Action Thriller ",
+    "studio": "USA"
+  },{
     "movietitle": "Kandahar",
     "description": "This App is Designed for myanmar people",
     "movie_cover_img": "http://zegomovie.com/Uploads/vod/2023-06-16/648c383755577.png",
