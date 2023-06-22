@@ -1,6 +1,15 @@
 {
   "Movies_Database": [
     {
+    "movietitle": "Minions \u0026 More 1 Starring：",
+    "description": "This App is Designed for myanmar people",
+    "movie_cover_img": "http://zegomovie.com/Uploads/vod/2023-01-07/63b90f8473456.PNG",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-07/63b90f8473456.PNG",
+    "link": "http://www.zegomovie.com/Videos/MinionsandMoreVolume11/index.m3u8",
+    "year": "2022",
+    "catagory": "Movies Action Adventure Animation Thriller ",
+    "studio": "USA"
+  },{
     "movietitle": "Minions",
     "description": "This App is Designed for myanmar people",
     "movie_cover_img": "http://zegomovie.com/Uploads/vod/2019-06-03/5cf49e8414260.jpg",
