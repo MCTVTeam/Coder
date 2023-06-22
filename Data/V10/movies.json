@@ -1,6 +1,15 @@
 {
   "Movies_Database": [
     {
+    "movietitle": "Super Bear",
+    "description": "တောရိုင်းထဲမှာ နေထိုင်ကျက်စားနေတဲ့ ဝက်ဝံသားအဖလေးနှစ်ကောင်\nမိခင်ဖြစ်သူက ဆီဟငယ်ငယ်တုန်းက မှောင်ခိုသမားတွေ\nလာဖမ်းသွားအတွက် မိခင်မဲ့ သားလေးကိုအရမ်းချစ်ပါတယ်\nတစ်နေ့ သူတို့သားအဖနှစ်ယောက်အပေါ်ကံဆိုးမိုးမောင်ကျပါတော့တယ်\nတောရိုင်းမှောင်ခိုသမားတွေ ဆီဟ လေးကိုဖမ်းသွားပါတော့တယ်\nသားကိုဖမ်းသွားတဲ့ကားနောက်ကို လိုက်ခဲ့ပေမယ့် မမှီခဲ့ပါဘူး\nဒီလိုနဲ့ လမ်းပေါ်မှာ တောရိုင်းတိရိစ္ဆာန်တွေကို တရားမဝင်မှောင်ခိုလုပ်နေတဲ့\nအဖွဲ့ကိုလိုက်လံဖော်ထုတ်နေတဲ့ အေးဂျင့်ဟွန်တို မထင်မှတ်ဘဲတွေ့ဆုံမိပြီး\nသူ့သား ဆီဟ ဘယ်လိုကယ်ဆယ်မလဲဆိုတာ ဆက်လက်ကြည့်ရှုပေးပါဦး",
+    "movie_cover_img": "http://zegomovie.com/Uploads/vod/2022-12-31/63b00ac26fae7.PNG",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2022-12-31/63b00ac26fae7.PNG",
+    "link": "http://www.zegomovie.com/Videos/SuperBear/index.m3u8",
+    "year": "2019",
+    "catagory": "Movies Animation Family ",
+    "studio": "USA"
+  },{
     "movietitle": "Minions \u0026 More 1 Starring：",
     "description": "This App is Designed for myanmar people",
     "movie_cover_img": "http://zegomovie.com/Uploads/vod/2023-01-07/63b90f8473456.PNG",
