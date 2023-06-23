@@ -3,6 +3,56 @@
     
 
   {
+    "movietitle": "Love Detective Sherloack K",
+    "description": "This App is Designed for myanmar people",
+    "series_cover_img": "http://zegomovie.com/Uploads/vod/2019-08-23/5d5fae7b30124.jpg",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-23/5d5fae7b30124.jpg",
+    "year": "2017",
+    "catagory": "Series Drama ",
+    "studio": "Korea",
+    "link": [
+      {
+        "ep_no": "Ep 1",
+        "link": "http://www.zegomovie.com/Videos/LoveDetectiveSherloackKEp1/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 2",
+        "link": "http://www.zegomovie.com/Videos/LoveDetectiveSherloackKEp2/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 3",
+        "link": "http://www.zegomovie.com/Videos/LoveDetectiveSherloackKEp3/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 4",
+        "link": "http://www.zegomovie.com/Videos/LoveDetectiveSherloackKEp4/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 5",
+        "link": "http://www.zegomovie.com/Videos/LoveDetectiveSherloackKEp5/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 6",
+        "link": "http://www.zegomovie.com/Videos/LoveDetectiveSherloackKEp6/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 7",
+        "link": "http://www.zegomovie.com/Videos/LoveDetectiveSherloackKEp7/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 8",
+        "link": "http://www.zegomovie.com/Videos/LoveDetectiveSherloackKEp8/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 9",
+        "link": "http://www.zegomovie.com/Videos/LoveDetectiveSherloackKEp9/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 10",
+        "link": "http://www.zegomovie.com/Videos/LoveDetectiveSherloackKEp10/index.m3u8"
+      }
+    ]
+  },{
     "movietitle": "Hur jun the original story",
     "description": "Hur Jun, The Original Story ရာဇဝင်ထဲကသမားတော်",
     "series_cover_img": "http://zegomovie.com/Uploads/vod/2019-08-20/5d5bd0c1829d9.jpg",
