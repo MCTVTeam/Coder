@@ -3,6 +3,64 @@
     
 
   {
+    "movietitle": "When Time Stopped",
+    "description": "This App is Designed for myanmar people",
+    "series_cover_img": "http://zegomovie.com/Uploads/vod/2019-08-20/5d5bae145c9b9.jpg",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-20/5d5bae145c9b9.jpg",
+    "year": "2018",
+    "catagory": "Series Fantasy ",
+    "studio": "Korea",
+    "link": [
+      {
+        "ep_no": "Ep 1",
+        "link": "http://www.zegomovie.com/Videos/WhenTimeStoppedEp1/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 2",
+        "link": "http://www.zegomovie.com/Videos/WhenTimeStoppedEp2/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 3",
+        "link": "http://www.zegomovie.com/Videos/WhenTimeStoppedEp3/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 4",
+        "link": "http://www.zegomovie.com/Videos/WhenTimeStoppedEp4/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 5",
+        "link": "http://www.zegomovie.com/Videos/WhenTimeStoppedEp5/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 6",
+        "link": "http://www.zegomovie.com/Videos/WhenTimeStoppedEp6/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 7",
+        "link": "http://www.zegomovie.com/Videos/WhenTimeStoppedEp7/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 8",
+        "link": "http://www.zegomovie.com/Videos/WhenTimeStoppedEp8/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 9",
+        "link": "http://www.zegomovie.com/Videos/WhenTimeStoppedEp9/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 10",
+        "link": "http://www.zegomovie.com/Videos/WhenTimeStoppedEp10/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 11",
+        "link": "http://www.zegomovie.com/Videos/WhenTimeStoppedEp11/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 12",
+        "link": "http://www.zegomovie.com/Videos/WhenTimeStoppedEp12/index.m3u8"
+      }
+    ]
+  },{
     "movietitle": "Legal High",
     "description": "This App is Designed for myanmar people",
     "series_cover_img": "http://zegomovie.com/Uploads/vod/2019-10-28/5db6c95f209f1.jpg",
