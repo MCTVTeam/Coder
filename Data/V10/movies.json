@@ -1,6 +1,15 @@
 {
   "Movies_Database": [
     {
+    "movietitle": "LEGO Star Wars Summer Vacation",
+    "description": "နှစ်စဉ်ထွက်နေကျအတိုင်း လီဂိုကာတွန်း Star Wars ထွက်လာပါပြီ။ မိသားစုကြည့်ဖို့ဇာတ်လမ်းဖြစ်တာမို့ အင်ပါယာ၊ ဒါ့ဗိတ်ဒါ၊ အိုဘီဝမ်၊ ဟန်ဆိုလို၊ ချူဝီ၊ လေယာ၊ ရေး၊ ဖင်း၊ ပိုး တို့အားလုံးပါဝင်တဲ့ ဟာသနဲ့စွန့်စားခန်းတွေပဲ ဖြစ်ပါတယ်။ ဇာတ်လမ်းထဲမှာတော့ မျိုးဆက်သစ်တွေဖြစ်တဲ့ ရေး၊ ဖင်း၊ ပိုး တို့ဟာ အားလပ်ရက်ခရီးထွက်လာရင်း အဆင်မပြေမှုတွေနဲ့ရင်ဆိုင်လာရတဲ့အခါ၊ အိုဘီဝမ်၊ ဒါ့သ်ဗိတ်ဒါ နဲ့လေယာတို့က သူတို့ငယ်စဉ်က အတွေ့အကြုံတွေကို ပြန်ပြောပြတာကို ဇာတ်လမ်းဆင်ထားတာဖြစ်ပြီး ဂျဒိုင်းကြီးတွေရဲ့ ဟာသဆန်ဆန် စွန့်စားခန်းတွေကို ကြည့်ရမှာပဲဖြစ်ပါတယ်",
+    "movie_cover_img": "http://zegomovie.com/Uploads/vod/2023-01-07/63b90e76cd861.PNG",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-07/63b90e76cd861.PNG",
+    "link": "http://www.zegomovie.com/Videos/LEGOStarWarsSummerVacation/index.m3u8",
+    "year": "2022",
+    "catagory": "Movies Action Adventure Animation ",
+    "studio": "USA"
+  },{
     "movietitle": "Minions 2",
     "description": "This App is Designed for myanmar people",
     "movie_cover_img": "http://zegomovie.com/Uploads/vod/2019-06-15/5d04c41e76a6f.jpg",
