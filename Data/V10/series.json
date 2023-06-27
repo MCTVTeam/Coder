@@ -2,7 +2,7 @@
   "Series_Database": [
     
 
-  {
+ {
     "movietitle": "The Flash SE 1",
     "description": "The Flash ဆိုရင် သိလောက်ပါတယ်နော်။",
     "series_cover_img": "http://136.228.164.68/Uploads/vod/2019-08-24/5d60f6b5e26aa.jpg",
@@ -102,6 +102,315 @@
       {
         "ep_no": "Ep 23",
         "link": "http://www.zegomovie.com/Videos/TheFlashS1Ep23/index.m3u8"
+      }
+    ]
+  },
+  {
+    "movietitle": "The Flash SE 2",
+    "description": "The Flash ဆိုရင် သိလောက်ပါတယ်နော်။",
+    "series_cover_img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60f6eb37f7d.jpg",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60f6eb37f7d.jpg",
+    "year": "2014",
+    "catagory": "Series Action Adventure Drama ",
+    "studio": "Hollywood",
+    "link": [
+      {
+        "ep_no": "Ep 1",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS2Ep1/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 2",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS2Ep2/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 3",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS2Ep3/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 4",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS2Ep4/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 5",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS2Ep5/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 6",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS2Ep6/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 7",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS2Ep7/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 8",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS2Ep8/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 9",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS2Ep9/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 10",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS2Ep10/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 11",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS2Ep11/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 12",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS2Ep12/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 13",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS2Ep13/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 14",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS2Ep14/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 15",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS2Ep15/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 16",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS2Ep16/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 17",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS2Ep17/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 18",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS2Ep18/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 19",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS2Ep19/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 20",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS2Ep20/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 21",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS2Ep21/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 22",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS2Ep22/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 23",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS2Ep23/index.m3u8"
+      }
+    ]
+  },
+  {
+    "movietitle": "The Flash SE 3",
+    "description": "The Flash ဆိုရင် သိလောက်ပါတယ်နော်။",
+    "series_cover_img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60f6eb37f7d.jpg",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60f6eb37f7d.jpg",
+    "year": "2014",
+    "catagory": "Series Action Adventure Drama ",
+    "studio": "Hollywood",
+    "link": [
+      {
+        "ep_no": "Ep 1",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS3Ep1/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 2",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS3Ep2/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 3",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS3Ep3/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 4",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS3Ep4/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 5",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS3Ep5/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 6",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS3Ep6/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 7",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS3Ep7/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 8",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS3Ep8/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 9",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS3Ep9/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 10",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS3Ep10/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 11",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS3Ep11/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 12",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS3Ep12/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 13",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS3Ep13/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 14",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS3Ep14/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 15",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS3Ep15/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 16",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS3Ep16/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 17",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS3Ep17/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 18",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS3Ep18/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 19",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS3Ep19/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 20",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS3Ep20/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 21",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS3Ep21/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 22",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS3Ep22/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 23",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS3Ep23/index.m3u8"
+      }
+    ]
+  },
+  {
+    "movietitle": "The Flash SE 4",
+    "description": "The Flash ဆိုရင် သိလောက်ပါတယ်နော်။",
+    "series_cover_img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60f6eb37f7d.jpg",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60f6eb37f7d.jpg",
+    "year": "2014",
+    "catagory": "Series Action Adventure Drama ",
+    "studio": "Hollywood",
+    "link": [
+      {
+        "ep_no": "Ep 1",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS4Ep1/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 2",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS4Ep2/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 3",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS4Ep3/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 4",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS4Ep4/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 5",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS4Ep5/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 6",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS4Ep6/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 7",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS4Ep7/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 8",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS4Ep8/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 9",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS4Ep9/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 10",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS4Ep10/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 11",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS4Ep11/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 12",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS4Ep12/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 13",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS4Ep13/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 14",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS4Ep14/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 15",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS4Ep15/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 16",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS4Ep16/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 17",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS4Ep17/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 18",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS4Ep18/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 19",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS4Ep19/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 20",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS4Ep20/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 21",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS4Ep21/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 22",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS4Ep22/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 23",
+        "link": "http://www.zegomovie.com/Videos/TheFlashS4Ep23/index.m3u8"
       }
     ]
   },{
