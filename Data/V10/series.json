@@ -2,7 +2,98 @@
   "Series_Database": [
     
 
- {
+ 
+  {
+    "movietitle": "Suspicious Partner",
+    "description": "အပိုင်း (၁ မှ ၂၀) အထိ (စ/ဆုံး)\n\n \n\nဆွဲဆောင်မှုအားကောင်းပြီး အလုပ်မှာလည်း ထက်ထက်မြက်မြက်နဲ့ အဖေ့ခြေရာကို\n\nတစ်ထေရာတည်းနင်းနိုင်တဲ့ အမှုစစ်နိုဂျီအု….\n\nငယ်စဥ်အခါက တိုက်ကွမ်ဒိုခါးပတ်နက်ရခဲ့ပေမယ့် အဖေ့လို မတရားခံရတဲ့လူတွေကို\n\nကူညီပေးချင်တဲ့စိတ်နဲ့ ရှေ့နေဖြစ်လာခဲ့တဲ့ အွန်ဘုံဟီး…\n\nတစ်ရက်မှာတော့ လူသတ်သမားက အွန်ဘုံဟီးကိုသတ်ဖို့လာခဲ့ရာကနေ လူမှားပြီး\n\nအွန်ဘုံဟီးရဲ့ချစ်သူကို သတ်မိသွားပါတယ်။\n\nအပြင်ကပြန်လာတဲ့ ဘုံဟီးတစ်ယောက် သူကိုယ်တိုင်တောင် မသိလိုက်တဲ့အချိန်မှာပဲ\n\nသူ့ချစ်သူဟောင်းကိုသတ်တဲ့ တရားခံအဖြစ်စွဲချက်တင်ခံလိုက်ရပါတော့တယ်။\n\nအမှုစစ်နိုဂျီအုတစ်ယောက် ဘုံဟီးအတွက်နဲ့ ဝတ်ရုံချွတ်လိုက်ရပြီး\n\nရှေ့နေဖြစ်သွားတဲ့နောက် ကွင်းဆက်လူသတ်မှုကြီးက တစ်ကျော့ပြန်လာတဲ့အခါမှာတော့\n\nဘုံဟီးနဲ့ဂျီအုတို့ တရားခံအစစ်ကိုဘယ်လိုရှာကြမလဲ….\n\nသူတို့ကြားထဲကအချစ်ဇာတ်လမ်းလေးနဲ့အတူ တခြားသောဟာသအလွဲလေးတွေကိုပါ ကြည့်ရှုရဦးမှာပါ",
+    "series_cover_img": "http://zegomovie.com/Uploads/vod/2019-10-22/5daecaf030953.jpg",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2019-10-22/5daecaf030953.jpg",
+    "year": "2017",
+    "catagory": "Series Comedy Crime Romance ",
+    "studio": "Korea",
+    "link": [
+      {
+        "ep_no": "Ep 1",
+        "link": "http://www.zegomovie.com/Videos/SuspiciousPartnerep(1)(2)/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 2",
+        "link": "http://www.zegomovie.com/Videos/SuspiciousPartnerep(3)(4)/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 3",
+        "link": "http://www.zegomovie.com/Videos/SuspiciousPartnerep(5)(6)/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 4",
+        "link": "http://www.zegomovie.com/Videos/SuspiciousPartnerep(7)(8)/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 5",
+        "link": "http://www.zegomovie.com/Videos/SuspiciousPartnerep(9)(10)/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 6",
+        "link": "http://www.zegomovie.com/Videos/SuspiciousPartnerep(11)(12)/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 7",
+        "link": "http://www.zegomovie.com/Videos/SuspiciousPartnerep(13)(14)/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 8",
+        "link": "http://www.zegomovie.com/Videos/SuspiciousPartnerep(15)(16)/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 9",
+        "link": "http://www.zegomovie.com/Videos/SuspiciousPartnerep(17)(18)/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 10",
+        "link": "http://www.zegomovie.com/Videos/SuspiciousPartnerep(19)(20)/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 11",
+        "link": "http://www.zegomovie.com/Videos/SuspiciousPartnerep(21)(22)/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 12",
+        "link": "http://www.zegomovie.com/Videos/SuspiciousPartnerep(23)(24)/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 13",
+        "link": "http://www.zegomovie.com/Videos/SuspiciousPartnerep(25)(26)/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 14",
+        "link": "http://www.zegomovie.com/Videos/SuspiciousPartnerep(27)(28)/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 15",
+        "link": "http://www.zegomovie.com/Videos/SuspiciousPartnerep(29)(30)/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 16",
+        "link": "http://www.zegomovie.com/Videos/SuspiciousPartnerep(31)(32)16/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 17",
+        "link": "http://www.zegomovie.com/Videos/SuspiciousPartnerep(33)(34)/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 18",
+        "link": "http://www.zegomovie.com/Videos/SuspiciousPartnerep(35)(36)/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 19",
+        "link": "http://www.zegomovie.com/Videos/SuspiciousPartnerep(37)(38)/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 20",
+        "link": "http://www.zegomovie.com/Videos/SuspiciousPartnerep(39)(40)/index.m3u8"
+      }
+    ]
+  },{
     "movietitle": "The Flash SE 1",
     "description": "The Flash ဆိုရင် သိလောက်ပါတယ်နော်။",
     "series_cover_img": "http://136.228.164.68/Uploads/vod/2019-08-24/5d60f6b5e26aa.jpg",
