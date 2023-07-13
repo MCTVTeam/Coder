@@ -1,6 +1,35 @@
 {
   "Movies_Database": [
     {
+    "movietitle": "My Wife is a Gangster 1",
+    "description": "IMDb Rating (6.5) ထိ ရရှိထားတဲ့ ဒီဇာတ်ကားဟာ ကိုရီးယားဇာတ်ကားတွေထဲမှာ Taste တစ်မျိုးကို ပေးထားနိုင်ခဲ့တဲ့ နာမည်ကြီးဇာတ်ကားပါ။ နာမည်ကြီး လူကြိုက်များခဲ့လို့ နောက်ထပ်အဆက်ဇာတ်ကားတွေ ထွက်ခဲ့တဲ့အထိပါပဲ။မင်းသမီး Eun-Kyung Shin ရဲ့ မှင်သေသေ သရုပ်ဆောင်ချက်တွေ Action တွေက ရသတစ်မျိုးနဲ့ ထိုးဖောက်နိုင်ခဲ့ပါတယ်။ဂိုဏ်းစတားအဖွဲ့ရဲ့ ထိပ်သီးခေါင်းဆောင်ဖြစ်နေတဲ့ ဂျစ်ကန်ကန်ကောင်မလေးတစ်ယောက် အိမ်ထောင်ပြုရတော့မယ့်ဆိုတဲ့အခါ…..။\nAction, Romance, Comedy အမျိုးအစားဖြစ်ပြီး ခံစားအားပေးကြည့်ပါဦး။",
+    "movie_cover_img": "http://zegomovie.com/Uploads/vod/2019-05-30/5cefb106a6cfc.jpg",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2019-05-30/5cefb106a6cfc.jpg",
+    "link": "http://www.zegomovie.com/Videos/MyWifeisaGangster/index.m3u8",
+    "year": "2001",
+    "catagory": "Movies Action Comedy Crime ",
+    "studio": "Korea"
+  },
+  {
+    "movietitle": "My Wife is a Gangster 2",
+    "description": "IMDb Rating (6.5) ထိ ရရှိထားတဲ့ ဒီဇာတ်ကားဟာ ကိုရီးယားဇာတ်ကားတွေထဲမှာ Taste တစ်မျိုးကို ပေးထားနိုင်ခဲ့တဲ့ နာမည်ကြီးဇာတ်ကားပါ။ နာမည်ကြီး လူကြိုက်များခဲ့လို့ နောက်ထပ်အဆက်ဇာတ်ကားတွေ ထွက်ခဲ့တဲ့အထိပါပဲ။မင်းသမီး Eun-Kyung Shin ရဲ့ မှင်သေသေ သရုပ်ဆောင်ချက်တွေ Action တွေက ရသတစ်မျိုးနဲ့ ထိုးဖောက်နိုင်ခဲ့ပါတယ်။ဂိုဏ်းစတားအဖွဲ့ရဲ့ ထိပ်သီးခေါင်းဆောင်ဖြစ်နေတဲ့ ဂျစ်ကန်ကန်ကောင်မလေးတစ်ယောက် အိမ်ထောင်ပြုရတော့မယ့်ဆိုတဲ့အခါ…..။\nAction, Romance, Comedy အမျိုးအစားဖြစ်ပြီး ခံစားအားပေးကြည့်ပါဦး။",
+    "movie_cover_img": "http://zegomovie.com/Uploads/vod/2019-05-30/5cefb154405c9.jpg",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2019-05-30/5cefb154405c9.jpg",
+    "link": "http://www.zegomovie.com/Videos/MyWifeisaGangster2/index.m3u8",
+    "year": "2003",
+    "catagory": "Movies Action Comedy Crime ",
+    "studio": "Korea"
+  },
+  {
+    "movietitle": "My Wife is a Gangster 3",
+    "description": "IMDb Rating (6.5) ထိ ရရှိထားတဲ့ ဒီဇာတ်ကားဟာ ကိုရီးယားဇာတ်ကားတွေထဲမှာ Taste တစ်မျိုးကို ပေးထားနိုင်ခဲ့တဲ့ နာမည်ကြီးဇာတ်ကားပါ။ နာမည်ကြီး လူကြိုက်များခဲ့လို့ နောက်ထပ်အဆက်ဇာတ်ကားတွေ ထွက်ခဲ့တဲ့အထိပါပဲ။မင်းသမီး Eun-Kyung Shin ရဲ့ မှင်သေသေ သရုပ်ဆောင်ချက်တွေ Action တွေက ရသတစ်မျိုးနဲ့ ထိုးဖောက်နိုင်ခဲ့ပါတယ်။ဂိုဏ်းစတားအဖွဲ့ရဲ့ ထိပ်သီးခေါင်းဆောင်ဖြစ်နေတဲ့ ဂျစ်ကန်ကန်ကောင်မလေးတစ်ယောက် အိမ်ထောင်ပြုရတော့မယ့်ဆိုတဲ့အခါ…..။\nAction, Romance, Comedy အမျိုးအစားဖြစ်ပြီး ခံစားအားပေးကြည့်ပါဦး။",
+    "movie_cover_img": "http://zegomovie.com/Uploads/vod/2019-05-30/5cefb230e4a29.jpg",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2019-05-30/5cefb230e4a29.jpg",
+    "link": "http://www.zegomovie.com/Videos/MyWifeisaGangster3/index.m3u8",
+    "year": "2006",
+    "catagory": "Movies Action Comedy Crime ",
+    "studio": "Korea"
+  },{
     "movietitle": "Swords Drawn",
     "description": "ပြိုင်စံရှား ‌နံပါတ်၁ ဓားသိုင်းသမားဖြစ်တဲ့ Jianတစ်ယောက်\nသတ်ဖြတ်မှု့တွေကို စိတ်ကုန်ပြီး ဓားသိုင်းကို စွန့်လွှတ်ဖို့လုပ်တဲ့အချိန်မှာဘဲ ဗီလာသခင်ကြီးက သူ့ကို သတ်ပစ်ဖို့ ကြေးစားတွေကို လွှတ်လိုက်တဲ့နောက်…သေချင်ယောင်ဆောင်ပြီး ရွာတစ်ရွာမှာ ဇာတ်မြှုပ်နေခဲ့တယ်သူ့ကိုစောင့်ရှောက်ပေးတဲ့အိမ်တစ်အိမ်နဲ့ သံယောဇဥ်တွယ်ပြီး မကြာခင်မှာပဲ သူပြုခဲ့တဲ့ ကြမာဆိုးကြီးက သူ့ဆီတဖန် ပြန်၀င်ရောက်လာတဲ့အခါမှာတော့…",
     "movie_cover_img": "http://zegomovie.com/Uploads/vod/2022-07-08/62c7963f6b382.jpg",
