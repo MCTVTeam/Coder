@@ -4,6 +4,64 @@
 
  
   {
+    "movietitle": "Celebrity",
+    "description": "အပိုင်း( ၁ မှ ၁၂ ) ထိ စ/ဆုံး\n\nယနေ့မျက်မှောက်ခေတ်မှာ အတော်များများ ဈေးကွက်ကို\n\nထိုးဖောက်ဖို့ဆိုရင် ဆယ်လီတွေရဲ့ အားကိုယူရတယ်…ယုတ်စွ အဆုံး\n\nသွားကြားထိုးတံက အစ ဆယ်လီတွေနဲ့ကြော်ငြာရတဲ့ခေတ်ကိုရောက်နေတယ်…\n\nခရစ်စတီယာနိုရော်နယ်ဒိုဟာ သတင်းစာရှင်းလင်းပွဲမှာ ကိုကာကိုလာမသောက်ကြနဲ့\n\nရေပဲသောက်ကြလို့ပြောလို့ ကိုလာကုမ္ပဏီစတော့ဈေးကွက်ဟာ\n\nသိသိသာ ထိုးဆင်းသွားတယ်လို့ ကြားသိလိုက်ရပါတယ်..ဆိုတော့\n\nလူမှုကွန်ယက်မှာ လွှမ်းမိုးမှုရှိတဲ့ ဆယ်လီတွေရဲ့ စွမ်းအားဟာ ဘယ်လောက်ကြီးမားသလဲဆိုတာ\n\nဒါကသက်သေပါပဲ…ဒီစီးရီးထဲမှာလည်း ကိုရီးယားက ဆယ်လီတွေရဲ့  နေမှုထိုင်မှုတွေနဲ့\n\nဒီဘဝရောက်အောင်ကြိုးစားခဲ့ပုံတွေ…ဒါ့အပြင် ဒီလိုနေထိုင်ရတဲ့ ကာလမှာ\n\nဘယ်လိုတလွဲတွေကြုံခဲ့ရလဲဆိုတာကို ဇာတ်လမ်းဇာတ်ကွက်ကောင်းကောင်းနဲ့တင်ဆက်ထားတယ်..\n\nနာမည်ကျော် သရုပ်ဆောင်များစွာပါဝင်ထားသလို လူသတ်မှုတွေ…\n\nကုမ္ပဏီတွေရဲ့ စီးပွားရေးလှုပ်ရှားမှုတွေ….လူထုရဲ့တုန့်ပြန်ပုံတွေကိုလည်း\n\nစိတ်ဝင်စားဖွယ်ကောင်းစွာ ကြည့်ရှုရမှာဖြစ်ပါတယ်…..",
+    "series_cover_img": "http://zegomovie.com/Uploads/vod/2023-07-07/64a777a08a882.png",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2023-07-07/64a777a08a882.png",
+    "year": "2023",
+    "catagory": "Series Drama Mystery Thriller ",
+    "studio": "Korea",
+    "link": [
+      {
+        "ep_no": "Ep 1",
+        "link": "http://www.zegomovie.com/Videos/CelebrityEp1/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 2",
+        "link": "http://www.zegomovie.com/Videos/CelebrityEp2/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 3",
+        "link": "http://www.zegomovie.com/Videos/CelebrityEp3/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 4",
+        "link": "http://www.zegomovie.com/Videos/CelebrityEp4/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 5",
+        "link": "http://www.zegomovie.com/Videos/CelebrityEp5/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 6",
+        "link": "http://www.zegomovie.com/Videos/CelebrityEp6/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 7",
+        "link": "http://www.zegomovie.com/Videos/CelebrityEp7/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 8",
+        "link": "http://www.zegomovie.com/Videos/CelebrityEp8/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 9",
+        "link": "http://www.zegomovie.com/Videos/CelebrityEp9/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 10",
+        "link": "http://www.zegomovie.com/Videos/CelebrityEp10/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 11",
+        "link": "http://www.zegomovie.com/Videos/CelebrityEp11/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 12",
+        "link": "http://www.zegomovie.com/Videos/CelebrityEp12/index.m3u8"
+      }
+    ]
+  },{
     "movietitle": "Military Prosecutor Doberman",
     "description": "စစ်တပ်ထဲမှာရှိတဲ့ အကျင့်ပျက်ချစားမှု အရှုပ်အရှင်းတွေကို ဥပဒေနဲ့အညီ\n\nအလန်းစားဖော်ထုတ်ကြမယ့် DOTS ထဲက တပ်ကြပ်လေး\nAhn Bo Hyun နဲ့ မြေခွေးကားထဲက မင်းသမီးလေး Jo Bo Ah ရဲ့\n\nဇာတ်ကားလေးကတော့ ထွက်ရှိလို့လာပါပြီ။\n\nစစ်ဘက်ဆိုင်ရာရှေ့နေ့တစ်ဦးဖြစ်တဲ့ Do Bae Man ဆိုတဲ့\n\nကောင်လေးတစ်ယောက် အလုပ်ကနေထွက်ပြီး အောင်မြင်မှုကိုရှာဖို့\n\nရည်ရွယ်နေချိန်မှာ တရားမျှတမှုကိုလိုလားတဲ့ အမျိုးသမီးစစ်ဗိုလ်လေး\n\nCha Woo In နဲ့ပူးပေါင်းမိပြီး မကောင်းမှုတွေကို\n\nဥပဒေနဲ့အညီဖြိုခွင်းဖို့ ကြမ္မာဖန်လာပါတော့တယ်။\n\nသူတို့နှစ်ဦးလိုက်မယ့် စစ်တပ်အတွင်းကမှောင်ချထားတဲ့အမှုတွေက ဘာတွေလဲ ?\n\nသူတို့ရဲ့အတိတ်နဲ့ရော ဘာတွေပတ်သတ်နေမလဲ ?\n\nဗီလိန်တွေကရော ဘယ်လိုတွေယုတ်မာကြမလဲ ? ဆိုတာကိုတော့\n\nအပတ်စဥ် တနင်္လာနဲ့ အင်္ဂါနေ့တွေမှာ CM မှာ\n\nတင်ဆက်ပေးသွားမှာမို့ လက်မလွှတ်တမ်းစောင့်မျှော်ကြည့်ရှုပေးကြပါဦးနော်။",
     "series_cover_img": "http://zegomovie.com/Uploads/vod/2023-07-08/64a91da1140bd.png",
