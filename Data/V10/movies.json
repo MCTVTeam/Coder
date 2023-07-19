@@ -1,6 +1,15 @@
 {
   "Movies_Database": [
     {
+    "movietitle": "The Last Naruto the Movie",
+    "description": "The Last Naruto shippuden movie Narutoဆိုတဲ့ animeဟာ ၂၀၀၀ခုနှစ်ဝန်းကျင်က\nနာမည်အကြီးဆုံးကြီးသုံးကြီးမှာ (One piece,bleach, naruto)ပါခဲ့ပြီး သူ့​ခေတ်သူ့အခါအချိန်တုန်းကကြည့်ရှုသူ​တွေရဲ့ပါးစပ်ဖျားမှာ never give up, this is\nmy way of ninja, Dattebayo 😅ဆိုပြီးရွတ်ဆိုခဲ့ကြတဲ့အထိ moti​ပေးနိုင်ခဲ့တာပါ။ ရုပ်ရှင်အ​နေနဲ့လည်းက​လေးဘဝကို ၃ကားထွက်ခဲ့ပြီး  shippuden လူငယ်ဘဝက​တော့ ၇ ကားအထိထွက်ခဲ့ပါတယ်။ဒီကားက​တော့ shippuden ရုပ်ရှင်​တွေထဲမှာ သတ္တမကားဖြစ်ပြီးIMDb 7.6/10\nMy anime list 7.8/10ရထားပါတယ်ဇာတ်လမ်းအကျဥ်းကို​မ​ပြော​တော့ပါဘူး။ ဒီကားမှာ Narutoနဲ့Hinataတို့ချစ်သွားကြပုံကိုမြင်ရမှာဖြစ်ပြီး Hinata ရဲ့ ပထမ​ယောက်ျားအ​ကြောင်းလည်း ကြည့်ရမှာပါ။ 😑Borutoစီးရီးကြည့်​နေတဲ့သူဆိုရင် Borutoရဲ့မျက်လုံးကဘာလို့ရတာလဲဆိုတာကိုပါ ရိပ်သံဖမ်းသံသိရမယ့်ရုပ်ရှင်ပါ",
+    "movie_cover_img": "http://zegomovie.com/Uploads/vod/2019-06-15/5d04d68633f39.jpg",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-15/5d04d68633f39.jpg",
+    "link": "http://www.zegomovie.com/Videos/TheLastNarutotheMovie/index.m3u8",
+    "year": "2014",
+    "catagory": "Movies Action Adventure Animation ",
+    "studio": "USA"
+  },{
     "movietitle": "Dungeons \u0026 Dragons: Honor Among Thieves",
     "description": "This App is Designed for myanmar people",
     "movie_cover_img": "http://zegomovie.com/Uploads/vod/2023-05-06/645632bebcb45.png",
