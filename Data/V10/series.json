@@ -4,6 +4,384 @@
 
  
    {
+    "movietitle": "King Gwanggaeto the Great",
+    "description": "တော်ဝင်သွေးစက်",
+    "series_cover_img": "http://zegomovie.com/Uploads/vod/2019-08-20/5d5bcc4ae0765.jpg",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-20/5d5bcc4ae0765.jpg",
+    "year": "2011",
+    "catagory": "Series Drama ",
+    "studio": "Korea",
+    "link": [
+      {
+        "ep_no": "Ep 1",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp1/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 2",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp2/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 3",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp3/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 4",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp4/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 5",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp5/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 6",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp6/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 7",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp7/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 8",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp8/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 9",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp9/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 10",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp10/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 11",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp11/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 12",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp12/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 13",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp13/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 14",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp14/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 15",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp15/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 16",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp16/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 17",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp17/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 18",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp18/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 19",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp19/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 20",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp20/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 21",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp21/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 22",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp22/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 23",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp23/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 24",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp24/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 25",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp25/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 26",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp26/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 27",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp27/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 28",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp28/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 29",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp29/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 30",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp30/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 31",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp31/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 32",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp32/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 33",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp33/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 34",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp34/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 35",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp35/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 36",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp36/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 37",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp37/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 38",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp38/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 39",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp39/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 40",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp40/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 41",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp41/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 42",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp42/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 43",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp43/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 44",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp44/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 45",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp45/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 46",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp46/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 47",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp47/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 48",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp48/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 49",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp49/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 50",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp50/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 51",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp51/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 52",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp52/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 53",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp53/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 54",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp54/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 55",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp55/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 56",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp56/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 57",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp57/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 58",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp58/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 59",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp59/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 60",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp60/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 61",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp61/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 62",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp62/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 63",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp63/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 64",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp64/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 65",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp65/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 66",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp66/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 67",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp67/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 68",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp68/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 69",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp69/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 70",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp70/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 71",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp71/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 72",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp72/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 73",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp73/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 74",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp74/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 75",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp75/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 76",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp76/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 77",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp77/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 78",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp78/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 79",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp79/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 80",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp80/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 81",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp81/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 82",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp82/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 83",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp83/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 84",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp84/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 85",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp85/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 86",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp86/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 87",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp87/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 88",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp88/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 89",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp89/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 90",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp90/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 91",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp91/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 92",
+        "link": "http://www.zegomovie.com/Videos/KingGwanggaetotheGreatEp92/index.m3u8"
+      }
+    ]
+  },{
     "movietitle": "Secret Invasion",
     "description": "ဒစ္စနေးရဲ့ စူပါဟီးရိုး စီးရီးအသစ်လာပါပြီ။ မာဗယ်ရုပ်ရှင်တွေရဲ့ Timeline အတိုင်းသွားတာဖြစ်ပြီး နောက်ကြောင်းပြန်တာမဟုတ်ဘဲ လက်ရှိ Update Timeline ပဲ ဖြစ်ပါတယ်။ She-Hulk အပြီး ကာလပါပဲ။ အဓိကဇာတ်ကောင်အနေနဲ့ နစ်ဖြူရီကြီးပါဝင်ပြီး GoT ရဲ့ နဂါးမေမေလည်း MCU မှာ စခရောဂြိုလ်သား ဂိုင်ရာအဖြစ်နဲ့ ပါဝင်လာပါပြီ။ ၆ ပိုင်းပါဝင်မှာဖြစ်ပြီး အပတ်စဉ် ပြသသွားမှာပဲ ဖြစ်ပါတယ်။\n\n \n\n~ ဇာတ်လမ်းအကျဉ်း ~\n\n \n\nနစ်ဖြူရီနဲ့ ကယ်ရိုးဒန်ဗာ ကပ္ပတိန်မာဗယ်တို့ဟာ စခရောတွေကို အိမ်အဖြစ် ဂြိုဟ်အသစ်တစ်လုံးရှာပေးမယ်လို့ ကတိပေးခဲ့ကြပေမဲ့ စခရောတွေထဲက အချို့က ကမ္ဘာကြီးကိုပဲ သိမ်းပိုက်ဖို့ ကြံစည်လာပါတယ်။ ဒါကိုတားဆီးဖို့ နစ်ဖြူရီ၊ အေးဂျင့်ဟေးလ်တို့က စခရော ခေါင်းဆောင်ဟောင်း တေးလို့စ်နဲ့ ပူးပေါင်းပြီး စခရောသူပုန်အုပ်စုကို တိုက်ခိုက်ကြပုံကိုတွေ့ရမှာပါ။ IMDb မှာ 8.6 အထိ ရောက်နေပြီမို့ စိတ်ချလက်ချ ကြည့်လိုက်ကြပါဦး။",
     "series_cover_img": "http://zegomovie.com/Uploads/vod/2023-07-06/64a6899dcf84c.png",
