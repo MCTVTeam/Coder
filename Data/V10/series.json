@@ -4,6 +4,144 @@
 
  
    {
+    "movietitle": "Two Cops",
+    "description": "This App is Designed for myanmar people",
+    "series_cover_img": "http://zegomovie.com/Uploads/vod/2023-08-17/64ddf3b4749ee.png",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2023-08-17/64ddf3b4749ee.png",
+    "year": "2018",
+    "catagory": "Series Action Comedy Fantasy Romance ",
+    "studio": "Korea",
+    "link": [
+      {
+        "ep_no": "Ep 1",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp1/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 2",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp2/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 3",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp3/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 4",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp4/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 5",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp5/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 6",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp6/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 7",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp7/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 8",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp8/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 9",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp9/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 10",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp10/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 11",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp11/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 12",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp12/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 13",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp13/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 14",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp14/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 15",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp15/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 16",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp16/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 17",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp17/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 18",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp18/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 19",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp19/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 20",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp20/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 21",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp21/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 22",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp22/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 23",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp23/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 24",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp24/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 25",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp25/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 26",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp26/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 27",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp27/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 28",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp28/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 29",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp29/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 30",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp30/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 31",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp31/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 32",
+        "link": "http://www.zegomovie.com/Videos/TwoCopsEp32/index.m3u8"
+      }
+    ]
+  },{
     "movietitle": "Moon Knight",
     "description": "အားလုံးပဲစောင့်မျှော်နေတဲ့ Marvel ရဲ့ စီးရီးအသစ်တစ်ခုဖြစ်တဲ့\nMoon Knight ကတော့ ထွက်ရှိလာပါပြီ။ ဒီစီးရီးကို အပတ်စဥ◌်\nဗုဒ္ဓဟူးနေ့တိုင်း Disney + ကနေပြသသွားမှာဖြစ်ပြီး cm ကနေ\nအပတ်စဥ◌်တင်ဆက်ပေးသွားပါမည်။\n\nIMDB မှာလည်း 9.0 နဲ့ အတော်လေး အခြေနေကောင်းနေတဲ့\nMarvel ရဲ့ Standalone superhero series အဖြစ် Moonknight\nထွက်ရှိလာပါပြီ ။ Dune, Starwars တို့ကြည့်ဖူးသူတွေနဲ့မစိမ်းမယ့်\nOscar Issac က အဓိကပါဝင်ထားပြီး X-men ကားတစ်ကားမှာလည်း\nApocalypse အဖြစ်သရုပ်ဆောင်ခဲ့ဖူးသူပါ။\n\nစရိုက်အမျိုးမျိုးပြောင်းလဲတဲ့ဝေဒနာဖြစ်နေတဲ့ စတီဗင်ဂရန့်ဟာ ရွှေရောင်\nနွားချေးပိုးရုပ်လေးတစ်ခုလက်ထဲရောက်လာပြီးနောက် နဂိုကတည်းရှုပ်ထွေး\nခက်ခဲနေတဲ့ဘဝဟာ ပိုရှူပ်ထွေးလာပါတော့တယ်။ အဲ့ဒီအရုပ်လေးကြောင့်\nComic တွေအရ Khonshu ဆိုတဲ့ အီဂျစ် လနတ်ဘုရားတစ်ပါး၀င်ပူးခံရပါတယ်။\nသူ့ရဲ့စွမ်းအားတွေက လပြည့်ညမှာ ပိုမိုအစွမ်းထက်လာပြီး အိမ်မက်တွေကနေ\nအနာဂတ်ကို ကြိုမြင်နိုင်တာ ၊ အသက်ဓာတ်ကိုစုပ်ယူတာတွေပါ လုပ်နိုင်ပါတယ်။\nVenom နဲ့ Eddie brook တို့ ခန္တာကိုယ်လုသလို Moonknight တဖြစ်လဲ\nစတီဗင်ဂရန့်ဟာ  ရရှိလာတဲ့စွမ်းအားနောက်ကွယ်က အခက်အခဲတွေကို ဘယ်လို\nရင်ဆိုင်‌ဖြေ ရှင်းသွားမလဲကြည့်ရမှာပါ။",
     "series_cover_img": "http://zegomovie.com/Uploads/vod/2023-06-26/649908ad070ee.png",
