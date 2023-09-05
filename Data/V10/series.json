@@ -4,6 +4,80 @@
 
  
    {
+    "movietitle": "Chicago Typewriter",
+    "description": "အပိုင်း (၁ မှ ၁၆ ) အထိ စ/ဆုံး\n\nဒီစီးရီးကတစ်နှစ်တာအကောင်းဆုံး Drama of the Year ဆန်ကာတင်\n\nစာရင်းဝင်သလို အခြားဆုပေါင်းများစွာနဲ့ Rating ကောင်းတွေရရှိထားတဲ့စီးရီးဖြစ်ပါတယ်..\n\n၁၉၃၀ ပြည့်နှစ် ကိုရီးယားနိုင်ငံ ဂျပန်အုပ်ချုပ်မှုအောက်ရောက်နေတဲ့ ကာလတုန်းက လူ ၂ ယောက်ဟာ\n\nဒီဘက်ခေတ်မှာ လူပြန်ဝင်စားခဲ့ပါတယ်…\n\nHan Se Joo က အတိတ်ဘဝမှာ စာရေးဆရာတစ်ယောက်ဖြစ်ပြီး .. လက်ရှိဘဝမှာလည်း\n\nရောင်းအားအကောင်းဆုံးစာရေးဆရာဖြစ်တဲ့အပြင်\n\nရုပ်ရည်ချောမော ခန့်ညားမှုကြောင့် မိန်းကလေးတွေကြား ရေပန်းစားသူတစ်ယောက်ပါ…\n\nYu Jin Oh ကတော့ အတိတ်ဘဝမှာ ဘားတစ်ခုပိုင်ဆိုင်ခဲ့ပြီး .. လက်ရှိမှာတော့ ဝိညာဥ်စာရေးဆရာအဖြစ်\n\nHan Se Joo ကို ကူညီပေးရင်း Jeon Seol အနားမှာ နေချင်သူပါ .. Jeon Seol ကတော့ သူ့ကို မမြင်နိုင်ပါဘူး\n\nJeon Seol က အတိတ်ဘဝမှာ စနိုက်ပါသမားဖြစ်ခဲ့ပြီး အခုဘဝမှာ‌တော့ စာဖတ်ဝါသနာအိုး၊\n\nတိကုဆရာဝန်၊ အချိန်ပိုင်းအလုပ်မှန်သမျှ ဘာမဆိုလုပ်ပေးတဲ့ ကောင်မလေး ..\n\nHan Se Joo ရဲ့ အမာခံပရိသတ်တစ်ဦးပါ\n\nသူတို့ ၃ ယောက်က ဒီဘက်ဘဝမှာ ပြန်ဆုံကြရင်း ခေတ် ၂ ခေတ်ရဲ့အကြား\n\nနိုင်ငံရေးအခြေအနေမျိုးစုံနဲ့ သူတို့ ဘယ်လိုတွေဆက်ဖြစ်ကြမလဲဆိုတာကိုတော့….",
+    "series_cover_img": "http://zegomovie.com/Uploads/vod/2020-01-21/5e269a391fe64.jpg",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2020-01-21/5e269a391fe64.jpg",
+    "year": "2017",
+    "catagory": "Series Drama Fantasy Romance ",
+    "studio": "korea",
+    "link": [
+      {
+        "ep_no": "Ep 1",
+        "link": "http://www.zegomovie.com/Videos/ChicagoTypewriterEp1/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 2",
+        "link": "http://www.zegomovie.com/Videos/ChicagoTypewriterEp2/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 3",
+        "link": "http://www.zegomovie.com/Videos/ChicagoTypewriterEp3/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 4",
+        "link": "http://www.zegomovie.com/Videos/ChicagoTypewriterEp4/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 5",
+        "link": "http://www.zegomovie.com/Videos/ChicagoTypewriterEp5/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 6",
+        "link": "http://www.zegomovie.com/Videos/ChicagoTypewriterEp6/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 7",
+        "link": "http://www.zegomovie.com/Videos/ChicagoTypewriterEp7/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 8",
+        "link": "http://www.zegomovie.com/Videos/ChicagoTypewriterEp8/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 9",
+        "link": "http://www.zegomovie.com/Videos/ChicagoTypewriterEp9/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 10",
+        "link": "http://www.zegomovie.com/Videos/ChicagoTypewriterEp10/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 11",
+        "link": "http://www.zegomovie.com/Videos/ChicagoTypewriterEp11/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 12",
+        "link": "http://www.zegomovie.com/Videos/ChicagoTypewriterEp12/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 13",
+        "link": "http://www.zegomovie.com/Videos/ChicagoTypewriterEp13/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 14",
+        "link": "http://www.zegomovie.com/Videos/ChicagoTypewriterEp14/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 15",
+        "link": "http://www.zegomovie.com/Videos/ChicagoTypewriterEp15/index.m3u8"
+      },
+      {
+        "ep_no": "Ep 16",
+        "link": "http://www.zegomovie.com/Videos/ChicagoTypewriterEp16End/index.m3u8"
+      }
+    ]
+  },{
     "movietitle": "Delightfully Deceitful",
     "description": "အပိုင်း( ၁ မှ ၁၆) ထိ စ/ဆုံး\n\nLee Ro Um ဆိုတဲ့ကောင်မလေးဟာ genius တစ်ယောက်လို ထက်မြက်တဲ့\n\nသူပါ..ဒါပေမဲ့ သူမဟာ ငယ်ငယ်လေးကတည်းက ဆိုးသွမ်းတဲ့အသိုက်အဝန်းနဲ့\n\nကြီးပျင်းခဲ့ရသလို အားကြီးတဲ့သူမှန်သမျှ အားငယ်တဲ့သူကို အနိုင်ကျင့်တဲ့ခေတ်ရဲ့\n\nအဓိက ဇာတ်ဆောင်တစ်ယောက်လို စတေးခံခဲ့ရတော့ စိတ်ဒဏ်ရာအကြီးကြီး\n\nရရှိခဲ့ပါတယ်…နောက်ဆက်တွဲအနေနဲ့ ဒီကောင်မလေးဟာ လောကကြီးကိုရှုမြင်ပုံဟာ\n\nအဆိုးဘက်ပဲမြင်နေတတ်ပြီး အားလုံးကိုသံသယနဲ့ ရှင်သန်နေတတ်တဲ့သူပါ…ဒါ့ကြောင့်လည်း\n\nရန်သူတွေများနေတတ်ပါတယ်..ဒီလိုကောင်မလေးဟာ ခေတ်ပညာတတ်ပြီးယဉ်ကျေးသိမ်မွေ့ပြီး\n\nတစ်ချို့ကိစ္စတွေမှာ စာအုပ်ကြီးဆန်နေတဲ့ ရှေ့နေလူငယ်လေးတစ်ယောက်နဲ့\n\nတွေ့ဆုံပြီး အလုပ်ကြီးတစ်ခုလုပ်ဖို့အကြောင်းဖန်လာရတဲ့အခါမှာတော့….\n\nသူတို့တွေဘယ်လိုရှေ့ဆက်ကြမလဲ…ဘယ်လိုရန်သူတွေရောကြုံဆုံလာရမလဲဆိုတာကိုတော့….",
     "series_cover_img": "http://zegomovie.com/Uploads/vod/2023-08-08/64d1eff79e9f5.png",
