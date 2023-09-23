@@ -4,6 +4,80 @@
 
  
    {
+  "movietitle": "True Beauty",
+  "description": "\nမိန်းကလေးဆိုတဲ့အမျိုးက ကလေးဘဝကထဲက အလှအပကိုစိတ်ဝင်စားသလို\nလှပအောင်လည်းကြိုးစားနေထိုင်တတ်ကြတယ်…မှန်လေးကြည့်လိုက်လို့ သူတို့ရုပ်ရည်လေးအဆင်ပြေနေမှ\nကိုယ့်ကိုကိုယ် ယုံကြည်ချက်လည်းရှိကြတာကိုး…ဒါ့ကြောင့် Selfie ဆွဲလို့ ပိုလှတဲ့ ဖုန်းတွေရောင်းကောင်းကြတာမဟုတ်လား…\nဒီအထဲက ကောင်မလေးတစ်ယောက်လည်း အဲ့လိုပါပဲ…သူ့ရည်ရည်အပေါ်ယုံကြည်ချက်မရှိလို့ make-up tutorial တစ်ခုကို\nကြိုးစားပန်းစားပြင်လိုက်မှ မဟာသရဲမကြီးနဲ့တူပြီး ကြိုက်တဲ့ကောင်လေးကငြင်းခံလိုက်ရလို့\nကိုယ့်ကိုကိုယ်သတ်သေဖို့အထိတောင်ဖြစ်သွားရတယ်…ဒီလိုသတ်သေတဲ့အချိန်ကောင်လေးတစ်ယောက် တားဆီးလိုက်လို့\nအသက်မသေခဲ့တာကံကောင်းတယ်ပြောရမှာပါ…အဲဒီနောက်တော့ ကျောင်းပြောင်းရတဲ့အနေအထားြဖစ်တော့\nသူမအတွက် အနည်းငယ်ခံသာသလိုြဖစ်သွားတယ်…ကျောင်းအသစ်မှာ မိတ်ကပ်ပြင်နည်းတွေအမှန်အကန်ကြိုးစားပြီး ကျောင်းတက်တဲ့\nအခါမှာတော့ အရင်တုန်းက ခပ်ဆိုးဆိုးရင်ဆိုင်ရဲ့တဲ့အနေအထားတွေဟာ ရုတ်ချဉ်းပြောင်းလဲသွားပါတော့တယ်…\nဘာတွေဆက်ဖြစ်မလဲဆိုတာကိုတော့ ခံစားကြည့်ကြပါဉီး..\nဒီစီးရီးက ဆယ်ကျော်သက်ကျောင်းသား ကျောင်းသူဘဝကို အဓိက ကျောရိုးပြုရိုက်ကူးထားတာဖြစ်ပြီး\nပေါ့ပေါ့ပါးပါး ဟာသလေးတွေနဲ့မို့ ကြည့်ရအတော်ကောင်းပါတယ်…လှတပတလေးတွေနဲ့ မျက်စိအပန်းပြေသလို\nကောင်လေးတွေရော ကောင်မလေးတွေပါ အလှအပရေးရာနဲ့ ပတ်သက်ပြီး ပညာရစေတဲ့ကားလေးဆိုလည်းမမှားပါဘူး…\n ဘာသာပြန်သူများကတော့\nLwin Lwin Aung,Shoon Thu Thu Chain,Ei Phyu Khin & Hnin Pale တို့ပဲဖြစ်ပါတယ်….",
+  "series_cover_img": "http://zegomovie.com/Uploads/vod/2020-12-11/5fd333d466bab.jpg",
+  "movie_img": "http://zegomovie.com/Uploads/vod/2020-12-11/5fd333d466bab.jpg",
+  "year": "series",
+  "catagory": "Korea",
+  "studio": "2020",
+  "link": [
+    {
+      "ep_no": "EP 1",
+      "link": "http://www.zegomovie.com/Videos/TrueBeautyEp1/index.m3u8"
+    },
+    {
+      "ep_no": "EP 2",
+      "link": "http://www.zegomovie.com/Videos/TrueBeautyEp2/index.m3u8"
+    },
+    {
+      "ep_no": "EP 3",
+      "link": "http://www.zegomovie.com/Videos/TrueBeautyEp3/index.m3u8"
+    },
+    {
+      "ep_no": "EP 4",
+      "link": "http://www.zegomovie.com/Videos/TrueBeautyEp4/index.m3u8"
+    },
+    {
+      "ep_no": "EP 5",
+      "link": "http://www.zegomovie.com/Videos/TrueBeautyEp5/index.m3u8"
+    },
+    {
+      "ep_no": "EP 6",
+      "link": "http://www.zegomovie.com/Videos/TrueBeautyEp6/index.m3u8"
+    },
+    {
+      "ep_no": "EP 7",
+      "link": "http://www.zegomovie.com/Videos/TrueBeautyEp7/index.m3u8"
+    },
+    {
+      "ep_no": "EP 8",
+      "link": "http://www.zegomovie.com/Videos/TrueBeautyEp8/index.m3u8"
+    },
+    {
+      "ep_no": "EP 9",
+      "link": "http://www.zegomovie.com/Videos/TrueBeautyEp9/index.m3u8"
+    },
+    {
+      "ep_no": "EP 10",
+      "link": "http://www.zegomovie.com/Videos/TrueBeautyEp10/index.m3u8"
+    },
+    {
+      "ep_no": "EP 11",
+      "link": "http://www.zegomovie.com/Videos/TrueBeautyEp11/index.m3u8"
+    },
+    {
+      "ep_no": "EP 12",
+      "link": "http://www.zegomovie.com/Videos/TrueBeautyEp12/index.m3u8"
+    },
+    {
+      "ep_no": "EP 13",
+      "link": "http://www.zegomovie.com/Videos/TrueBeautyEp13/index.m3u8"
+    },
+    {
+      "ep_no": "EP 14",
+      "link": "http://www.zegomovie.com/Videos/TrueBeautyEp14/index.m3u8"
+    },
+    {
+      "ep_no": "EP 15",
+      "link": "http://www.zegomovie.com/Videos/TrueBeautyEp15/index.m3u8"
+    },
+    {
+      "ep_no": "EP 16",
+      "link": "http://www.zegomovie.com/Videos/TrueBeautyEp16End/index.m3u8"
+    }
+  ]
+},{
     "movietitle": "Those Who Read the Hearts of Evil",
     "description": "This App is Designed for myanmar people",
     "series_cover_img": "http://zegomovie.com/Uploads/vod/2023-05-18/6465cce69af0d.png",
