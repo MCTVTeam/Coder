@@ -1,6 +1,96 @@
 {
   "Series_Database": [
     {
+  "movietitle": "Crimial Minds",
+  "description": "ဇာတ်လမ်းအကျဉ်းလေးကတော့ ဗုံးရှင်းလင်းရေးရဲတပ်ဖွဲ့ဝင်တစ်ဦးဖြစ်တဲ့ ကင်ဟွန်းဂျွန်ဟာ\nProfiling လိုခေါ်တဲ့ အမှုကိုလေ့လာသုံးသပ်ကောက်ကြောင်းပုံဖော်ပေးတဲ့ပညာကို ဗုံးပေါက်ကွဲမှုဖြစ်ပြီးနောက်ပိုင်း မယုံကြည်တော့တဲ့ ရဲဝန်ထမ်းတစ်ဦးပါ။တစ်နေ့မှာတော့ လူပျောက်မှုတစ်ခုကို အမှုလိုက်ရင်း ဒီအမှုဟာကွင်းဆက်လူသတ်မှုတစ်ခုနဲ့ ဆက်စပ်နေတဲ့အခါမှာတော့….\nNCI- National Crime Investigation လို့ခေါ်တဲ့ အထူးတပ်ဖွဲ့နဲ့ပူးပေါင်းပါဝင်ဖို့ ဖြစ်လာပါတယ်။\nNCI ဆိုတာ အထူးတပ်ဖွဲ့ဆိုတော့ သူရဲ့ အဖွဲ့ဝင်တွေရဲ့ ပညာကျွမ်းကျင်မှုကလည်း ထူးခြားလှပါတယ်။\nအထူးအမှုတွေကို စုံစမ်းဖော်ထုတ်တဲ့အဖွဲ့ဆိုတော့ ပြစ်မှုကျွမ်းကျင်သူရဲ့\nစိတ်ပိုင်းဆိုင်ရာ Criminal mind ကို သိဖို့အထူးအရေးကြီးပါတယ် ။\nဒီလူတွေဟာ စိတ္တဇလူသတ်သမားတွေဆိုတော့ အရင်အလောင်းတွေ စစ်ဆေးရတဲ့မူတည်ပြီး\nသူတို့ဘယ်လိုဆက်လုပ်သွားနိုင်တယ်ဆိုတာ မှန်းဆဖော်ထုတ်\nကောက်ကြောင်းဖေါ်တဲ့ Profiling ပညာကို အဓိက ထားရတာပါပဲ။\nဒီအဖွဲ့မှာ ပြစ်မှုကျူးလွန်သူတွေရဲ့ အပြုအမူပိုင်းဆိုင်ရာကြည့်ပြီး ကောက်ကြောင်းပုံဖော်တဲ့\nBehavior Profiling Sepecialist  ဟဆန်းဝူး၊ စိတ်ပိုင်းဆိုင်ရာ Psychology ကို\nအဓိက ကောက်ကြောင်းပုံဖော်ပေးမယ့် ဆေးပညာနဲ့ စိတ်ပညာ Profiling Specialist ဒေါက်တာလေး လီဆန်း၊မီဒီယာသမားတွေနဲ့ပတ်သတ်ပြီး ကိုင်တွယ်ဖြေရှင်းပေးမယ့် လူမှုဆက်ဆံရေးကျွမ်းကျင်သူလေး ယူမင်းယောင်း ၊နောက်ကွယ်ကနေ CCTV ခြေရာခံတာ လိုအပ်တဲ့Data တွေ ရှာဖွေပေးမယ့် ကွန်ပျူတာကျွမ်းကျင်ပညာရှင် အပျိုကြီးမမဟွမ် သူတို့တွေအားလုံးကို စီမံကွပ်ကဲနေတဲ့ ကောက်ကြောင်းပုံဖော်ပြီး\nပြစ်မှုကျူးလွန်သူတွေရဲ့စိတ်ကို အရမ်းနားလည်တတ်တဲ့ Profiling ဆရာကြီး ဌာနမှူးကန် တို့ပါဝင်ပါတယ် ။ကွင်းဆက်လူသတ်မှုတစ်ခု ကို ဒီပညာတွေအသုံးပြုပြီး ဖော်ထုတ်နိုင်တဲ့အခါမှာတော့ ကင်ဟွန်းဂျွန်းရဲ့ ဒီပညာအပေါ်ကို ဘယ်လိုသဘောထားတွေပြောင်းပြီး ဒီအဖွဲ့ထဲရောက်ကာ စိတ်ဝင်စားစရာအမှုတွေကို ဆက်လက်စောင့်ကြည့်ပြီး ဘယ်လိုများ Criminal Mind ကိုဖတ်ကြမလဲဆိုတာ ကြည့်လိုက်ကြရအောင်",
+  "series_cover_img": "http://zegomovie.com/Uploads/vod/2019-06-28/5d15c218114a3.jpg",
+  "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-28/5d15c218114a3.jpg",
+  "year": "series",
+  "catagory": "Korea",
+  "studio": "2017",
+  "link": [
+    {
+      "ep_no": "Ep+1",
+      "link": "http://www.zegomovie.com/Videos/CrimialMinds1/index.m3u8"
+    },
+    {
+      "ep_no": "Ep+2",
+      "link": "http://www.zegomovie.com/Videos/CrimialMinds2/index.m3u8"
+    },
+    {
+      "ep_no": "Ep+3",
+      "link": "http://www.zegomovie.com/Videos/CrimialMinds3/index.m3u8"
+    },
+    {
+      "ep_no": "Ep+4",
+      "link": "http://www.zegomovie.com/Videos/CrimialMinds4/index.m3u8"
+    },
+    {
+      "ep_no": "Ep+5",
+      "link": "http://www.zegomovie.com/Videos/CrimialMinds5/index.m3u8"
+    },
+    {
+      "ep_no": "Ep+6",
+      "link": "http://www.zegomovie.com/Videos/CrimialMinds6/index.m3u8"
+    },
+    {
+      "ep_no": "Ep+7",
+      "link": "http://www.zegomovie.com/Videos/CrimialMinds7/index.m3u8"
+    },
+    {
+      "ep_no": "Ep+8",
+      "link": "http://www.zegomovie.com/Videos/CrimialMinds8/index.m3u8"
+    },
+    {
+      "ep_no": "Ep+9",
+      "link": "http://www.zegomovie.com/Videos/CrimialMinds9/index.m3u8"
+    },
+    {
+      "ep_no": "Ep+10",
+      "link": "http://www.zegomovie.com/Videos/CrimialMinds10/index.m3u8"
+    },
+    {
+      "ep_no": "Ep+11",
+      "link": "http://www.zegomovie.com/Videos/CrimialMinds11/index.m3u8"
+    },
+    {
+      "ep_no": "Ep+12",
+      "link": "http://www.zegomovie.com/Videos/CrimialMinds12/index.m3u8"
+    },
+    {
+      "ep_no": "Ep+13",
+      "link": "http://www.zegomovie.com/Videos/CrimialMinds13/index.m3u8"
+    },
+    {
+      "ep_no": "Ep+14",
+      "link": "http://www.zegomovie.com/Videos/CrimialMinds14/index.m3u8"
+    },
+    {
+      "ep_no": "Ep+15",
+      "link": "http://www.zegomovie.com/Videos/CrimialMinds15/index.m3u8"
+    },
+    {
+      "ep_no": "Ep+16",
+      "link": "http://www.zegomovie.com/Videos/CrimialMinds16/index.m3u8"
+    },
+    {
+      "ep_no": "Ep+17",
+      "link": "http://www.zegomovie.com/Videos/CrimialMinds17/index.m3u8"
+    },
+    {
+      "ep_no": "Ep+18",
+      "link": "http://www.zegomovie.com/Videos/CrimialMinds18/index.m3u8"
+    },
+    {
+      "ep_no": "Ep+19",
+      "link": "http://www.zegomovie.com/Videos/CrimialMinds19/index.m3u8"
+    },
+    {
+      "ep_no": "Ep+20",
+      "link": "http://www.zegomovie.com/Videos/CrimialMinds20/index.m3u8"
+    }
+  ]
+},{
   "movietitle": "Healer",
   "description": "မင်းသား Ji Chang Wook နဲ့ မင်းသမီး Park Min Young တို့ပါဝင်သရုပ်ဆောင်ထားတဲ့\n\nHealer ဇာတ်လမ်းတွဲဟာ 2014 ခုနှစ်မှာထွက်ရှိခဲ့ပြီး On Air ပြသစဉ်က\n\nပရိတ်သတ်တွေကိုရင်ကိုဆွဲဆောင်နိုင်ခဲ့ပါတယ်\n\nအခုတဖန်ပြန်လည်တင်ဆက်ပေးလိုက်ပါတယ်\n\nဇာတ်လမ်းအမျိုးအစားကတော့ Action နဲ့ Romance ပေါ့\n\nအညွန်းလေးကတော့ Seo Jung-hoo ( Ji Chang Wook ) ဟာ ကိုယ်ခံပညာကို\n\nကောင်းစွာတတ်ကျွမ်းပြီး Healer ဆိုတဲ့လူတစ်ယောက်အဖြစ်\n\nကြေးစားအနေနဲ့ မြေအောက်လောကမှာ ပါဝင်အလုပ်လုပ်နေတဲ့သူတစ်ဦးပေါ့\n\nသူ့နောက်ကွယ်မှာတော့ သူ့ကိုအမြဲတမ်း အလုပ်ရှာပေးတဲ့\n\nအမျိုးသမီးကြီးတစ်ဦးရှိပါတယ် Chae Young-shin ( Park Min Young ) ကတော့\n\nသတင်းထောက်လေးတဦး ..မိမိလိုက်ရမယ့်သတင်းဆိုရင် အခက်အခဲကြားကနေ\n\nဘယ်လိုလိုက်ရလိုက်ရ စွန့်စားတတ်တဲ့ကောင်မလေး..အဲ့လိုမျိုးကြောင့်လည်း\n\nမကြာခန အန္တရာယ်လေးတွေကြုံရတတ်တာပေါ့ တနေ့မှာ Healer တစ်ယောက်\n\nသူ့ရဲ့အလုပ်ကိစ္စတခုကြောင့် သတင်းထောက်မလေးအနားကို\n\nရောက်အောင်ကြိုးစားရပါတော့တယ် ဒီလိုကြိုးစားတဲ့နေရာမှာလည်း\n\nအူကြောင်ကြောင်ငတုံးလေးပုံစံဖမ်းပြီး အနားကိုရောက်ဖို့ကြိုးစားပါတယ်\n\nဒီလိုနဲ့ဘယ်လိုတွေဆက်ဖြစ်မလဲ healer ကိုရော ရိပ်မိသွားမလား\n\nသတင်းထောက်မလေးနဲ့ သူတို့၂ယောက်ရဲ့အတိတ်က ပတ်သတ်ဆက်နွယ်မှု\n\nဆိုတာတွေရောဘာဖြစ်မလဲဆိုတာ ဆက်လက်ခံစားကြည့်ရှုရမှာဖြစ်ပါတယ်",
   "series_cover_img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60c44b95cff.jpg",
