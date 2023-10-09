@@ -1,17 +1,61 @@
 {
   "Series_Database": [
-    
-
-
-
-
-
-
-
+  
 
 
 
 {
+"movietitle": "Pop Out Boy",
+"description": "Pop Out Boy စ/ဆုံး ",
+"series_cover_img": "http://zegomovie.com/Uploads/vod/2023-08-25/64e87f9e069d7.png",
+"movie_img": "http://zegomovie.com/Uploads/vod/2023-08-25/64e87f9e069d7.png",
+"year": "series",
+"catagory": "Korea",
+"studio": "2020",
+"link": [
+{
+"ep_no": "Ep+1",
+"link": "http://www.zegomovie.com/Videos/PopOutBoyEp1/index.m3u8"
+},
+{
+"ep_no": "Ep+2",
+"link": "http://www.zegomovie.com/Videos/PopOutBoyEp2/index.m3u8"
+},
+{
+"ep_no": "Ep+3",
+"link": "http://www.zegomovie.com/Videos/PopOutBoyEp3/index.m3u8"
+},
+{
+"ep_no": "Ep+4",
+"link": "http://www.zegomovie.com/Videos/PopOutBoyEp4/index.m3u8"
+},
+{
+"ep_no": "Ep+5",
+"link": "http://www.zegomovie.com/Videos/PopOutBoyEp5/index.m3u8"
+},
+{
+"ep_no": "Ep+6",
+"link": "http://www.zegomovie.com/Videos/PopOutBoyEp6/index.m3u8"
+},
+{
+"ep_no": "Ep+7",
+"link": "http://www.zegomovie.com/Videos/PopOutBoyEp7/index.m3u8"
+},
+{
+"ep_no": "Ep+8",
+"link": "http://www.zegomovie.com/Videos/PopOutBoyEp8/index.m3u8"
+},
+{
+"ep_no": "Ep+9",
+"link": "http://www.zegomovie.com/Videos/PopOutBoyEp9/index.m3u8"
+},
+{
+"ep_no": "Ep+10",
+"link": "http://www.zegomovie.com/Videos/PopOutBoyEp10/index.m3u8"
+}
+]
+}
+,{
 "movietitle": "User Not Found",
 "description": "Teenager ကျောင်းသားဇာတ်ကားလေးတွေကို ကြိုက်တတ်တဲ့ သူတွေအတွက် Wanna One အဖွဲ့ဝင်ဟောင်း\n\nCIX အဖွဲ့ဝင် Bae Jin Young ရဲ့သရုပ်ဆောင်ဘက်ကိုတစ်ဆင့်တက်မဲ့ web series User Not Found လေးနဲ့\n\nမိတ်ဆက်ပါရစေ။\n\nတစ်ချိန်တည်းမှာ ကျောင်းပြောင်းလာကြတဲ့ ယူမင်ဂျယ်ဆိုတဲ့ နာမည်တူ ကျောင်းသူနှစ်ယောက် အေးစက်ပြီး\n\nဆွဲဆောင်မှုရှိတာနဲ့အတူ ကောလဟလမှာနာမည်ကြီးတဲ့ ရှင်းလီဂျွန်း၊ flirt တဲ့နေရာမှာတော်တယ်ဆိုပြီး ကောလဟလ\n\nထွက်နေတဲ့ ရှင်းလီဂျွန်းဟာ ယူမင်ဂျယ်နဲ့ မတော်တဆပတ်သတ်မိပြီး အထင်လွဲမှုတွေခံရပါတယ်။\n\nရှင်းလီဂျွန်းနဲ့ ပတ်သတ်မိတဲ့ ယူမင်ဂျယ်က ဘယ်သူဖြစ်မလဲဆိုတာတော့ စောင့်ကြည့်ပေးကြပါဦးနော်။\n\nHigh School Romance အနေနဲ့တွေ့ရမဲ့ ဒီဇာတ်ကားလေးဟာ တမျိုးထူးခြားနေပါပြီ။\n\nဒီကားလေးဟာ One Fine Week, Best Mistake, Kiss Goblin တို့လို နာမည်ကြီး web series တွေရိုက်ခဲ့တဲ့\n\nWHYNOT media ကပဲရိုက်မှာဖြစ်တဲ့အတွက် မကောင်းမှာတော့ မပူနဲ့နော် အပတ်စဉ် သောကြာ၊ စနေနေ့တွေမှာ\n\nChannel Myanmar မှာစောင့်ကြည့်လို့ရပါပြီ။\n\n(ဒီဇာတ်လမ်းရဲ့အညွှန်းကို Thu Thu မှရေးသားပေးပြီး၊ ဘာသာပြန်ရေးသားပေးသူများကတော့ Khaing Khin ဖြစ်ပါတယ်။)",
 "series_cover_img": "http://zegomovie.com/Uploads/vod/2023-09-21/650bcca7bf8d3.png",
