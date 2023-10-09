@@ -10,7 +10,107 @@
 
 
 
+
 {
+"movietitle": "User Not Found",
+"description": "Teenager ကျောင်းသားဇာတ်ကားလေးတွေကို ကြိုက်တတ်တဲ့ သူတွေအတွက် Wanna One အဖွဲ့ဝင်ဟောင်း\n\nCIX အဖွဲ့ဝင် Bae Jin Young ရဲ့သရုပ်ဆောင်ဘက်ကိုတစ်ဆင့်တက်မဲ့ web series User Not Found လေးနဲ့\n\nမိတ်ဆက်ပါရစေ။\n\nတစ်ချိန်တည်းမှာ ကျောင်းပြောင်းလာကြတဲ့ ယူမင်ဂျယ်ဆိုတဲ့ နာမည်တူ ကျောင်းသူနှစ်ယောက် အေးစက်ပြီး\n\nဆွဲဆောင်မှုရှိတာနဲ့အတူ ကောလဟလမှာနာမည်ကြီးတဲ့ ရှင်းလီဂျွန်း၊ flirt တဲ့နေရာမှာတော်တယ်ဆိုပြီး ကောလဟလ\n\nထွက်နေတဲ့ ရှင်းလီဂျွန်းဟာ ယူမင်ဂျယ်နဲ့ မတော်တဆပတ်သတ်မိပြီး အထင်လွဲမှုတွေခံရပါတယ်။\n\nရှင်းလီဂျွန်းနဲ့ ပတ်သတ်မိတဲ့ ယူမင်ဂျယ်က ဘယ်သူဖြစ်မလဲဆိုတာတော့ စောင့်ကြည့်ပေးကြပါဦးနော်။\n\nHigh School Romance အနေနဲ့တွေ့ရမဲ့ ဒီဇာတ်ကားလေးဟာ တမျိုးထူးခြားနေပါပြီ။\n\nဒီကားလေးဟာ One Fine Week, Best Mistake, Kiss Goblin တို့လို နာမည်ကြီး web series တွေရိုက်ခဲ့တဲ့\n\nWHYNOT media ကပဲရိုက်မှာဖြစ်တဲ့အတွက် မကောင်းမှာတော့ မပူနဲ့နော် အပတ်စဉ် သောကြာ၊ စနေနေ့တွေမှာ\n\nChannel Myanmar မှာစောင့်ကြည့်လို့ရပါပြီ။\n\n(ဒီဇာတ်လမ်းရဲ့အညွှန်းကို Thu Thu မှရေးသားပေးပြီး၊ ဘာသာပြန်ရေးသားပေးသူများကတော့ Khaing Khin ဖြစ်ပါတယ်။)",
+"series_cover_img": "http://zegomovie.com/Uploads/vod/2023-09-21/650bcca7bf8d3.png",
+"movie_img": "http://zegomovie.com/Uploads/vod/2023-09-21/650bcca7bf8d3.png",
+"year": "series",
+"catagory": "Korea",
+"studio": "2021",
+"link": [
+{
+"ep_no": "Ep+1",
+"link": "http://www.zegomovie.com/Videos/UserNotFoundEp1/index.m3u8"
+},
+{
+"ep_no": "Ep+2",
+"link": "http://www.zegomovie.com/Videos/UserNotFoundEp2/index.m3u8"
+},
+{
+"ep_no": "Ep+3",
+"link": "http://www.zegomovie.com/Videos/UserNotFoundEp3/index.m3u8"
+},
+{
+"ep_no": "Ep+4",
+"link": "http://www.zegomovie.com/Videos/UserNotFoundEp4/index.m3u8"
+},
+{
+"ep_no": "Ep+5",
+"link": "http://www.zegomovie.com/Videos/UserNotFoundEp5/index.m3u8"
+},
+{
+"ep_no": "Ep+6",
+"link": "http://www.zegomovie.com/Videos/UserNotFoundEp6/index.m3u8"
+},
+{
+"ep_no": "Ep+7",
+"link": "http://www.zegomovie.com/Videos/UserNotFoundEp7/index.m3u8"
+},
+{
+"ep_no": "Ep+8",
+"link": "http://www.zegomovie.com/Videos/UserNotFoundEp8/index.m3u8"
+},
+{
+"ep_no": "Ep+9",
+"link": "http://www.zegomovie.com/Videos/UserNotFoundEp9/index.m3u8"
+},
+{
+"ep_no": "Ep+10",
+"link": "http://www.zegomovie.com/Videos/UserNotFoundEp10/index.m3u8"
+},
+{
+"ep_no": "Ep+11",
+"link": "http://www.zegomovie.com/Videos/UserNotFoundEp11/index.m3u8"
+},
+{
+"ep_no": "Ep+12",
+"link": "http://www.zegomovie.com/Videos/UserNotFoundEp12/index.m3u8"
+},
+{
+"ep_no": "Ep+13",
+"link": "http://www.zegomovie.com/Videos/UserNotFoundEp13/index.m3u8"
+},
+{
+"ep_no": "Ep+14",
+"link": "http://www.zegomovie.com/Videos/UserNotFoundEp14/index.m3u8"
+},
+{
+"ep_no": "Ep+15",
+"link": "http://www.zegomovie.com/Videos/UserNotFoundEp15/index.m3u8"
+},
+{
+"ep_no": "Ep+16",
+"link": "http://www.zegomovie.com/Videos/UserNotFoundEp16/index.m3u8"
+},
+{
+"ep_no": "Ep+17",
+"link": "http://www.zegomovie.com/Videos/UserNotFoundEp17/index.m3u8"
+},
+{
+"ep_no": "Ep+18",
+"link": "http://www.zegomovie.com/Videos/UserNotFoundEp18/index.m3u8"
+},
+{
+"ep_no": "Ep+19",
+"link": "http://www.zegomovie.com/Videos/UserNotFoundEp19/index.m3u8"
+},
+{
+"ep_no": "Ep+20",
+"link": "http://www.zegomovie.com/Videos/UserNotFoundEp20/index.m3u8"
+},
+{
+"ep_no": "Ep+21",
+"link": "http://www.zegomovie.com/Videos/UserNotFoundEp21/index.m3u8"
+},
+{
+"ep_no": "Ep+22",
+"link": "http://www.zegomovie.com/Videos/UserNotFoundEp22/index.m3u8"
+}
+]
+}
+,{
 "movietitle": "Queen: Love and War",
 "description": "ဇာတ်လမ်းအကျဉ်းကတော့ “အစ်မဖြစ်သူကိုသတ်ခဲ့တဲ့ တရားခံကိုရှာဖွေဖို့အတွက် မိဖုရားဖြစ်ဖို့ကြိုးစားမယ့်အွန်းဘို နဲ့\nရုပ်ရည်ချောမောပြေပြစ်ပြီး ဉာဏ်ပညာထက်မြက်တဲ့ ရှင်ဘုရင်အီဂယောင်းတို့ရဲ့ နန်းတွင်းအချစ်ဇာတ်လမ်းလေးတစ်ပုဒ်” ဖြစ်ပါတယ်။\nအစ်မဖြစ်သူအတွက် လက်စားချေဖို့တစ်ခုတည်းနဲ့ မိဖုရားဖြစ်ဖို့ကြိုးစားနေတဲ့ အွန်းဘိုဟာ\nငယ်စဉ်ကတည်းက မိန်းကလေးတစ်ယောက်တည်းကိုပဲချစ်မြတ်နိုးခဲ့တဲ့ မင်းကြီးအီဂယောင်းနဲ့\nတွေ့ဆုံပြီးတဲ့နောက်မှာတော့ သူ့ရဲ့လက်စားချေမှုခရီးလမ်းက ဘာတွေဆက်ဖြစ်သွားမလဲ။\nသူလိုလားတဲ့လက်စားချေမှုကို တကယ်ပဲလုပ်ဆောင်နိုင်သွားပါ့မလား။\n\nမင်းကြီးနဲ့အွန်းဘိုတို့ရဲ့ အချစ်ဇာတ်လမ်းလေးကရော ဘယ်လိုတွေဖြစ်တည်လာမလဲဆိုတာ\nစိတ်ဝင်စားဖွယ်ကြည့်ရှုရမယ့် နန်းတွင်းအချစ်ဇာတ်ကားလေးဖြစ်လို့ ဘလူးဘယ်ရီပရိသတ်တွေလည်း အကြိုက်တွေ့ကြမှာပါ။\n\nအဓိကဇာတ်လိုက်တွေအဖြစ် Kim Min-Kyu နဲ့ Jin Se-Yeon တို့က ပါဝင်ထားကြတဲ့အတွက်\nကြည့်လို့ကောင်းမှာအမှန်ပဲမို့ ကြည့်ဖြစ်အောင်ကြည့်လိုက်ကြပါဦးနော်။\n\nအညွှန်းကိုတော့ Hmwe Thet Winn က ရေးထားပေးပြီးတော့\nဘာသာပြန်ထားတာကတော့ Hmwe, Laii, Joyz, Milkeux, Shin, Cali, MyoMyo တို့ပဲ ဖြစ်ပါတယ်။",
 "series_cover_img": "http://zegomovie.com/Uploads/vod/2023-09-15/6503cef038491.png",
