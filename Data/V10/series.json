@@ -9,7 +9,83 @@
 
 
 
+
 {
+"movietitle": "Queen: Love and War",
+"description": "ဇာတ်လမ်းအကျဉ်းကတော့ “အစ်မဖြစ်သူကိုသတ်ခဲ့တဲ့ တရားခံကိုရှာဖွေဖို့အတွက် မိဖုရားဖြစ်ဖို့ကြိုးစားမယ့်အွန်းဘို နဲ့\nရုပ်ရည်ချောမောပြေပြစ်ပြီး ဉာဏ်ပညာထက်မြက်တဲ့ ရှင်ဘုရင်အီဂယောင်းတို့ရဲ့ နန်းတွင်းအချစ်ဇာတ်လမ်းလေးတစ်ပုဒ်” ဖြစ်ပါတယ်။\nအစ်မဖြစ်သူအတွက် လက်စားချေဖို့တစ်ခုတည်းနဲ့ မိဖုရားဖြစ်ဖို့ကြိုးစားနေတဲ့ အွန်းဘိုဟာ\nငယ်စဉ်ကတည်းက မိန်းကလေးတစ်ယောက်တည်းကိုပဲချစ်မြတ်နိုးခဲ့တဲ့ မင်းကြီးအီဂယောင်းနဲ့\nတွေ့ဆုံပြီးတဲ့နောက်မှာတော့ သူ့ရဲ့လက်စားချေမှုခရီးလမ်းက ဘာတွေဆက်ဖြစ်သွားမလဲ။\nသူလိုလားတဲ့လက်စားချေမှုကို တကယ်ပဲလုပ်ဆောင်နိုင်သွားပါ့မလား။\n\nမင်းကြီးနဲ့အွန်းဘိုတို့ရဲ့ အချစ်ဇာတ်လမ်းလေးကရော ဘယ်လိုတွေဖြစ်တည်လာမလဲဆိုတာ\nစိတ်ဝင်စားဖွယ်ကြည့်ရှုရမယ့် နန်းတွင်းအချစ်ဇာတ်ကားလေးဖြစ်လို့ ဘလူးဘယ်ရီပရိသတ်တွေလည်း အကြိုက်တွေ့ကြမှာပါ။\n\nအဓိကဇာတ်လိုက်တွေအဖြစ် Kim Min-Kyu နဲ့ Jin Se-Yeon တို့က ပါဝင်ထားကြတဲ့အတွက်\nကြည့်လို့ကောင်းမှာအမှန်ပဲမို့ ကြည့်ဖြစ်အောင်ကြည့်လိုက်ကြပါဦးနော်။\n\nအညွှန်းကိုတော့ Hmwe Thet Winn က ရေးထားပေးပြီးတော့\nဘာသာပြန်ထားတာကတော့ Hmwe, Laii, Joyz, Milkeux, Shin, Cali, MyoMyo တို့ပဲ ဖြစ်ပါတယ်။",
+"series_cover_img": "http://zegomovie.com/Uploads/vod/2023-09-15/6503cef038491.png",
+"movie_img": "http://zegomovie.com/Uploads/vod/2023-09-15/6503cef038491.png",
+"year": "series",
+"catagory": "Korea",
+"studio": "2019",
+"link": [
+{
+"ep_no": "Ep+1",
+"link": "http://www.zegomovie.com/Videos/QueenloveandWarEp1/index.m3u8"
+},
+{
+"ep_no": "Ep+2",
+"link": "http://www.zegomovie.com/Videos/QueenloveandWarEp2/index.m3u8"
+},
+{
+"ep_no": "Ep+3",
+"link": "http://www.zegomovie.com/Videos/QueenloveandWarEp3/index.m3u8"
+},
+{
+"ep_no": "Ep+4",
+"link": "http://www.zegomovie.com/Videos/QueenloveandWarEp4/index.m3u8"
+},
+{
+"ep_no": "Ep+5",
+"link": "http://www.zegomovie.com/Videos/QueenloveandWarEp5/index.m3u8"
+},
+{
+"ep_no": "Ep+6",
+"link": "http://www.zegomovie.com/Videos/QueenloveandWarEp6/index.m3u8"
+},
+{
+"ep_no": "Ep+7",
+"link": "http://www.zegomovie.com/Videos/QueenloveandWarEp7/index.m3u8"
+},
+{
+"ep_no": "Ep+8",
+"link": "http://www.zegomovie.com/Videos/QueenloveandWarEp8/index.m3u8"
+},
+{
+"ep_no": "Ep+9",
+"link": "http://www.zegomovie.com/Videos/QueenloveandWarEp9/index.m3u8"
+},
+{
+"ep_no": "Ep+10",
+"link": "http://www.zegomovie.com/Videos/QueenloveandWarEp10/index.m3u8"
+},
+{
+"ep_no": "Ep+11",
+"link": "http://www.zegomovie.com/Videos/QueenloveandWarEp11/index.m3u8"
+},
+{
+"ep_no": "Ep+12",
+"link": "http://www.zegomovie.com/Videos/QueenloveandWarEp12/index.m3u8"
+},
+{
+"ep_no": "Ep+13",
+"link": "http://www.zegomovie.com/Videos/QueenloveandWarEp13/index.m3u8"
+},
+{
+"ep_no": "Ep+14",
+"link": "http://www.zegomovie.com/Videos/QueenloveandWarEp14/index.m3u8"
+},
+{
+"ep_no": "Ep+15",
+"link": "http://www.zegomovie.com/Videos/QueenloveandWarEp15/index.m3u8"
+},
+{
+"ep_no": "Ep+16",
+"link": "http://www.zegomovie.com/Videos/QueenloveandWarEp16/index.m3u8"
+}
+]
+}
+,{
 "movietitle": "A Time Called You",
 "description": "အပိုင်း(၁ မှ ၁၂) စ/ဆုံး\n\nပျိုတိုင်းကြိုက်တဲ့ နှင်းဆီခိုင် မင်းသား Ahn Hyo Seop နဲ့ မင်းသမီး​ချော​လေး Jeon Yeo Been တို့က\n\nအဓိကပါဝင်သရုပ်​ဆောင်ထားတဲ့ Netflix က​နေ 12 ပိုင်းလုံး တစ်ပြိုက်နက် ပြသမည့်\n\nဇာတ်ကား​လေးကို တစ်ဝကြီး ကြည့်ဖို့ တင်ဆက်​ပေးလိုက်ပါတယ်။\n\nဒီဇာတ်ကား​လေးက​တော့ ဂျွန်ဟီးဆိုတဲ့ ​ကောင်မ​လေးက 2023 ခုနှစ်မှာ\n\nသူမ ချစ်ရတဲ့ ယွန်းဂျွန်ဆိုတဲ့​ကောင်​လေးကို ဆုံးရှုံးရပြီး​နောက် ​ဖြေမဆည်နိုင်ဘဲ\n\nသူမ​ကောင်​လေးကိုပဲ အမြဲတမ်း လွမ်းဆွတ်​တမ်းတ​နေတဲ့​ကောင်မ​လေးပါ။\n\nတစ်​နေ့မှာ ဂျွန်ဟီးက အချိန်ခရီးသွားပြီး 1998 ကို အထက်တန်း​ကျောင်းသူ ကွမ်မင်းဂျွန်အဖြစ်နဲ့ ​​\n\nရောက်ရှိသွားပါ​တော့တယ်။ အဲဒီအချိန်မှာပဲ သူမရဲ့​ကောင်​လေးနဲ့ အရမ်းတူတဲ့ အထက်တန်း​ကျောင်းသား\n\nနမ်ရှီဟွန်းကို သူမ ​တွေ့ဆုံလိုက်ရတဲ့အခါ…\n\nဒါ​​ပေမဲ့ အဲဒီအချိန်မှာပဲ ရှီဟွန်းရဲ့ သူငယ်ချင်း ​ဂျောင်အင်ဂယူကလည်း မင်းဂျွန်ကို သ​ဘောကျ​​​နေပြန်တဲ့အခါ…\n\nဒီအထက်တန်း​ကျောင်းသား လူငယ်၃​ယောက်ရဲ့ အချစ်ဇာတ်လမ်း​လေးက ဘာဆက်ဖြစ်မလဲ။\n\nဂျူဟီးက​​ရော သူမချစ်သူနဲ့ အရမ်းတူတဲ့ ​ကောင်​လေးနဲ့ ဘာ​တွေဆက်ဖြစ်မလဲဆိုတာကို\n\nအချစ်၊အလွမ်း၊အ​ဆွေး တို့နဲ့ ရိုက်ကူးတင်ဆက်ထားတဲ့ ​ကား​လေးပါ။\n\nအဲဒီအပြင် ဒီကား​လေးက နာမည်ကြီး Taiwan ဇာတ်ကားဖြစ်တဲ့ ” Someday or Oneday ”\n\nကားကို ပြန်လည်အသက်သွင်းထားတာမို့ တစ်ရှုးဘူး​လေး ​ဘေးနား​ယူထားပြီး ကြည့်ရမယ့် ကား​လေးပါ 🥺\n\nအညွှန်းကို Htoo Htoo Aung မှရေးသားပေးထားပါတယ်….",
 "series_cover_img": "http://zegomovie.com/Uploads/vod/2023-09-23/650e6808851d7.png",
