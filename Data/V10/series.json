@@ -3,7 +3,99 @@
   
 
 
+
 {
+"movietitle": "Goodbye Mr Black",
+"description": "ဇာတ်လမ်းတွဲ တစ်ခုကို တက်ဆက်ပေးလိုက်ပါတယ်ဗျ\n\nဇာတ်လမ်းတွဲလေးကတော့ မြဝတီရုပ်သံကိုကြည့်နေကြသူတွေဆို\n\nဒီ ကြိုးမဲ့စွန် ဆိုတဲ့ ဇာတ်လမ်းတွဲလေးကို ရင်းနှီးကြမှာပါ\n\nဇာတ်လမ်း အကျဉ်းလေးကတော့ ရေတပ်ဗိုလ်ဖြစ်သူ ချာဂျီဝန်း ဟာ\n\nမထင်မှတ်ထားတဲ့ အမှုတစ်ခုမှာ ထောင်ချောက်ဆင်ခံရပြီးသူဟာ\n\nမသေပဲ မစ္စတာဘလက် အဖြစ်တဖန် ပြန်လည်မွေးဖွားလာခဲ့ပြီး\n\nစွမ်း ဆိုတဲ့ မိန်းမချောလေးနဲ့ လက်ထပ်ပြီးသူ့ဘဝအမှန်ကို\n\nဖုံးကွယ်ထားခဲ့ပါတယ် အဲ့ဒီ စွမ်းဆိုတဲ့ မိန်းမချောလေးကကော ဘယ်လို\n\nနောက်ကြောင်းအတိတ်ဘဝကြောင့် သူများအသုံးချတာကိုခံနေရတာလဲ\n\nချာဂျီဝန်း ကကော ဘယ်လိုတွေ လက်စားချေဖို့ကြံလေမလဲ\n\nသူ့ကိုကောဘယ်သူတွေက မကောင်းကြံစည်ထောက်ချောက်\n\nဆင်ခဲ့ကြတာလဲဆိုတာကိုတော့ ဆက်လက် ကြည့်ရှူလိုက်ကြပါတော့နော်\n\nစုစုပေါင်းအပိုင်း ၂၀ ရှှိပါတယ်ဗျ 😀",
+"series_cover_img": "http://zegomovie.com/Uploads/vod/2019-06-28/5d15d0b8f16e1.jpg",
+"movie_img": "http://zegomovie.com/Uploads/vod/2019-06-28/5d15d0b8f16e1.jpg",
+"year": "series",
+"catagory": "Korea",
+"studio": "2016",
+"link": [
+{
+"ep_no": "Ep+1",
+"link": "http://www.zegomovie.com/Videos/GoodbyeMrBlackEp1/index.m3u8"
+},
+{
+"ep_no": "Ep+2",
+"link": "http://www.zegomovie.com/Videos/GoodbyeMrBlackEp2/index.m3u8"
+},
+{
+"ep_no": "Ep+3",
+"link": "http://www.zegomovie.com/Videos/GoodbyeMrBlackEp3/index.m3u8"
+},
+{
+"ep_no": "Ep+4",
+"link": "http://www.zegomovie.com/Videos/GoodbyeMrBlackEp4/index.m3u8"
+},
+{
+"ep_no": "Ep+5",
+"link": "http://www.zegomovie.com/Videos/GoodbyeMrBlackEp5/index.m3u8"
+},
+{
+"ep_no": "Ep+6",
+"link": "http://www.zegomovie.com/Videos/GoodbyeMrBlackEp6/index.m3u8"
+},
+{
+"ep_no": "Ep+7",
+"link": "http://www.zegomovie.com/Videos/GoodbyeMrBlackEp7/index.m3u8"
+},
+{
+"ep_no": "Ep+8",
+"link": "http://www.zegomovie.com/Videos/GoodbyeMrBlackEp8/index.m3u8"
+},
+{
+"ep_no": "Ep+9",
+"link": "http://www.zegomovie.com/Videos/GoodbyeMrBlackEp9/index.m3u8"
+},
+{
+"ep_no": "Ep+10",
+"link": "http://www.zegomovie.com/Videos/GoodbyeMrBlackEp10/index.m3u8"
+},
+{
+"ep_no": "Ep+11",
+"link": "http://www.zegomovie.com/Videos/GoodbyeMrBlackEp11/index.m3u8"
+},
+{
+"ep_no": "Ep+12",
+"link": "http://www.zegomovie.com/Videos/GoodbyeMrBlackEp12/index.m3u8"
+},
+{
+"ep_no": "Ep+13",
+"link": "http://www.zegomovie.com/Videos/GoodbyeMrBlackEp13/index.m3u8"
+},
+{
+"ep_no": "Ep+14",
+"link": "http://www.zegomovie.com/Videos/GoodbyeMrBlackEp14/index.m3u8"
+},
+{
+"ep_no": "Ep+15",
+"link": "http://www.zegomovie.com/Videos/GoodbyeMrBlackEp15/index.m3u8"
+},
+{
+"ep_no": "Ep+16",
+"link": "http://www.zegomovie.com/Videos/GoodbyeMrBlackEp16/index.m3u8"
+},
+{
+"ep_no": "Ep+17",
+"link": "http://www.zegomovie.com/Videos/GoodbyeMrBlackEp17/index.m3u8"
+},
+{
+"ep_no": "Ep+18",
+"link": "http://www.zegomovie.com/Videos/GoodbyeMrBlackEp18/index.m3u8"
+},
+{
+"ep_no": "Ep+19",
+"link": "http://www.zegomovie.com/Videos/GoodbyeMrBlackEp19/index.m3u8"
+},
+{
+"ep_no": "Ep+20",
+"link": "http://www.zegomovie.com/Videos/GoodbyeMrBlackEp20/index.m3u8"
+}
+]
+}
+,{
 "movietitle": "Click Your Heart",
 "description": "ဒုတိယ နှစ်ကို ကျောင်းခဏခဏ ပြောင်းနေရတဲ့ ကောင်မလေး တစ်ယောက်ရှိတယ်\nဘာလို့လဲ ဆိုတော့ အဲ့ဒီကောင်မလေး အနားကပ်တဲ့သူတိုင်း သေရင်သေ မသေရင်\nကံဆိုးကုန်ကြလို့ပါပဲ ဒါကြောင့် ကောင်မလေး ကိုယ်တိုင်ကလဲ သူ့အနားကို\nဘယ်သူမှ မကပ်အောင် သေချာ အမြဲတမ်း ဂရုစိုက်ပြီး နေခဲ့ပါတယ်\nဒါပေမယ့် ကံဆိုးချင်တော့ သူ့ကို ကြိုက်တဲ့ ကောင်လေး ၄ ယောက်နဲ့\nဆုံတွေ့လာတဲ့ အခါမှာတော့…\nဒီဇတ်လမ်းတွဲ အစအဆုံးကို CM Translator Moe Myint Lwin မှ ဘာသာပြန်ပေးထားပါတယ်",
 "series_cover_img": "http://zegomovie.com/Uploads/vod/2019-06-21/5d0ca78695484.jpg",
