@@ -4,7 +4,83 @@
 
 
 
+
 {
+"movietitle": "Alice",
+"description": "အပိုင်း(၁ မှ ၁၆) စ/ဆုံး\n\nမိုးသည်းတဲ့ညတစ်ညမှာ ပါရဂူတစ်ယောက်ရဲ့အိမ်ကို လုပ်ကြံရေးသမားတစ်ယောက်ဝင်လာတယ်…\n\nဒီလူက ပါရဂူဆီကနေ ထူးဆန်းတဲ့စာအုပ်တစ်အုပ်ယူပြီး ပါရဂူကိုသတ်ပစ်လိုက်တယ်….\n\nအားလုံးလက်စသတ်မယ့်အချိန်မှာ နောက်ထပ်တိုက်ခိုက်ရေးအတွက်အထူးကျွမ်းကျင်တဲ့လင်မယား(၂)ဉီးရောက်\n\nလာပြီးလုပ်ကြံရေးသမားကို သတ်ပြီး စာအုပ်ကိုဆက်လုသွားတယ်…ဒီစာအုပ်ကိုဖတ်ပြီးတော့\n\nကိုယ်ဝန်ရှိခါစ ဇနီးဖြစ်သူဟာ သူတို့လင်မယားအတွက်အနာဂတ်စိတ်ကူးအချို့ကို ပြောင်းလဲလိုက်ဖို့ကြံလိုက်ပုံပါပဲ..\n\nကိုယ်ဝန်ဖျက်ချစေချင်တဲ့ ယောင်္ကျားကိုထားခဲ့ပြီး လုလာတဲ့ စာအုပ်ကို ယူခါ တစ်ယောက်ထဲ တိတ်တဆိတ်ကလေးကို\n\nမွေးဖွားခဲ့တယ်…အဲ့ဒီနောက်တော့ ထူးဆန်းတဲ့ဖြစ်ရပ်ပေါင်းများစွာဆက်ဖြစ်တော့တာပါပဲ…\n\nဒီစီးရီးက မင်းသား Joo Woonနဲ့ မင်းသမီးချော Kim Hee Sunတို့အဓိကပါဝင်သရုပ်ဆောင်ထားတယ်…\n\nအချိန်ခရီးသွားတွေ..အက်ရှင်ခန်းတွေနဲ့ သရုပ်ဆောင်တွေရဲ့ စရိုက်ဆန်းဆန်းတွေနဲ့\n\nစီးရီးရဲ့ဇာတ်အိမ်ကို ခပ်မိုက်မိုက်ဖွဲ့စည်းထားတယ်…\n\nတော်တော်စိတ်ဝင်စားစရာကောင်းတဲ့အပြင် သိပ္ပံခေတ်လွန်ဖြစ်ရပ်ဆန်းတွေမို့\n\nဇာတ်လမ်းတွဲခပ်မိုက်မိုက်ကြိုက်သူတို့လက်မလွှတ်သင့်ပါကြောင်းတိုက်တွန်းပါရစေ…",
+"series_cover_img": "http://zegomovie.com/Uploads/vod/2020-08-31/5f4c9d497a71d.jpg",
+"movie_img": "http://zegomovie.com/Uploads/vod/2020-08-31/5f4c9d497a71d.jpg",
+"year": "series",
+"catagory": "Korea",
+"studio": "2020",
+"link": [
+{
+"ep_no": "Ep+1",
+"link": "http://www.zegomovie.com/Videos/AliceEp1/index.m3u8"
+},
+{
+"ep_no": "Ep+2",
+"link": "http://www.zegomovie.com/Videos/AliceEp2/index.m3u8"
+},
+{
+"ep_no": "Ep+3",
+"link": "http://www.zegomovie.com/Videos/AliceEp3/index.m3u8"
+},
+{
+"ep_no": "Ep+4",
+"link": "http://www.zegomovie.com/Videos/AliceEp4/index.m3u8"
+},
+{
+"ep_no": "Ep+5",
+"link": "http://www.zegomovie.com/Videos/AliceEp5/index.m3u8"
+},
+{
+"ep_no": "Ep+6",
+"link": "http://www.zegomovie.com/Videos/AliceEp6/index.m3u8"
+},
+{
+"ep_no": "Ep+7",
+"link": "http://www.zegomovie.com/Videos/AliceEp7/index.m3u8"
+},
+{
+"ep_no": "Ep+8",
+"link": "http://www.zegomovie.com/Videos/AliceEp8/index.m3u8"
+},
+{
+"ep_no": "Ep+9",
+"link": "http://www.zegomovie.com/Videos/AliceEp9/index.m3u8"
+},
+{
+"ep_no": "Ep+10",
+"link": "http://www.zegomovie.com/Videos/AliceEp10/index.m3u8"
+},
+{
+"ep_no": "Ep+11",
+"link": "http://www.zegomovie.com/Videos/AliceEp11/index.m3u8"
+},
+{
+"ep_no": "Ep+12",
+"link": "http://www.zegomovie.com/Videos/AliceEp12/index.m3u8"
+},
+{
+"ep_no": "Ep+13",
+"link": "http://www.zegomovie.com/Videos/AliceEp13/index.m3u8"
+},
+{
+"ep_no": "Ep+14",
+"link": "http://www.zegomovie.com/Videos/AliceEp14/index.m3u8"
+},
+{
+"ep_no": "Ep+15",
+"link": "http://www.zegomovie.com/Videos/AliceEp15/index.m3u8"
+},
+{
+"ep_no": "Ep+16",
+"link": "http://www.zegomovie.com/Videos/AliceEp16End/index.m3u8"
+}
+]
+}
+,{
 "movietitle": "Goodbye Mr Black",
 "description": "ဇာတ်လမ်းတွဲ တစ်ခုကို တက်ဆက်ပေးလိုက်ပါတယ်ဗျ\n\nဇာတ်လမ်းတွဲလေးကတော့ မြဝတီရုပ်သံကိုကြည့်နေကြသူတွေဆို\n\nဒီ ကြိုးမဲ့စွန် ဆိုတဲ့ ဇာတ်လမ်းတွဲလေးကို ရင်းနှီးကြမှာပါ\n\nဇာတ်လမ်း အကျဉ်းလေးကတော့ ရေတပ်ဗိုလ်ဖြစ်သူ ချာဂျီဝန်း ဟာ\n\nမထင်မှတ်ထားတဲ့ အမှုတစ်ခုမှာ ထောင်ချောက်ဆင်ခံရပြီးသူဟာ\n\nမသေပဲ မစ္စတာဘလက် အဖြစ်တဖန် ပြန်လည်မွေးဖွားလာခဲ့ပြီး\n\nစွမ်း ဆိုတဲ့ မိန်းမချောလေးနဲ့ လက်ထပ်ပြီးသူ့ဘဝအမှန်ကို\n\nဖုံးကွယ်ထားခဲ့ပါတယ် အဲ့ဒီ စွမ်းဆိုတဲ့ မိန်းမချောလေးကကော ဘယ်လို\n\nနောက်ကြောင်းအတိတ်ဘဝကြောင့် သူများအသုံးချတာကိုခံနေရတာလဲ\n\nချာဂျီဝန်း ကကော ဘယ်လိုတွေ လက်စားချေဖို့ကြံလေမလဲ\n\nသူ့ကိုကောဘယ်သူတွေက မကောင်းကြံစည်ထောက်ချောက်\n\nဆင်ခဲ့ကြတာလဲဆိုတာကိုတော့ ဆက်လက် ကြည့်ရှူလိုက်ကြပါတော့နော်\n\nစုစုပေါင်းအပိုင်း ၂၀ ရှှိပါတယ်ဗျ 😀",
 "series_cover_img": "http://zegomovie.com/Uploads/vod/2019-06-28/5d15d0b8f16e1.jpg",
