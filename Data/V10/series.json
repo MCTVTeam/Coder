@@ -2,7 +2,83 @@
   "Series_Database": [
   
 
+
 {
+"movietitle": "Start-Up",
+"description": "အပိုင်း(၁ မှ ၁၆) စ/ဆုံး\n\nSeo Dal Miဆိုတဲ့ ရည်မှန်းချက်ကြီးမားတဲ့ကောင်မလေးတစ်ယောက်ဟာ\n\nကိုယ်ပိုင်စီးပွားရေးလုပ်ငန်းတစ်ခုတည်ထောင်ဖို့ အိပ်မက်မက်နေတဲ့သူပါ။\n\nလိုအပ်တဲ့ရင်းနှီးမြှုပ်နှံငွေရဖို့ ကျောင်းကနေထွက်ခဲ့ပြီး အချိန်ပိုင်းအလုပ်မျိုးစုံလုပ်ကာ\n\nအိပ်မက်ကိုအကောင်အထည်ဖော်ဖို့ ကြိုးစားနေတဲ့သူတစ်ယောက်ပါ။\n\nသူမရဲ့အကြီးမားဆုံးအိပ်မက်ကတော့ ကိုရီးယားရဲ့စတိဗ်ဂျော့အဖြစ်နဲ့ အောင်မြင်တဲ့စွန့်ဦးတီထွင်လုပ်ငန်းရှင်တစ်ယောက်ဖြစ်ချင်သူပါ။\nNam Do Sanကတော့ အတွက်အချက်တော်တဲ့ သင်္ချာဉာဏ်ကြီးရှင်တစ်ယောက်ဖြစ်ပြီး\n\nSamsan Techရဲ့ တည်ထောင်သူတစ်ဦးလည်းဖြစ်ပါတယ်။\n\nဒါပေမယ့်လည်း ကံမကောင်းစွာနဲ့ သူ့ရဲ့ကုမ္ပဏီဟာအကျဥ်းအကြပ်ထဲကျရောက်နေပြီး စီးပွားရေးအခက်အခဲကြုံတွေ့နေရပါတယ်။\nဒီလိုရည်မှန်းချက်ကြီးမားတဲ့လူငယ်လေးနှစ်ယောက်ဟာ  ဘယ်လိုတွေဆုံကြမလဲ…\n\nသူတို့အခက်အခဲတွေကို ဖြေရှင်းနိုင်ကြပါ့မလား.. တစ်ယောက်နဲ့တစ်ယောက်ရော အပြန်အလှန်ကူညီနိုင်ကြပါ့မလား…\n\nခံစားကြည့်ကြပါဉီး…..ဇာတ်လမ်းအညွှန်းကို Ei Phyu Khin မှရေးသားပေးထားပြီး ဘာသာပြန်သူများကတော့\n\nLwin Lwin Aung,Shoon Thu Thu Chain,Ei Phyu Khin & Hnin Pale တို့ပဲဖြစ်ပါတယ်….",
+"series_cover_img": "http://zegomovie.com/Uploads/vod/2020-12-01/5fc621da06730.jpg",
+"movie_img": "http://zegomovie.com/Uploads/vod/2020-12-01/5fc621da06730.jpg",
+"year": "series",
+"catagory": "Korea",
+"studio": "2020",
+"link": [
+{
+"ep_no": "Ep+1",
+"link": "http://www.zegomovie.com/Videos/StartUpEp1/index.m3u8"
+},
+{
+"ep_no": "Ep+2",
+"link": "http://www.zegomovie.com/Videos/StartUpEp2/index.m3u8"
+},
+{
+"ep_no": "Ep+3",
+"link": "http://www.zegomovie.com/Videos/StartUpEp3/index.m3u8"
+},
+{
+"ep_no": "Ep+4",
+"link": "http://www.zegomovie.com/Videos/StartUpEp4/index.m3u8"
+},
+{
+"ep_no": "Ep+5",
+"link": "http://www.zegomovie.com/Videos/StartUpEp5/index.m3u8"
+},
+{
+"ep_no": "Ep+6",
+"link": "http://www.zegomovie.com/Videos/StartUpEp6/index.m3u8"
+},
+{
+"ep_no": "Ep+7",
+"link": "http://www.zegomovie.com/Videos/StartUpEp7/index.m3u8"
+},
+{
+"ep_no": "Ep+8",
+"link": "http://www.zegomovie.com/Videos/StartUpEp8/index.m3u8"
+},
+{
+"ep_no": "Ep+9",
+"link": "http://www.zegomovie.com/Videos/StartUpEp9/index.m3u8"
+},
+{
+"ep_no": "Ep+10",
+"link": "http://www.zegomovie.com/Videos/StartUpEp10/index.m3u8"
+},
+{
+"ep_no": "Ep+11",
+"link": "http://www.zegomovie.com/Videos/StartUpEp11/index.m3u8"
+},
+{
+"ep_no": "Ep+12",
+"link": "http://www.zegomovie.com/Videos/StartUpEp12/index.m3u8"
+},
+{
+"ep_no": "Ep+13",
+"link": "http://www.zegomovie.com/Videos/StartUpEp13/index.m3u8"
+},
+{
+"ep_no": "Ep+14",
+"link": "http://www.zegomovie.com/Videos/StartUpEp14/index.m3u8"
+},
+{
+"ep_no": "Ep+15",
+"link": "http://www.zegomovie.com/Videos/StartUpEp15/index.m3u8"
+},
+{
+"ep_no": "Ep+16",
+"link": "http://www.zegomovie.com/Videos/StartUpEp16End/index.m3u8"
+}
+]
+}
+,{
 "movietitle": "Lovestruck in the City",
 "description": "Park Jae-Won (Ji Chang-Wook) ကတော့ ရိုးသားကြိုးစားတဲ့ ဗိသုကာပညာရှင်တစ်ယောက်ပေါ့\n\nသူက မြိ့တွင်းလမ်းငယ်လေးတွေကို သဘောကျတတ်ပြီး မတူတဲ့ ထူးဆန်းတဲ့အရာလေးတွေ လိုက်စုဆောင်းနေတတ်သူဖြစ်တဲ့အပြင်\n\nသူ့အချစ်တွေကို သိမ်းပိုက်ပြီး ပျောက်ကွယ်သွားတဲ့ မိန်းကလေးတစ်ယောက်ကိုလည်း မမေ့နိုင်သေးတဲ့သူပါ\n\nတစ်ဖက်မှာလည်း Lee Eun-O (Kim Ji-Won) ကတော့ ဈေးကွက်စီးပွားရေးသမားတစ်ယောက်ဖြစ်ပြီး ဦးတည်ချက်မဲ့ ခရီးလျောက်ထွက်နေတတ်သူ…\n\nဒီလိုနဲ့ ခရီးထွက်ရင်း နှစ်ယောက်သား သွားဆုံတဲ့အခါမှာတော့…\n\nဒီစီးရီးလေးဟာဆိုရင် တစ်ပတ် ၂ ပိုင်း Tuesday, Friday နေ့တွေမှာ ပြသသွားမှာဖြစ်ပါတယ် ။\n\nမင်းသား မင်းသမီးကြိုက်လို့ကြည့် ကြည့် အချစ်ဇာတ်လမ်းကြိုက်လို့ ကြည့်ကြည့် အဆင်ပြေမယ့်ကားလေးမို့ တင်ဆက်ပေးလိုက်ပါတယ် ။",
 "series_cover_img": "http://zegomovie.com/Uploads/vod/2020-12-23/5fe2ebe538188.jpg",
@@ -77,7 +153,7 @@
 },
 {
 "ep_no": "Ep+17",
-"link": "http://www.zegomovie.com/Videos/LovestruckintheCityEp17/index.m3u8"
+"link": "http://www.zegomovie.com/Videos/LovestruckintheCityEp17End/index.m3u8"
 }
 ]
 }
