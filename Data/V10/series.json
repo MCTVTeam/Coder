@@ -1,7 +1,83 @@
 {
   "Series_Database": [
   
+
 {
+"movietitle": "Heartbeat",
+"description": "အပိုင်း ( ၁ မှ ၁၆) ထိ စ/ဆုံး\n\nဆွန်းအူဟျော(Ok Taec Yeon) ဆိုတာ တကယ်တော့ လူသွေးတွေသောက်ပြီး\n\nရှင်သန်နေရတဲ့သွေးစုပ်ဖုတ်ကောင်တစ်ဦး….ဒီဘဝကြီးကိုစက်ဆုတ်လွန်းတော့\n\nစစ်မှန်တဲ့လူသားဘဝကို အသွင်ပြောင်းဖို့ကြိုးစားနေတယ်….သူဟာ လူသားစင်စစ်ဖြစ်ဖို့\n\nနှစ်ပေါင်း ၁၀၀တိုင်အောင်ကြိုးစားခဲ့ပြီး ပြည့်ဖို့တစ်ရက်အလိုမှာပဲ\n\nမမျှော်လင့်ဘဲပြဿနာတစ်ရပ်နဲ့ကြုံခဲ့ရပါတယ်…\n\nလူသားတစ်ယောက်နီးပါးဖြစ်သွားပေမဲ့  တစ်ချို့ မကောင်းတဲ့အချက်တွေ\n\nကျန်သေးသလို အဲ့ဒီအချက်တွေကြောင့်ပဲ\n\nလူသားကမ္ဘာမှာနေထိုင်ဖို့ အတော်ဒုက္ခရောက်ရပါတော့တယ်…ဒီလိုနဲ့  လူသားတွေဆိုတာစက်ဆုတ်စရာလို\n\nမြင်နေတဲ့ ခပ်စွာစွာကောင်မလေးနဲ့ကြုံလာရတဲ့အခါမှာတော့…\n\nသူတို့ဘယ်လိုဆက်ဖြစ်ကြမလဲ…..သွေးစုပ်ဖုတ်ကောင်ကရော\n\nအရင်ရန်သူတွေထပ်ပေါ်လာဦးမလား..\n\nလက်ရှိလူသားဘဝမှာရော ဘယ်လိုစိန်ခေါ်မှုတွေကြုံတွေ့ရမလဲဆိုတာကတော့….\n\nHeartbeat (2023)ကို အပတ်စဉ် တနင်္လာနဲ့ အင်္ဂါနေ့မှာ ကြည့်ရှူလို့ ရတော့မှာပဲ ဖြစ်ပါတယ်ရှင်။",
+"series_cover_img": "http://zegomovie.com/Uploads/vod/2023-10-19/6530f0674a63d.png",
+"movie_img": "http://zegomovie.com/Uploads/vod/2023-10-19/6530f0674a63d.png",
+"year": "2023",
+"catagory": "Series",
+"studio": "Korea",
+"link": [
+{
+"ep_no": "Heartbeat_1",
+"link": "http://www.zegomovie.com/Videos/HeartbeatEp1/index.m3u8"
+},
+{
+"ep_no": "Heartbeat_2",
+"link": "http://www.zegomovie.com/Videos/HeartbeatEp2/index.m3u8"
+},
+{
+"ep_no": "Heartbeat_3",
+"link": "http://www.zegomovie.com/Videos/HeartbeatEp3/index.m3u8"
+},
+{
+"ep_no": "Heartbeat_4",
+"link": "http://www.zegomovie.com/Videos/HeartbeatEp4/index.m3u8"
+},
+{
+"ep_no": "Heartbeat_5",
+"link": "http://www.zegomovie.com/Videos/HeartbeatEp5/index.m3u8"
+},
+{
+"ep_no": "Heartbeat_6",
+"link": "http://www.zegomovie.com/Videos/HeartbeatEp6/index.m3u8"
+},
+{
+"ep_no": "Heartbeat_7",
+"link": "http://www.zegomovie.com/Videos/HeartbeatEp7/index.m3u8"
+},
+{
+"ep_no": "Heartbeat_8",
+"link": "http://www.zegomovie.com/Videos/HeartbeatEp8/index.m3u8"
+},
+{
+"ep_no": "Heartbeat_9",
+"link": "http://www.zegomovie.com/Videos/HeartbeatEp9/index.m3u8"
+},
+{
+"ep_no": "Heartbeat_10",
+"link": "http://www.zegomovie.com/Videos/HeartbeatEp10/index.m3u8"
+},
+{
+"ep_no": "Heartbeat_11",
+"link": "http://www.zegomovie.com/Videos/HeartbeatEp11/index.m3u8"
+},
+{
+"ep_no": "Heartbeat_12",
+"link": "http://www.zegomovie.com/Videos/HeartbeatEp12/index.m3u8"
+},
+{
+"ep_no": "Heartbeat_13",
+"link": "http://www.zegomovie.com/Videos/HeartbeatEp13/index.m3u8"
+},
+{
+"ep_no": "Heartbeat_14",
+"link": "http://www.zegomovie.com/Videos/HeartbeatEp14/index.m3u8"
+},
+{
+"ep_no": "Heartbeat_15",
+"link": "http://www.zegomovie.com/Videos/HeartbeatEp15/index.m3u8"
+},
+{
+"ep_no": "Heartbeat_16",
+"link": "http://www.zegomovie.com/Videos/HeartbeatEp16/index.m3u8"
+}
+]
+}
+,{
 "movietitle": "Hidden Identity",
 "description": "2015 ခုနှစ်ကထွက်ရှိခဲ့တဲ့ ကိုရီးယား ရဲစုံထောက်စီးရီးလေးကိုတင်ဆက်ပေးလိုက်ပါတယ်\n\nဇာတ်လမ်းလေးကတော့ အကြမ်းဖက်မှုတွေကို ဖန်တီးနေတဲ့ အကြမ်းဖက်သမားတွေကို\n\nလိုက်လံဖမ်းဆီးတာကို ရိုက်ကူးပြထားတာဖြစ်ပြီးတော့ ရဲနဲ့ လူဆိုး ဉာဏ်ပြိုင်ရပုံတွေ\n\nလူဆိုးက ရဲထက် တစ်ကွက်သာနေရင် ရဲတွေ အနေနဲ့ တိုင်ပတ်ရပုံတွေနဲ့\n\nထူးချွန်တဲ့ရဲဝန်ထမ်းကောင်းတွေက လူဆိုးတွေကို ရေကုန်ရေခမ်းလိုက်လံဖမ်းဆီးပုံတွေကို\n\nရိုက်ကူးတင်ဆက်ပြထားတာဖြစ်ပါတယ် စုစု ပေါင်း ၁၆ပိုင်းပါဝင်ပြီးတော့\n\nစုံထောက်အက်ရှင်ကားကိုကြိုက်နှစ်သက်သူတွေ လက်လွတ်မခံသင့်တဲ့\n\nစီးရီးလေးတစ်ခုဖြစ်ပါတယ်ဗျ",
 "series_cover_img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d635cf3b2c47.jpg",
