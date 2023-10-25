@@ -2,14 +2,75 @@
   "Series_Database": [
   
 
-
-
-
-
-
-
-
+    
 {
+"movietitle": "Untouchable",
+"description": "Untouchable",
+"series_cover_img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d635b06c7a92.jpg",
+"movie_img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d635b06c7a92.jpg",
+"year": "2017",
+"catagory": "Series",
+"studio": "Korea",
+"link": [
+{
+"ep_no": "Untouchable_1",
+"link": "http://www.zegomovie.com/Videos/UntouchableEp1/index.m3u8"
+},
+{
+"ep_no": "Untouchable_2",
+"link": "http://www.zegomovie.com/Videos/UntouchableEp2/index.m3u8"
+},
+{
+"ep_no": "Untouchable_3",
+"link": "http://www.zegomovie.com/Videos/UntouchableEp3/index.m3u8"
+},
+{
+"ep_no": "Untouchable_4",
+"link": "http://www.zegomovie.com/Videos/UntouchableEp4/index.m3u8"
+},
+{
+"ep_no": "Untouchable_5",
+"link": "http://www.zegomovie.com/Videos/UntouchableEp5/index.m3u8"
+},
+{
+"ep_no": "Untouchable_6",
+"link": "http://www.zegomovie.com/Videos/UntouchableEp6/index.m3u8"
+},
+{
+"ep_no": "Untouchable_7",
+"link": "http://www.zegomovie.com/Videos/UntouchableEp7/index.m3u8"
+},
+{
+"ep_no": "Untouchable_8",
+"link": "http://www.zegomovie.com/Videos/UntouchableEp8/index.m3u8"
+},
+{
+"ep_no": "Untouchable_9",
+"link": "http://www.zegomovie.com/Videos/UntouchableEp9/index.m3u8"
+},
+{
+"ep_no": "Untouchable_10",
+"link": "http://www.zegomovie.com/Videos/UntouchableEp10/index.m3u8"
+},
+{
+"ep_no": "Untouchable_11",
+"link": "http://www.zegomovie.com/Videos/UntouchableEp11/index.m3u8"
+},
+{
+"ep_no": "Untouchable_12",
+"link": "http://www.zegomovie.com/Videos/UntouchableEp12/index.m3u8"
+},
+{
+"ep_no": "Untouchable_13",
+"link": "http://www.zegomovie.com/Videos/UntouchableEp13/index.m3u8"
+},
+{
+"ep_no": "Untouchable_14",
+"link": "http://www.zegomovie.com/Videos/UntouchableEp14/index.m3u8"
+}
+]
+}
+,{
 "movietitle": "Twelve Nights ",
 "description": "Twelve Nights",
 "series_cover_img": "http://zegomovie.com/Uploads/vod/2019-08-21/5d5ccaa6d5b76.jpg",
