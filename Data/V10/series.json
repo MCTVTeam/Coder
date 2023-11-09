@@ -5,7 +5,59 @@
   
 
 
+
 {
+"movietitle": "My Dearest (SE 1)",
+"description": "ဒီဇာတ်လမ်းတွဲမှာတော့ မင်းသားကြီး NamKoong Minနဲ့ မကြာသေးခင်က\n\nလွှင့်ထားတဲ့  The Good Bad Mother ထဲက မင်းသမီး Ahn Eun Jin\n\nတို့က အဓိက ပါဝင်ထားပါတယ်….\n\nယူဂီချယ်ဆိုတဲ့ ကောင်မလေးက ချမ်းသာတဲ့မိသားစုကနေ ပေါက်ဖွားလာပြီး\n\nလိုတရနေတဲ့ဘဝမှာနေနေရတာဆိုတော့ မာနကြီးပြီး အရာအားလုံးအပေါ်\n\nအထင်သေးအမြင်သေးဆက်ဆံတတ်လေ့ရှိတယ်…\n\nအရာအားလုံးက သူမ အတွက် ရေကန်အသင့်ကြာအသင့်နေရတဲ့ဘဝဆိုတော့\n\nအပူအပင်လည်းမရှိရှာဘူးပေါ့..တစ်နေ့မှာတော့ ရာသီဉတုကပ်ဆိုးကြီးတစ်ခု\n\nဖြစ်ပေါ်လာတဲ့နောက် သူမ ဘဝအတွက်အလှည့်အပြောင်းတစ်ခုရှိလာပါတော့တယ်…\n\nအီဂျန်ဟွန်းဆိုတဲ့ အမျိုးသားကတော့ လျှို့ဝှက်တတ်တဲ့ လူတစ်ယောက်ဖြစ်ပြီး\n\nဘာကိုမှ အလေးမထားသလို စမ်းချောင်းကစမ်းရေသံလေးနားထောင်ရ\n\nမြက်ခင်းပြင်ပေါ်လမ်းလျှောက်ရ ရုံဖြင့် တခြားပိုင်ဆိုင်မှုတွေမရှိသော်ငြား\n\nဘဝကိုပြီးပြည့်စုံတယ်လို့ ထင်တဲ့သူတစ်ယောက်ပေါ့…သို့ပေမဲ့သူ့မှာ\n\nလူသိမခံတဲ့လျှို့ဝှက်ချက်များစွာလည်းရှိတဲ့သူတစ်ဦးပါ…\n\nအဲဒီနောက် မမျှော်လင့်ဘဲ ယူဂီချယ်ဆိုတဲ့ ဂုဏ်ရှင်မလေးနဲ့ တွေ့တဲ့အခါမှာတော့…\n\nဘာတွေဆက်ဖြစ်ကြမလဲ စောင့်ကြည့်ရအောင်နော်…..",
+"series_cover_img": "http://zegomovie.com/Uploads/vod/2023-11-07/6549c31b0748c.png",
+"movie_img": "http://zegomovie.com/Uploads/vod/2023-11-07/6549c31b0748c.png",
+"year": "2023",
+"catagory": "Series, history",
+"studio": "Korea",
+"link": [
+{
+"ep_no": "ep_1",
+"link": "http://www.zegomovie.com/Videos/MyDearestEp1/index.m3u8"
+},
+{
+"ep_no": "ep_2",
+"link": "http://www.zegomovie.com/Videos/MyDearestEp2/index.m3u8"
+},
+{
+"ep_no": "ep_3",
+"link": "http://www.zegomovie.com/Videos/MyDearestEp3/index.m3u8"
+},
+{
+"ep_no": "ep_4",
+"link": "http://www.zegomovie.com/Videos/MyDearestEp4/index.m3u8"
+},
+{
+"ep_no": "ep_5",
+"link": "http://www.zegomovie.com/Videos/MyDearestEp5/index.m3u8"
+},
+{
+"ep_no": "ep_6",
+"link": "http://www.zegomovie.com/Videos/MyDearestEp6/index.m3u8"
+},
+{
+"ep_no": "ep_7",
+"link": "http://www.zegomovie.com/Videos/MyDearestEp7/index.m3u8"
+},
+{
+"ep_no": "ep_8",
+"link": "http://www.zegomovie.com/Videos/MyDearestEp8/index.m3u8"
+},
+{
+"ep_no": "ep_9",
+"link": "http://www.zegomovie.com/Videos/MyDearestEp9/index.m3u8"
+},
+{
+"ep_no": "ep_10",
+"link": "http://www.zegomovie.com/Videos/MyDearestEp10/index.m3u8"
+}
+]
+}
+,{
 "movietitle": "Beautiful Gong Shim",
 "description": "Beautiful Gong Shim Korea Drama",
 "series_cover_img": "http://zegomovie.com/Uploads/vod/2019-08-20/5d5bcce67b440.jpg",
