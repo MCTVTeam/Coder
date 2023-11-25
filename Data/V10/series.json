@@ -1,16 +1,67 @@
 {
     "Series_Database": [
-  
-        
-  
-
-
-
-
-
 
 
 {
+"movietitle": "Race",
+"description": "Race အညွှန်း\nPark Yoon-Zo (Lee Yeon-Hee) ကတော့ ပညာရေးနောက်ခံသိပ်မရှိတဲ့ သာမန် အမျိုးသမီးငယ်လေးတစ်ယောက်ဖြစ်ပါတယ်။ သူနဲ့ ဆန့်ကျင်ဘက်စိတ်နေသဘောထားရှိပြီး ထက်မြက်တဲ့ သူငယ်ချင်း Ryu Jae-Min (Hong Jong-Hyun)အလုပ်လုပ်တဲ့ ကုမ္ပဏီကြီးတစ်ခုမှာ PR Department ပိုင်းအတွက် ခန့်အပ်ခြင်းခံလိုက်ရတဲ့အခါမှာတော့…\n\nPR ပိုင်းဆိုင်ရာမှာ ကျွမ်းကျင်တဲ့ Ku Yi-Jung (Moon So-Ri) နဲ့ အတူအလုပ်လုပ်ပြီး ပညာအရည်အချင်းဆိုတဲ့ ကန့်သတ်မျဉ်းတွေကို ဖြတ်ကျော်ကာ ရုန်းကန်ကြိုးစားရင်း ကုမ္ပဏီဝန်ထမ်းကောင်းတစ်ယောက်အဖြစ် Yoon-Zo တစ်ယောက် တိုးတက်လာတာကို မြင်ရမှာဖြစ်ပါတယ်။\nWelcome to Wedding Hell နဲ့ ပရိတ်သတ်ကြီးနှစ်သက်သဘောကျခဲ့ရတဲ့ မင်းသမီး Lee Yeon-Hee နဲ့အတူ Moon Lover ထဲက Wang Yo တဖြစ် မင်းသားချော (Hong Jong-Hyun)တို့က အဓိကပါဝင်သရုပ်ဆောင်ထားပြီး\nကိုယ်ပိုင်အမြင် အတွေးအခေါ်တွေကို ထုတ်ဖော်ပြသတာ သဘောကျတတ်တဲ့ PR အေဂျင်စီရဲ့ CEO Seo Dong-Hoon အဖြစ် K-pop group TVXQ (DBSK)member (U-Know Yunho)ကလည်း ပါဝင်သရုပ်ဆောင်ထားပါတယ်။\n\nFemale Mainlead ကားလေးဖြစ်ပြီး အမျိုးသမီးတွေရဲ့ လုပ်ကိုင်နိုင်စွမ်းကိုတင်စားပြသထားသလို ပညာအရည်အချင်းနောက်ခံတွေမလိုဘဲ ကြိုးစားရင်ဘာမဆိုဖြစ်နိုင်တယ်ဆိုတဲ့ သင်ခန်းစာ လေးပါရနိုင်တာမို့ ရုံးတွင်းဆက်ဆံရေးတွေ PR,Marketing ပိုင်းစိတ်ဝင်စားတဲ့သူတွေအတွက် ကွက်တိ ‘Race’ ဆိုတဲ့ ဒီ business romance ကားလေးကို အပတ်စဉ် ဗုဒ္ဓဟူးနေ့တိုင်း CM က တင်ဆက်ပေးသွားမှာဖြစ်လို့ စောင့်မျှော်ကြည့်ရှုပေးကြပါဦးရှင်။\n",
+"series_cover_img": "http://zegomovie.com/Uploads/vod/2023-11-22/655d7828225de.png",
+"movie_img": "http://zegomovie.com/Uploads/vod/2023-11-22/655d7828225de.png",
+"year": "2023",
+"catagory": "drama",
+"studio": "Korea",
+"link": [
+{
+"ep_no": "ep_1",
+"link": "http://www.zegomovie.com/Videos/RaceEp1/index.m3u8"
+},
+{
+"ep_no": "ep_2",
+"link": "http://www.zegomovie.com/Videos/RaceEp2/index.m3u8"
+},
+{
+"ep_no": "ep_3",
+"link": "http://www.zegomovie.com/Videos/RaceEp3/index.m3u8"
+},
+{
+"ep_no": "ep_4",
+"link": "http://www.zegomovie.com/Videos/RaceEp4/index.m3u8"
+},
+{
+"ep_no": "ep_5",
+"link": "http://www.zegomovie.com/Videos/RaceEp5/index.m3u8"
+},
+{
+"ep_no": "ep_6",
+"link": "http://www.zegomovie.com/Videos/RaceEp6/index.m3u8"
+},
+{
+"ep_no": "ep_7",
+"link": "http://www.zegomovie.com/Videos/RaceEp7/index.m3u8"
+},
+{
+"ep_no": "ep_8",
+"link": "http://www.zegomovie.com/Videos/RaceEp8/index.m3u8"
+},
+{
+"ep_no": "ep_9",
+"link": "http://www.zegomovie.com/Videos/RaceEp9/index.m3u8"
+},
+{
+"ep_no": "ep_10",
+"link": "http://www.zegomovie.com/Videos/RaceEp10/index.m3u8"
+},
+{
+"ep_no": "ep_11",
+"link": "http://www.zegomovie.com/Videos/RaceEp11/index.m3u8"
+},
+{
+"ep_no": "ep_12",
+"link": "http://www.zegomovie.com/Videos/RaceEp12/index.m3u8"
+}
+]
+}
+,{
 "movietitle": "Daily Dose of Sunshine",
 "description": "အပိုင်း ( ၁ မှ ၁၂) ထိ စ/ဆုံး\nAll of Us Are Dead” ရဲ့ပဲ့ကိုင်ရှင် ဒါရိုက်တာ Lee Jae Kyu ရဲ့လက်ရာအသစ်ဖြစ်ပြီး\n\n“All of Us Are Dead” နဲ့မတူကွဲပြားပြီး ရယ်လည်းရယ်ရ ငိုလည်းငိုရမယ့် healing ဒရာမာလေးပဲဖြစ်ပါတယ်။\n\nCast တွေအနေနဲ့လည်း Park Bo Young, Yeon Woon Jin, Jang Dong Yoon နဲ့ Lee Jung Eun တို့က\n\nအဓိကပါဝင်သွားမှာဖြစ်သလို စုစုပေါင်းအပိုင်း ၁၂ ပိုင်းပါဝင်မှာပဲဖြစ်ပါတယ်။\n\nအရင်က ကိုယ်တွင်းအင်္ဂါကုဌာနမှာပဲလုပ်ခဲ့ဖူးတဲ့ သူနာပြုဆရာမလေး Jung Da Eun ..\n\nတစ်နေ့မှာတော့ မြောင်ရှင်းတက္ကသိုလ်ဆေးရုံက စိတ်ရောဂါကုဌာနဆီ ပြောင်းရွှေ့ခံလိုက်ရပါတော့တယ်။ ပ\n\nထမဆုံးအတွေ့အကြုံလည်းဖြစ်သလို သာမန်ဝေဒနာရှင်တွေလိုမျိုး ကိုယ်ခံစားနေရတဲ့ဝေဒနာကို\n\nသေချာမပြောပြနိုင်ကြတဲ့လူနာတွေနဲ့ကြုံတွေ့လာရတဲ့အခါ ဘယ်လိုအလွဲတွေ အမွှေတွေဖြစ်ဦးမလဲ ..။\n\n“အရိုးကျိုးရင် အရိုးအထူးကုဆီသွားပြကြပြီး အအေးမိရင် ဆေးသောက်လိုက်ကြပေမယ့် စိ\n\nတ်ပိုင်းဆိုင်ရာနာမကျန်းဖြစ်တဲ့အခါမှာတော့ လူတော်တော်များများက ကိုယ့်ပင်ပန်းမှုတွေကိုထုတ်ပြောပြီး\n\nအကူအညီမတောင်းတတ်ကြသလို ဆေးကုသမှုခံယူဖို့လည်း သတိမရတတ်ကြပါဘူး။\n\nတစ်စုံတစ်ယောက်ရဲ့အကူအညီကိုရယူတာက တကယ့်ကိုကောင်းမွန်တဲ့အရာဖြစ်ကြောင်းပြချင်လို့\n\nဒီကားလေးကိုရိုက်ကူးဖြစ်ခဲ့တာပါ” ဆိုတဲ့ ဒါရိုက်တာကြီးရဲ့ပြောစကားအရ စိတ်ဝေဒနာရှင်တွေကို\n\nဖေးမကူညီပေးသွားကြမယ့် မြောင်ရှင်းတက္ကသိုလ် စိတ်ရောဂါကုဌာနကဆရာဝန်တွေ နဲ့\n\nသူနာပြုတွေရဲ့နွေးထွေးကြင်နာမှုတွေကို တွေ့မြင်ရမယ့် ဇာတ်ကားကောင်းလေးပဲဖြစ်ပါတယ်။\n\nဇာတ်လမ်းတွဲအညွှန်းကိုတော့ Lai Laii မှရေးသားပေးထားပါတယ်….\n\n",
 "series_cover_img": "http://zegomovie.com/Uploads/vod/2023-11-22/655ddd50f0c87.png",
