@@ -1,13 +1,17 @@
 {
   "Movies_Database": [
     
-
-
-
-
-
-
 {
+"movietitle": "Time Cop",
+"description": "ဒီဇာတ်ကားလေးကတော့ လူတိုင်းသိကြတဲ့ ရုပ်ရှင်မင်းသားကြီး ဗန်ဒိမ်း ငယ်ရွယ်စဉ်က ရိုက်ကူးထားတဲ့ သည်းထိတ်ရင်ဖို အက်ရှင် ဇာတ်ကြမ်းကားလေးပဲဖြစ်ပါတယ်\nအက်ရှင်ကားတွေကို ကြိုက်နှစ်သက်သူတွေ သိပ္ပံကားတွေ ကြိုက်နှစ်သက်သူတွေ လက်မလွှတ်သင့်တဲ့ဇာတ်ကားလေးပဲဖြစ်ပါတယ်\nဇာတ်လမ်းလေးကတော့ လူသားမျိုးနွယ်တွေ အချိန်ခရီးသွားခြင်းကို တီထွင်နိုင်တော့ အစိုးရက မသမာမှုတွေကို ကာကွယ်ဖို့ အေဂျင်စီ တစ်ခုကို ဖွဲ့စည်းခဲ့ပါတယ်\nအေဂျင်စီဖွဲ့တော့ ဗန်ဒိမ်း ပါဝင်ခဲ့ရပြီး မသမာမှုတွေကို တိုက်ခိုက်ရင်း ရှာဖွေတွေ့ရှိလာတဲ့ အမှန်တရားတွေကနေ သူချစ်ရတဲ့သူတွေကို ကာကွယ်ဖို့ ကြိုးစားတဲ့အကြောင်းကို သည်းထိတ်ရင်ဖို ရင် တလှပ်လှပ်နဲ့ ကြည့်ရမှာပဲဖြစ်ပါတယ်",
+"movie_cover_img": "http://zegomovie.com/Uploads/vod/2023-03-19/64168150073b3.png",
+"movie_img": "http://zegomovie.com/Uploads/vod/2023-03-19/64168150073b3.png",
+"link": "http://www.zegomovie.com/Videos/Timecop/index.m3u8",
+"year": "1994",
+"catagory": "crime",
+"studio": "USA"
+}
+,{
 "movietitle": "Some Where in Time",
 "description": "\"Somewhere in Time\" is a romantic science fiction film directed by Jeannot Szwarc and released in 1980. The movie is based on the novel \"Bid Time Return\" by Richard Matheson. Here's a brief description:\n\nThe story revolves around a young playwright named Richard Collier, played by Christopher Reeve, who becomes enchanted by a photograph of a beautiful actress, Elise McKenna, portrayed by Jane Seymour, from the early 20th century. Determined to meet her, he discovers a way to time travel back to the year 1912. As Richard navigates the challenges of the past, he seeks to connect with Elise and faces the complications that arise from the barriers of time.\n\n\"Somewhere in Time\" is celebrated for its romantic and emotional themes, as well as its beautiful score composed by John Barry. The film has gained a cult following over the years, especially among fans of romantic dramas and time travel stories.",
 "movie_cover_img": "http://zegomovie.com/Uploads/vod/2023-07-20/64b8bc1f7e86b.png",
