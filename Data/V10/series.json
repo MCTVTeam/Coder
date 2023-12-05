@@ -5,7 +5,51 @@
 
 
 
+
 {
+"movietitle": "SF8",
+"description": "SF8",
+"series_cover_img": "http://zegomovie.com/Uploads/vod/2023-11-18/65588808723b9.png",
+"movie_img": "http://zegomovie.com/Uploads/vod/2023-11-18/65588808723b9.png",
+"year": "2020",
+"catagory": "Series, drama, comedy",
+"studio": "Korea",
+"link": [
+{
+"ep_no": "ep_1",
+"link": "http://www.zegomovie.com/Videos/SF8Ep1/index.m3u8"
+},
+{
+"ep_no": "ep_2",
+"link": "http://www.zegomovie.com/Videos/SF8Ep2/index.m3u8"
+},
+{
+"ep_no": "ep_3",
+"link": "http://www.zegomovie.com/Videos/SF8Ep3/index.m3u8"
+},
+{
+"ep_no": "ep_4",
+"link": "http://www.zegomovie.com/Videos/SF8Ep4/index.m3u8"
+},
+{
+"ep_no": "ep_5",
+"link": "http://www.zegomovie.com/Videos/SF8Ep5/index.m3u8"
+},
+{
+"ep_no": "ep_6",
+"link": "http://www.zegomovie.com/Videos/SF8Ep6/index.m3u8"
+},
+{
+"ep_no": "ep_7",
+"link": "http://www.zegomovie.com/Videos/SF8Ep7/index.m3u8"
+},
+{
+"ep_no": "ep_8",
+"link": "http://www.zegomovie.com/Videos/SF8Ep8/index.m3u8"
+}
+]
+}
+,{
 "movietitle": "Hawkeye",
 "description": "အားလုံးစောင့်နေတဲ့ စီးရီးအသစ်တစ်ခုလာပါပြီ။ မာဗယ်အဗန်ဂျာ ဟော့ခ်အိုင်းပါပဲ။\n\nစုစုပေါင်း ၆ ပိုင်း ရှိပြီး အခုအပတ် ၂ ပိုင်း နောက်အပတ်စဉ် တစ်ပိုင်းဆီ တင်ဆက်သွားမှာပါ။\n\n720p ရော 1080p ရော ရပါမယ်။ လူဝင်အရမ်းများပြီး ဝဘ်ဆိုက်လေးနေလို့\n\nerror ပြရင် ခဏခဏ refresh လုပ်ပေးရင်ရပါတယ်။\n\nဒီဇာတ်လမ်းကတော့ Endgame အပြီးကာလကို ဇာတ်အိမ်တည်ထားတာဖြစ်ပါတယ်။\n\nဟော့ခ်အိုင်းတစ်ယောက် မိသားစုနဲ့ကလေးတွေနဲ့ ပျော်ပျော်ရွှင်ရွှင်အနားယူနေချိန်၊\n\nနယူးယောက်မြို့ရဲ့ လေလံပွဲကြီးတစ်ခုမှာ နှစ်ပေါင်းအတော်ကြာ ပျောက်ကွယ်နေတဲ့၊\n\nဒုစရိုက်ဂိုဏ်းတွေကို ရက်ရက်စက်စက် နှိမ်နင်းခဲ့တဲ့ ရိုနင်ရဲ့ ဝတ်စုံနဲ့ ဓားကိုလေလံဆွဲနေချိန်မှ\n\nာ ပေါက်ကွဲမှုကြီးတစ်ခုဖြစ်ပြီး လူဆိုးဂိုဏ်းတွေနဲ့ အရှုပ်အထွေးတွေ ဖြစ်လာတဲ့အခါ\n\nဟော့ခ်အိုင်းတစ်ယောက် မျိုးဆက်သစ် လေးသည်တော်လေးနဲ့အတူ စွန့်စားခန်းတွေ ဖွင့်ရပါတော့တယ်။",
 "series_cover_img": "http://zegomovie.com/Uploads/vod/2023-09-19/650931b95ed77.png",
