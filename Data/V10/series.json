@@ -5,7 +5,83 @@
 
 
 
+
 {
+"movietitle": "Oh My Venus",
+"description": "Oh My Venus",
+"series_cover_img": "http://zegomovie.com/Uploads/vod/2019-08-21/5d5ccc48dce5f.jpg",
+"movie_img": "http://zegomovie.com/Uploads/vod/2019-08-21/5d5ccc48dce5f.jpg",
+"year": "2015",
+"catagory": "Comedy, Drama, Romance",
+"studio": "Korea",
+"link": [
+{
+"ep_no": "ep_1",
+"link": "http://www.zegomovie.com/Videos/OhMyVenusE1/index.m3u8"
+},
+{
+"ep_no": "ep_2",
+"link": "http://www.zegomovie.com/Videos/OhMyVenusE2/index.m3u8"
+},
+{
+"ep_no": "ep_3",
+"link": "http://www.zegomovie.com/Videos/OhMyVenusE3/index.m3u8"
+},
+{
+"ep_no": "ep_4",
+"link": "http://www.zegomovie.com/Videos/OhMyVenusE4/index.m3u8"
+},
+{
+"ep_no": "ep_5",
+"link": "http://www.zegomovie.com/Videos/OhMyVenusE5/index.m3u8"
+},
+{
+"ep_no": "ep_6",
+"link": "http://www.zegomovie.com/Videos/OhMyVenusE6/index.m3u8"
+},
+{
+"ep_no": "ep_7",
+"link": "http://www.zegomovie.com/Videos/OhMyVenusE7/index.m3u8"
+},
+{
+"ep_no": "ep_8",
+"link": "http://www.zegomovie.com/Videos/OhMyVenusE8/index.m3u8"
+},
+{
+"ep_no": "ep_9",
+"link": "http://www.zegomovie.com/Videos/OhMyVenusE9/index.m3u8"
+},
+{
+"ep_no": "ep_10",
+"link": "http://www.zegomovie.com/Videos/OhMyVenusE10/index.m3u8"
+},
+{
+"ep_no": "ep_11",
+"link": "http://www.zegomovie.com/Videos/OhMyVenusE11/index.m3u8"
+},
+{
+"ep_no": "ep_12",
+"link": "http://www.zegomovie.com/Videos/OhMyVenusE12/index.m3u8"
+},
+{
+"ep_no": "ep_13",
+"link": "http://www.zegomovie.com/Videos/OhMyVenusE13/index.m3u8"
+},
+{
+"ep_no": "ep_14",
+"link": "http://www.zegomovie.com/Videos/OhMyVenusE14/index.m3u8"
+},
+{
+"ep_no": "ep_15",
+"link": "http://www.zegomovie.com/Videos/OhMyVenusE15/index.m3u8"
+},
+{
+"ep_no": "ep_16",
+"link": "http://www.zegomovie.com/Videos/OhMyVenusE16/index.m3u8"
+}
+]
+}
+,{
 "movietitle": "Wise Prison Life",
 "description": "Wise Prison Life",
 "series_cover_img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d635a47ebcda.jpg",
